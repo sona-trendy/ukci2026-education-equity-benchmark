@@ -1,0 +1,18 @@
+\begin{table}[htbp]
+\centering
+\caption{Task A — Outcome prediction baseline results. RMSE and MAE in percentage points. Temporal split: train 2015--2021, test 2022--2024. LOCO: mean over 12 held-out-country folds.}
+\label{tab:taskA}
+\begin{tabular}{lrrrrrr}
+\toprule
+Model & \multicolumn{3}{c}{Temporal} & \multicolumn{3}{c}{LOCO (mean)} \\
+\cmidrule(lr){2-4}\cmidrule(lr){5-7}
+& RMSE & MAE & R$^2$ & RMSE & MAE & R$^2$ \\
+\midrule
+Naive_LastObs & 16.823 & 7.035 & 0.160 & 27.625 & 26.310 & -267.979 \\
+Naive_Mean & 19.483 & 10.911 & -0.127 & 17.038 & 14.005 & -22.776 \\
+RandomForest & 22.778 & 14.646 & -0.541 & 18.076 & 15.289 & -46.153 \\
+Ridge & 24.613 & 16.609 & -0.799 & 25.350 & 22.591 & -137.285 \\
+XGBoost & 25.514 & 15.865 & -0.933 & 21.899 & 18.381 & -49.961 \\
+\bottomrule
+\end{tabular}
+\end{table}

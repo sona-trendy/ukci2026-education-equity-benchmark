@@ -1,0 +1,5 @@
+estimator,ate,ate_lower,ate_upper,note
+NaiveOLS,-0.7313,,,Confounded; no causal adjustment
+FixedEffects,2.5403,-3.72,7.7513,"Within-country FE (demeaned), bootstrap 95% CI"
+LinearDML,1.919,-2.7561,6.5941,DML with Ridge nuisance; 5-fold CV; 95% CI
+CausalForestDML,1.3892,-3.1737,5.9522,CausalForest CATE; 5-fold CV; 95% CI

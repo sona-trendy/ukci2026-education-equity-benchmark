@@ -1,0 +1,96 @@
+iso3c,country,income_group,year,cate,label
+BDI,Burundi,Low income,2016,1.9052566813591767,DL
+BDI,Burundi,Low income,2017,0.9324321732887014,DL
+BDI,Burundi,Low income,2018,2.0299708352006665,DL
+BDI,Burundi,Low income,2019,2.060717148785373,DL
+BDI,Burundi,Low income,2020,3.1695659788172392,DL
+BFA,Burkina Faso,Low income,2016,0.9812232737761911,EE
+BFA,Burkina Faso,Low income,2017,0.8692891216679773,EE
+BFA,Burkina Faso,Low income,2018,0.8281947420821373,EE
+BFA,Burkina Faso,Low income,2019,0.9116511296786074,EE
+BFA,Burkina Faso,Low income,2020,2.1047527462856332,EE
+BFA,Burkina Faso,Low income,2021,2.558659387670909,EE
+BFA,Burkina Faso,Low income,2022,3.4434600074465984,EE
+BFA,Burkina Faso,Low income,2023,3.350177164634804,EE
+BGD,Bangladesh,Lower middle income,2016,4.911592341116144,EE
+BGD,Bangladesh,Lower middle income,2017,4.295376217091173,EE
+BGD,Bangladesh,Lower middle income,2018,4.517841983024558,EE
+BGD,Bangladesh,Lower middle income,2019,4.592916545269077,EE
+BGD,Bangladesh,Lower middle income,2020,4.8496626364731785,EE
+BGD,Bangladesh,Lower middle income,2021,4.482522043353778,EE
+BGD,Bangladesh,Lower middle income,2022,4.447604510827017,EE
+BGD,Bangladesh,Lower middle income,2023,4.4455665822657755,EE
+BGD,Bangladesh,Lower middle income,2024,4.353082247439871,EE
+CRI,Costa Rica,High income,2016,-0.21914098642293406,EE
+CRI,Costa Rica,High income,2017,-0.10153471538796176,EE
+CRI,Costa Rica,High income,2018,-0.048366808646640044,EE
+CRI,Costa Rica,High income,2019,-0.0608528585323207,EE
+CRI,Costa Rica,High income,2020,-0.17386171878883178,EE
+CRI,Costa Rica,High income,2021,-0.4366103839247978,EE
+CRI,Costa Rica,High income,2022,-0.3119444414656725,EE
+CRI,Costa Rica,High income,2023,-0.06311894977453895,EE
+ESP,Spain,High income,2016,0.7356881173635066,EE
+ESP,Spain,High income,2017,0.8905575230829018,EE
+ESP,Spain,High income,2018,1.3611243809258888,EE
+ESP,Spain,High income,2019,1.3225729710261034,EE
+ESP,Spain,High income,2020,1.4954335264498066,EE
+ESP,Spain,High income,2021,1.2128091619735741,EE
+ESP,Spain,High income,2022,1.563763680092778,EE
+GEO,Georgia,Upper middle income,2016,-0.2661847466879955,EE
+GEO,Georgia,Upper middle income,2017,0.027847875275497827,EE
+GEO,Georgia,Upper middle income,2018,0.13378236011310832,EE
+GEO,Georgia,Upper middle income,2019,0.5086365791636775,EE
+GEO,Georgia,Upper middle income,2020,0.6485149009614011,EE
+GEO,Georgia,Upper middle income,2021,1.0438066271442505,EE
+GEO,Georgia,Upper middle income,2022,1.2065984107716514,EE
+GEO,Georgia,Upper middle income,2023,1.551105462276989,EE
+GEO,Georgia,Upper middle income,2024,1.1246875003363286,EE
+IDN,Indonesia,Upper middle income,2016,0.05805234998963984,EE
+IDN,Indonesia,Upper middle income,2017,-0.4833034699783758,EE
+IDN,Indonesia,Upper middle income,2018,-0.27480432542611194,EE
+IDN,Indonesia,Upper middle income,2019,-0.5848809744962705,EE
+IDN,Indonesia,Upper middle income,2020,-0.26709692979453986,EE
+IDN,Indonesia,Upper middle income,2021,-0.30393497406350695,EE
+IDN,Indonesia,Upper middle income,2022,0.44896433656936197,EE
+IDN,Indonesia,Upper middle income,2023,1.1687614114309475,EE
+KGZ,Kyrgyz Republic,Lower middle income,2016,2.930146237077304,EE
+KGZ,Kyrgyz Republic,Lower middle income,2017,2.989503090121413,EE
+KGZ,Kyrgyz Republic,Lower middle income,2018,3.1883366842551037,EE
+KGZ,Kyrgyz Republic,Lower middle income,2019,3.010530096926039,EE
+KGZ,Kyrgyz Republic,Lower middle income,2020,3.1452320829097444,EE
+KGZ,Kyrgyz Republic,Lower middle income,2021,2.8971401222338304,EE
+KGZ,Kyrgyz Republic,Lower middle income,2022,3.028489177549032,EE
+KGZ,Kyrgyz Republic,Lower middle income,2023,3.0368151326491133,EE
+RWA,Rwanda,Low income,2016,1.432383257507079,IR
+RWA,Rwanda,Low income,2017,-0.20403378907277586,IR
+RWA,Rwanda,Low income,2018,-0.7973870826235695,IR
+RWA,Rwanda,Low income,2019,-0.3761165416305087,IR
+RWA,Rwanda,Low income,2020,-0.49975936904761875,IR
+RWA,Rwanda,Low income,2021,-1.0648392701559424,IR
+RWA,Rwanda,Low income,2022,-1.0339763171584075,IR
+RWA,Rwanda,Low income,2023,-0.87971225190816,IR
+RWA,Rwanda,Low income,2024,-0.49944037676956177,IR
+THA,Thailand,Upper middle income,2016,0.2111070517349245,IR
+THA,Thailand,Upper middle income,2017,0.2492675268891599,IR
+THA,Thailand,Upper middle income,2018,2.14259224235398,IR
+THA,Thailand,Upper middle income,2019,2.14865208312325,IR
+THA,Thailand,Upper middle income,2020,0.07135554875589618,IR
+THA,Thailand,Upper middle income,2021,0.007226328970168109,IR
+THA,Thailand,Upper middle income,2022,0.12645937329622048,IR
+THA,Thailand,Upper middle income,2023,0.5201121258039971,IR
+URY,Uruguay,High income,2016,0.7849362697765122,AE
+URY,Uruguay,High income,2017,0.8259767239853079,AE
+URY,Uruguay,High income,2018,0.8951687146328859,AE
+URY,Uruguay,High income,2019,3.137974340300115,AE
+URY,Uruguay,High income,2020,0.9728216452697898,AE
+URY,Uruguay,High income,2021,0.5775502538333724,AE
+URY,Uruguay,High income,2022,0.5302929308307074,AE
+URY,Uruguay,High income,2023,0.3918866071565349,AE
+UZB,Uzbekistan,Lower middle income,2016,2.389158368670638,AE
+UZB,Uzbekistan,Lower middle income,2017,2.420004668884668,AE
+UZB,Uzbekistan,Lower middle income,2018,2.521604409999712,AE
+UZB,Uzbekistan,Lower middle income,2019,2.4509295283404215,AE
+UZB,Uzbekistan,Lower middle income,2020,2.6184048648611844,AE
+UZB,Uzbekistan,Lower middle income,2021,2.77155894801783,AE
+UZB,Uzbekistan,Lower middle income,2022,1.7555496541801587,AE
+UZB,Uzbekistan,Lower middle income,2023,2.204997840646883,AE

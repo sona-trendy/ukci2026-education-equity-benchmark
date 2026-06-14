@@ -1,0 +1,3690 @@
+iso3c,country,income_group,nice,years_available,coverage_share
+ASM,American Samoa,High income,adult_literacy,0,0.0
+ASM,American Samoa,High income,ctrl_corrup,0,0.0
+ASM,American Samoa,High income,edu_spend_gdp,0,0.0
+ASM,American Samoa,High income,gdp_pc_ppp,0,0.0
+ASM,American Samoa,High income,gini,0,0.0
+ASM,American Samoa,High income,gov_effect,0,0.0
+ASM,American Samoa,High income,gpi_sec,0,0.0
+ASM,American Samoa,High income,gpi_tert,0,0.0
+ASM,American Samoa,High income,inc_share_low20,0,0.0
+ASM,American Samoa,High income,pop_total,10,1.0
+ASM,American Samoa,High income,poverty_215,0,0.0
+ASM,American Samoa,High income,sec_completion,0,0.0
+ASM,American Samoa,High income,sec_enrol_gross,0,0.0
+ASM,American Samoa,High income,tert_enrol_gross,0,0.0
+ASM,American Samoa,High income,voice_account,0,0.0
+ASM,American Samoa,High income,work_age_share,10,1.0
+ASM,American Samoa,High income,youth_literacy,0,0.0
+AND,Andorra,High income,adult_literacy,0,0.0
+AND,Andorra,High income,ctrl_corrup,9,0.9
+AND,Andorra,High income,edu_spend_gdp,9,0.9
+AND,Andorra,High income,gdp_pc_ppp,10,1.0
+AND,Andorra,High income,gini,0,0.0
+AND,Andorra,High income,gov_effect,9,0.9
+AND,Andorra,High income,gpi_sec,10,1.0
+AND,Andorra,High income,gpi_tert,10,1.0
+AND,Andorra,High income,inc_share_low20,0,0.0
+AND,Andorra,High income,pop_total,10,1.0
+AND,Andorra,High income,poverty_215,0,0.0
+AND,Andorra,High income,sec_completion,10,1.0
+AND,Andorra,High income,sec_enrol_gross,10,1.0
+AND,Andorra,High income,tert_enrol_gross,10,1.0
+AND,Andorra,High income,voice_account,9,0.9
+AND,Andorra,High income,work_age_share,10,1.0
+AND,Andorra,High income,youth_literacy,0,0.0
+ATG,Antigua and Barbuda,High income,adult_literacy,0,0.0
+ATG,Antigua and Barbuda,High income,ctrl_corrup,9,0.9
+ATG,Antigua and Barbuda,High income,edu_spend_gdp,9,0.9
+ATG,Antigua and Barbuda,High income,gdp_pc_ppp,10,1.0
+ATG,Antigua and Barbuda,High income,gini,0,0.0
+ATG,Antigua and Barbuda,High income,gov_effect,9,0.9
+ATG,Antigua and Barbuda,High income,gpi_sec,3,0.3
+ATG,Antigua and Barbuda,High income,gpi_tert,5,0.5
+ATG,Antigua and Barbuda,High income,inc_share_low20,0,0.0
+ATG,Antigua and Barbuda,High income,pop_total,10,1.0
+ATG,Antigua and Barbuda,High income,poverty_215,0,0.0
+ATG,Antigua and Barbuda,High income,sec_completion,6,0.6
+ATG,Antigua and Barbuda,High income,sec_enrol_gross,7,0.7
+ATG,Antigua and Barbuda,High income,tert_enrol_gross,0,0.0
+ATG,Antigua and Barbuda,High income,voice_account,9,0.9
+ATG,Antigua and Barbuda,High income,work_age_share,10,1.0
+ATG,Antigua and Barbuda,High income,youth_literacy,0,0.0
+ABW,Aruba,High income,adult_literacy,0,0.0
+ABW,Aruba,High income,ctrl_corrup,0,0.0
+ABW,Aruba,High income,edu_spend_gdp,6,0.6
+ABW,Aruba,High income,gdp_pc_ppp,10,1.0
+ABW,Aruba,High income,gini,0,0.0
+ABW,Aruba,High income,gov_effect,0,0.0
+ABW,Aruba,High income,gpi_sec,0,0.0
+ABW,Aruba,High income,gpi_tert,8,0.8
+ABW,Aruba,High income,inc_share_low20,0,0.0
+ABW,Aruba,High income,pop_total,10,1.0
+ABW,Aruba,High income,poverty_215,0,0.0
+ABW,Aruba,High income,sec_completion,5,0.5
+ABW,Aruba,High income,sec_enrol_gross,6,0.6
+ABW,Aruba,High income,tert_enrol_gross,3,0.3
+ABW,Aruba,High income,voice_account,0,0.0
+ABW,Aruba,High income,work_age_share,10,1.0
+ABW,Aruba,High income,youth_literacy,0,0.0
+AUS,Australia,High income,adult_literacy,0,0.0
+AUS,Australia,High income,ctrl_corrup,9,0.9
+AUS,Australia,High income,edu_spend_gdp,3,0.3
+AUS,Australia,High income,gdp_pc_ppp,10,1.0
+AUS,Australia,High income,gini,3,0.3
+AUS,Australia,High income,gov_effect,9,0.9
+AUS,Australia,High income,gpi_sec,10,1.0
+AUS,Australia,High income,gpi_tert,10,1.0
+AUS,Australia,High income,inc_share_low20,3,0.3
+AUS,Australia,High income,pop_total,10,1.0
+AUS,Australia,High income,poverty_215,3,0.3
+AUS,Australia,High income,sec_completion,0,0.0
+AUS,Australia,High income,sec_enrol_gross,10,1.0
+AUS,Australia,High income,tert_enrol_gross,10,1.0
+AUS,Australia,High income,voice_account,9,0.9
+AUS,Australia,High income,work_age_share,10,1.0
+AUS,Australia,High income,youth_literacy,0,0.0
+AUT,Austria,High income,adult_literacy,0,0.0
+AUT,Austria,High income,ctrl_corrup,9,0.9
+AUT,Austria,High income,edu_spend_gdp,8,0.8
+AUT,Austria,High income,gdp_pc_ppp,10,1.0
+AUT,Austria,High income,gini,9,0.9
+AUT,Austria,High income,gov_effect,9,0.9
+AUT,Austria,High income,gpi_sec,10,1.0
+AUT,Austria,High income,gpi_tert,10,1.0
+AUT,Austria,High income,inc_share_low20,9,0.9
+AUT,Austria,High income,pop_total,10,1.0
+AUT,Austria,High income,poverty_215,9,0.9
+AUT,Austria,High income,sec_completion,10,1.0
+AUT,Austria,High income,sec_enrol_gross,10,1.0
+AUT,Austria,High income,tert_enrol_gross,10,1.0
+AUT,Austria,High income,voice_account,9,0.9
+AUT,Austria,High income,work_age_share,10,1.0
+AUT,Austria,High income,youth_literacy,0,0.0
+BHS,"Bahamas, The",High income,adult_literacy,0,0.0
+BHS,"Bahamas, The",High income,ctrl_corrup,9,0.9
+BHS,"Bahamas, The",High income,edu_spend_gdp,9,0.9
+BHS,"Bahamas, The",High income,gdp_pc_ppp,10,1.0
+BHS,"Bahamas, The",High income,gini,0,0.0
+BHS,"Bahamas, The",High income,gov_effect,9,0.9
+BHS,"Bahamas, The",High income,gpi_sec,6,0.6
+BHS,"Bahamas, The",High income,gpi_tert,8,0.8
+BHS,"Bahamas, The",High income,inc_share_low20,0,0.0
+BHS,"Bahamas, The",High income,pop_total,10,1.0
+BHS,"Bahamas, The",High income,poverty_215,0,0.0
+BHS,"Bahamas, The",High income,sec_completion,8,0.8
+BHS,"Bahamas, The",High income,sec_enrol_gross,8,0.8
+BHS,"Bahamas, The",High income,tert_enrol_gross,0,0.0
+BHS,"Bahamas, The",High income,voice_account,9,0.9
+BHS,"Bahamas, The",High income,work_age_share,10,1.0
+BHS,"Bahamas, The",High income,youth_literacy,0,0.0
+BHR,Bahrain,High income,adult_literacy,3,0.3
+BHR,Bahrain,High income,ctrl_corrup,9,0.9
+BHR,Bahrain,High income,edu_spend_gdp,9,0.9
+BHR,Bahrain,High income,gdp_pc_ppp,10,1.0
+BHR,Bahrain,High income,gini,0,0.0
+BHR,Bahrain,High income,gov_effect,9,0.9
+BHR,Bahrain,High income,gpi_sec,6,0.6
+BHR,Bahrain,High income,gpi_tert,10,1.0
+BHR,Bahrain,High income,inc_share_low20,0,0.0
+BHR,Bahrain,High income,pop_total,10,1.0
+BHR,Bahrain,High income,poverty_215,0,0.0
+BHR,Bahrain,High income,sec_completion,9,0.9
+BHR,Bahrain,High income,sec_enrol_gross,8,0.8
+BHR,Bahrain,High income,tert_enrol_gross,10,1.0
+BHR,Bahrain,High income,voice_account,9,0.9
+BHR,Bahrain,High income,work_age_share,10,1.0
+BHR,Bahrain,High income,youth_literacy,3,0.3
+BRB,Barbados,High income,adult_literacy,0,0.0
+BRB,Barbados,High income,ctrl_corrup,9,0.9
+BRB,Barbados,High income,edu_spend_gdp,10,1.0
+BRB,Barbados,High income,gdp_pc_ppp,10,1.0
+BRB,Barbados,High income,gini,1,0.1
+BRB,Barbados,High income,gov_effect,9,0.9
+BRB,Barbados,High income,gpi_sec,10,1.0
+BRB,Barbados,High income,gpi_tert,10,1.0
+BRB,Barbados,High income,inc_share_low20,1,0.1
+BRB,Barbados,High income,pop_total,10,1.0
+BRB,Barbados,High income,poverty_215,1,0.1
+BRB,Barbados,High income,sec_completion,10,1.0
+BRB,Barbados,High income,sec_enrol_gross,10,1.0
+BRB,Barbados,High income,tert_enrol_gross,10,1.0
+BRB,Barbados,High income,voice_account,9,0.9
+BRB,Barbados,High income,work_age_share,10,1.0
+BRB,Barbados,High income,youth_literacy,0,0.0
+BEL,Belgium,High income,adult_literacy,0,0.0
+BEL,Belgium,High income,ctrl_corrup,9,0.9
+BEL,Belgium,High income,edu_spend_gdp,8,0.8
+BEL,Belgium,High income,gdp_pc_ppp,10,1.0
+BEL,Belgium,High income,gini,9,0.9
+BEL,Belgium,High income,gov_effect,9,0.9
+BEL,Belgium,High income,gpi_sec,9,0.9
+BEL,Belgium,High income,gpi_tert,9,0.9
+BEL,Belgium,High income,inc_share_low20,9,0.9
+BEL,Belgium,High income,pop_total,10,1.0
+BEL,Belgium,High income,poverty_215,9,0.9
+BEL,Belgium,High income,sec_completion,9,0.9
+BEL,Belgium,High income,sec_enrol_gross,9,0.9
+BEL,Belgium,High income,tert_enrol_gross,9,0.9
+BEL,Belgium,High income,voice_account,9,0.9
+BEL,Belgium,High income,work_age_share,10,1.0
+BEL,Belgium,High income,youth_literacy,0,0.0
+BMU,Bermuda,High income,adult_literacy,0,0.0
+BMU,Bermuda,High income,ctrl_corrup,0,0.0
+BMU,Bermuda,High income,edu_spend_gdp,9,0.9
+BMU,Bermuda,High income,gdp_pc_ppp,10,1.0
+BMU,Bermuda,High income,gini,0,0.0
+BMU,Bermuda,High income,gov_effect,0,0.0
+BMU,Bermuda,High income,gpi_sec,1,0.1
+BMU,Bermuda,High income,gpi_tert,4,0.4
+BMU,Bermuda,High income,inc_share_low20,0,0.0
+BMU,Bermuda,High income,pop_total,10,1.0
+BMU,Bermuda,High income,poverty_215,0,0.0
+BMU,Bermuda,High income,sec_completion,2,0.2
+BMU,Bermuda,High income,sec_enrol_gross,2,0.2
+BMU,Bermuda,High income,tert_enrol_gross,4,0.4
+BMU,Bermuda,High income,voice_account,0,0.0
+BMU,Bermuda,High income,work_age_share,10,1.0
+BMU,Bermuda,High income,youth_literacy,0,0.0
+VGB,British Virgin Islands,High income,adult_literacy,0,0.0
+VGB,British Virgin Islands,High income,ctrl_corrup,0,0.0
+VGB,British Virgin Islands,High income,edu_spend_gdp,9,0.9
+VGB,British Virgin Islands,High income,gdp_pc_ppp,0,0.0
+VGB,British Virgin Islands,High income,gini,0,0.0
+VGB,British Virgin Islands,High income,gov_effect,0,0.0
+VGB,British Virgin Islands,High income,gpi_sec,10,1.0
+VGB,British Virgin Islands,High income,gpi_tert,10,1.0
+VGB,British Virgin Islands,High income,inc_share_low20,0,0.0
+VGB,British Virgin Islands,High income,pop_total,10,1.0
+VGB,British Virgin Islands,High income,poverty_215,0,0.0
+VGB,British Virgin Islands,High income,sec_completion,10,1.0
+VGB,British Virgin Islands,High income,sec_enrol_gross,10,1.0
+VGB,British Virgin Islands,High income,tert_enrol_gross,9,0.9
+VGB,British Virgin Islands,High income,voice_account,0,0.0
+VGB,British Virgin Islands,High income,work_age_share,10,1.0
+VGB,British Virgin Islands,High income,youth_literacy,0,0.0
+BRN,Brunei Darussalam,High income,adult_literacy,0,0.0
+BRN,Brunei Darussalam,High income,ctrl_corrup,9,0.9
+BRN,Brunei Darussalam,High income,edu_spend_gdp,1,0.1
+BRN,Brunei Darussalam,High income,gdp_pc_ppp,10,1.0
+BRN,Brunei Darussalam,High income,gini,0,0.0
+BRN,Brunei Darussalam,High income,gov_effect,9,0.9
+BRN,Brunei Darussalam,High income,gpi_sec,6,0.6
+BRN,Brunei Darussalam,High income,gpi_tert,9,0.9
+BRN,Brunei Darussalam,High income,inc_share_low20,0,0.0
+BRN,Brunei Darussalam,High income,pop_total,10,1.0
+BRN,Brunei Darussalam,High income,poverty_215,0,0.0
+BRN,Brunei Darussalam,High income,sec_completion,10,1.0
+BRN,Brunei Darussalam,High income,sec_enrol_gross,10,1.0
+BRN,Brunei Darussalam,High income,tert_enrol_gross,9,0.9
+BRN,Brunei Darussalam,High income,voice_account,9,0.9
+BRN,Brunei Darussalam,High income,work_age_share,10,1.0
+BRN,Brunei Darussalam,High income,youth_literacy,0,0.0
+BGR,Bulgaria,High income,adult_literacy,0,0.0
+BGR,Bulgaria,High income,ctrl_corrup,9,0.9
+BGR,Bulgaria,High income,edu_spend_gdp,8,0.8
+BGR,Bulgaria,High income,gdp_pc_ppp,10,1.0
+BGR,Bulgaria,High income,gini,9,0.9
+BGR,Bulgaria,High income,gov_effect,9,0.9
+BGR,Bulgaria,High income,gpi_sec,10,1.0
+BGR,Bulgaria,High income,gpi_tert,10,1.0
+BGR,Bulgaria,High income,inc_share_low20,9,0.9
+BGR,Bulgaria,High income,pop_total,10,1.0
+BGR,Bulgaria,High income,poverty_215,9,0.9
+BGR,Bulgaria,High income,sec_completion,10,1.0
+BGR,Bulgaria,High income,sec_enrol_gross,10,1.0
+BGR,Bulgaria,High income,tert_enrol_gross,10,1.0
+BGR,Bulgaria,High income,voice_account,9,0.9
+BGR,Bulgaria,High income,work_age_share,10,1.0
+BGR,Bulgaria,High income,youth_literacy,0,0.0
+CAN,Canada,High income,adult_literacy,0,0.0
+CAN,Canada,High income,ctrl_corrup,9,0.9
+CAN,Canada,High income,edu_spend_gdp,8,0.8
+CAN,Canada,High income,gdp_pc_ppp,10,1.0
+CAN,Canada,High income,gini,8,0.8
+CAN,Canada,High income,gov_effect,9,0.9
+CAN,Canada,High income,gpi_sec,7,0.7
+CAN,Canada,High income,gpi_tert,9,0.9
+CAN,Canada,High income,inc_share_low20,8,0.8
+CAN,Canada,High income,pop_total,10,1.0
+CAN,Canada,High income,poverty_215,8,0.8
+CAN,Canada,High income,sec_completion,0,0.0
+CAN,Canada,High income,sec_enrol_gross,9,0.9
+CAN,Canada,High income,tert_enrol_gross,9,0.9
+CAN,Canada,High income,voice_account,9,0.9
+CAN,Canada,High income,work_age_share,10,1.0
+CAN,Canada,High income,youth_literacy,0,0.0
+CYM,Cayman Islands,High income,adult_literacy,1,0.1
+CYM,Cayman Islands,High income,ctrl_corrup,0,0.0
+CYM,Cayman Islands,High income,edu_spend_gdp,6,0.6
+CYM,Cayman Islands,High income,gdp_pc_ppp,9,0.9
+CYM,Cayman Islands,High income,gini,0,0.0
+CYM,Cayman Islands,High income,gov_effect,0,0.0
+CYM,Cayman Islands,High income,gpi_sec,7,0.7
+CYM,Cayman Islands,High income,gpi_tert,7,0.7
+CYM,Cayman Islands,High income,inc_share_low20,0,0.0
+CYM,Cayman Islands,High income,pop_total,10,1.0
+CYM,Cayman Islands,High income,poverty_215,0,0.0
+CYM,Cayman Islands,High income,sec_completion,7,0.7
+CYM,Cayman Islands,High income,sec_enrol_gross,7,0.7
+CYM,Cayman Islands,High income,tert_enrol_gross,0,0.0
+CYM,Cayman Islands,High income,voice_account,0,0.0
+CYM,Cayman Islands,High income,work_age_share,10,1.0
+CYM,Cayman Islands,High income,youth_literacy,1,0.1
+CHI,Channel Islands,High income,adult_literacy,0,0.0
+CHI,Channel Islands,High income,ctrl_corrup,0,0.0
+CHI,Channel Islands,High income,edu_spend_gdp,0,0.0
+CHI,Channel Islands,High income,gdp_pc_ppp,0,0.0
+CHI,Channel Islands,High income,gini,0,0.0
+CHI,Channel Islands,High income,gov_effect,0,0.0
+CHI,Channel Islands,High income,gpi_sec,0,0.0
+CHI,Channel Islands,High income,gpi_tert,0,0.0
+CHI,Channel Islands,High income,inc_share_low20,0,0.0
+CHI,Channel Islands,High income,pop_total,10,1.0
+CHI,Channel Islands,High income,poverty_215,0,0.0
+CHI,Channel Islands,High income,sec_completion,0,0.0
+CHI,Channel Islands,High income,sec_enrol_gross,0,0.0
+CHI,Channel Islands,High income,tert_enrol_gross,0,0.0
+CHI,Channel Islands,High income,voice_account,0,0.0
+CHI,Channel Islands,High income,work_age_share,10,1.0
+CHI,Channel Islands,High income,youth_literacy,0,0.0
+CHL,Chile,High income,adult_literacy,2,0.2
+CHL,Chile,High income,ctrl_corrup,9,0.9
+CHL,Chile,High income,edu_spend_gdp,8,0.8
+CHL,Chile,High income,gdp_pc_ppp,10,1.0
+CHL,Chile,High income,gini,5,0.5
+CHL,Chile,High income,gov_effect,9,0.9
+CHL,Chile,High income,gpi_sec,8,0.8
+CHL,Chile,High income,gpi_tert,10,1.0
+CHL,Chile,High income,inc_share_low20,5,0.5
+CHL,Chile,High income,pop_total,10,1.0
+CHL,Chile,High income,poverty_215,5,0.5
+CHL,Chile,High income,sec_completion,10,1.0
+CHL,Chile,High income,sec_enrol_gross,10,1.0
+CHL,Chile,High income,tert_enrol_gross,10,1.0
+CHL,Chile,High income,voice_account,9,0.9
+CHL,Chile,High income,work_age_share,10,1.0
+CHL,Chile,High income,youth_literacy,3,0.3
+CRI,Costa Rica,High income,adult_literacy,0,0.0
+CRI,Costa Rica,High income,ctrl_corrup,9,0.9
+CRI,Costa Rica,High income,edu_spend_gdp,9,0.9
+CRI,Costa Rica,High income,gdp_pc_ppp,10,1.0
+CRI,Costa Rica,High income,gini,10,1.0
+CRI,Costa Rica,High income,gov_effect,9,0.9
+CRI,Costa Rica,High income,gpi_sec,10,1.0
+CRI,Costa Rica,High income,gpi_tert,10,1.0
+CRI,Costa Rica,High income,inc_share_low20,10,1.0
+CRI,Costa Rica,High income,pop_total,10,1.0
+CRI,Costa Rica,High income,poverty_215,10,1.0
+CRI,Costa Rica,High income,sec_completion,10,1.0
+CRI,Costa Rica,High income,sec_enrol_gross,10,1.0
+CRI,Costa Rica,High income,tert_enrol_gross,5,0.5
+CRI,Costa Rica,High income,voice_account,9,0.9
+CRI,Costa Rica,High income,work_age_share,10,1.0
+CRI,Costa Rica,High income,youth_literacy,1,0.1
+HRV,Croatia,High income,adult_literacy,0,0.0
+HRV,Croatia,High income,ctrl_corrup,9,0.9
+HRV,Croatia,High income,edu_spend_gdp,5,0.5
+HRV,Croatia,High income,gdp_pc_ppp,10,1.0
+HRV,Croatia,High income,gini,9,0.9
+HRV,Croatia,High income,gov_effect,9,0.9
+HRV,Croatia,High income,gpi_sec,6,0.6
+HRV,Croatia,High income,gpi_tert,9,0.9
+HRV,Croatia,High income,inc_share_low20,9,0.9
+HRV,Croatia,High income,pop_total,10,1.0
+HRV,Croatia,High income,poverty_215,9,0.9
+HRV,Croatia,High income,sec_completion,8,0.8
+HRV,Croatia,High income,sec_enrol_gross,9,0.9
+HRV,Croatia,High income,tert_enrol_gross,9,0.9
+HRV,Croatia,High income,voice_account,9,0.9
+HRV,Croatia,High income,work_age_share,10,1.0
+HRV,Croatia,High income,youth_literacy,0,0.0
+CUW,Curacao,High income,adult_literacy,0,0.0
+CUW,Curacao,High income,ctrl_corrup,0,0.0
+CUW,Curacao,High income,edu_spend_gdp,10,1.0
+CUW,Curacao,High income,gdp_pc_ppp,10,1.0
+CUW,Curacao,High income,gini,0,0.0
+CUW,Curacao,High income,gov_effect,0,0.0
+CUW,Curacao,High income,gpi_sec,2,0.2
+CUW,Curacao,High income,gpi_tert,3,0.3
+CUW,Curacao,High income,inc_share_low20,0,0.0
+CUW,Curacao,High income,pop_total,10,1.0
+CUW,Curacao,High income,poverty_215,0,0.0
+CUW,Curacao,High income,sec_completion,0,0.0
+CUW,Curacao,High income,sec_enrol_gross,3,0.3
+CUW,Curacao,High income,tert_enrol_gross,0,0.0
+CUW,Curacao,High income,voice_account,0,0.0
+CUW,Curacao,High income,work_age_share,10,1.0
+CUW,Curacao,High income,youth_literacy,0,0.0
+CYP,Cyprus,High income,adult_literacy,0,0.0
+CYP,Cyprus,High income,ctrl_corrup,9,0.9
+CYP,Cyprus,High income,edu_spend_gdp,7,0.7
+CYP,Cyprus,High income,gdp_pc_ppp,10,1.0
+CYP,Cyprus,High income,gini,9,0.9
+CYP,Cyprus,High income,gov_effect,9,0.9
+CYP,Cyprus,High income,gpi_sec,6,0.6
+CYP,Cyprus,High income,gpi_tert,10,1.0
+CYP,Cyprus,High income,inc_share_low20,9,0.9
+CYP,Cyprus,High income,pop_total,10,1.0
+CYP,Cyprus,High income,poverty_215,9,0.9
+CYP,Cyprus,High income,sec_completion,10,1.0
+CYP,Cyprus,High income,sec_enrol_gross,10,1.0
+CYP,Cyprus,High income,tert_enrol_gross,10,1.0
+CYP,Cyprus,High income,voice_account,9,0.9
+CYP,Cyprus,High income,work_age_share,10,1.0
+CYP,Cyprus,High income,youth_literacy,0,0.0
+CZE,Czechia,High income,adult_literacy,0,0.0
+CZE,Czechia,High income,ctrl_corrup,9,0.9
+CZE,Czechia,High income,edu_spend_gdp,8,0.8
+CZE,Czechia,High income,gdp_pc_ppp,10,1.0
+CZE,Czechia,High income,gini,9,0.9
+CZE,Czechia,High income,gov_effect,9,0.9
+CZE,Czechia,High income,gpi_sec,7,0.7
+CZE,Czechia,High income,gpi_tert,9,0.9
+CZE,Czechia,High income,inc_share_low20,9,0.9
+CZE,Czechia,High income,pop_total,10,1.0
+CZE,Czechia,High income,poverty_215,9,0.9
+CZE,Czechia,High income,sec_completion,9,0.9
+CZE,Czechia,High income,sec_enrol_gross,9,0.9
+CZE,Czechia,High income,tert_enrol_gross,9,0.9
+CZE,Czechia,High income,voice_account,9,0.9
+CZE,Czechia,High income,work_age_share,10,1.0
+CZE,Czechia,High income,youth_literacy,0,0.0
+DNK,Denmark,High income,adult_literacy,0,0.0
+DNK,Denmark,High income,ctrl_corrup,9,0.9
+DNK,Denmark,High income,edu_spend_gdp,7,0.7
+DNK,Denmark,High income,gdp_pc_ppp,10,1.0
+DNK,Denmark,High income,gini,9,0.9
+DNK,Denmark,High income,gov_effect,9,0.9
+DNK,Denmark,High income,gpi_sec,10,1.0
+DNK,Denmark,High income,gpi_tert,10,1.0
+DNK,Denmark,High income,inc_share_low20,9,0.9
+DNK,Denmark,High income,pop_total,10,1.0
+DNK,Denmark,High income,poverty_215,9,0.9
+DNK,Denmark,High income,sec_completion,10,1.0
+DNK,Denmark,High income,sec_enrol_gross,10,1.0
+DNK,Denmark,High income,tert_enrol_gross,10,1.0
+DNK,Denmark,High income,voice_account,9,0.9
+DNK,Denmark,High income,work_age_share,10,1.0
+DNK,Denmark,High income,youth_literacy,0,0.0
+EST,Estonia,High income,adult_literacy,0,0.0
+EST,Estonia,High income,ctrl_corrup,9,0.9
+EST,Estonia,High income,edu_spend_gdp,8,0.8
+EST,Estonia,High income,gdp_pc_ppp,10,1.0
+EST,Estonia,High income,gini,9,0.9
+EST,Estonia,High income,gov_effect,9,0.9
+EST,Estonia,High income,gpi_sec,10,1.0
+EST,Estonia,High income,gpi_tert,10,1.0
+EST,Estonia,High income,inc_share_low20,9,0.9
+EST,Estonia,High income,pop_total,10,1.0
+EST,Estonia,High income,poverty_215,9,0.9
+EST,Estonia,High income,sec_completion,10,1.0
+EST,Estonia,High income,sec_enrol_gross,10,1.0
+EST,Estonia,High income,tert_enrol_gross,10,1.0
+EST,Estonia,High income,voice_account,9,0.9
+EST,Estonia,High income,work_age_share,10,1.0
+EST,Estonia,High income,youth_literacy,0,0.0
+FRO,Faroe Islands,High income,adult_literacy,0,0.0
+FRO,Faroe Islands,High income,ctrl_corrup,0,0.0
+FRO,Faroe Islands,High income,edu_spend_gdp,0,0.0
+FRO,Faroe Islands,High income,gdp_pc_ppp,10,1.0
+FRO,Faroe Islands,High income,gini,0,0.0
+FRO,Faroe Islands,High income,gov_effect,0,0.0
+FRO,Faroe Islands,High income,gpi_sec,0,0.0
+FRO,Faroe Islands,High income,gpi_tert,0,0.0
+FRO,Faroe Islands,High income,inc_share_low20,0,0.0
+FRO,Faroe Islands,High income,pop_total,10,1.0
+FRO,Faroe Islands,High income,poverty_215,0,0.0
+FRO,Faroe Islands,High income,sec_completion,0,0.0
+FRO,Faroe Islands,High income,sec_enrol_gross,0,0.0
+FRO,Faroe Islands,High income,tert_enrol_gross,0,0.0
+FRO,Faroe Islands,High income,voice_account,0,0.0
+FRO,Faroe Islands,High income,work_age_share,10,1.0
+FRO,Faroe Islands,High income,youth_literacy,0,0.0
+FIN,Finland,High income,adult_literacy,0,0.0
+FIN,Finland,High income,ctrl_corrup,9,0.9
+FIN,Finland,High income,edu_spend_gdp,8,0.8
+FIN,Finland,High income,gdp_pc_ppp,10,1.0
+FIN,Finland,High income,gini,9,0.9
+FIN,Finland,High income,gov_effect,9,0.9
+FIN,Finland,High income,gpi_sec,10,1.0
+FIN,Finland,High income,gpi_tert,10,1.0
+FIN,Finland,High income,inc_share_low20,9,0.9
+FIN,Finland,High income,pop_total,10,1.0
+FIN,Finland,High income,poverty_215,9,0.9
+FIN,Finland,High income,sec_completion,10,1.0
+FIN,Finland,High income,sec_enrol_gross,10,1.0
+FIN,Finland,High income,tert_enrol_gross,10,1.0
+FIN,Finland,High income,voice_account,9,0.9
+FIN,Finland,High income,work_age_share,10,1.0
+FIN,Finland,High income,youth_literacy,0,0.0
+FRA,France,High income,adult_literacy,0,0.0
+FRA,France,High income,ctrl_corrup,9,0.9
+FRA,France,High income,edu_spend_gdp,6,0.6
+FRA,France,High income,gdp_pc_ppp,10,1.0
+FRA,France,High income,gini,9,0.9
+FRA,France,High income,gov_effect,9,0.9
+FRA,France,High income,gpi_sec,7,0.7
+FRA,France,High income,gpi_tert,10,1.0
+FRA,France,High income,inc_share_low20,9,0.9
+FRA,France,High income,pop_total,10,1.0
+FRA,France,High income,poverty_215,9,0.9
+FRA,France,High income,sec_completion,10,1.0
+FRA,France,High income,sec_enrol_gross,10,1.0
+FRA,France,High income,tert_enrol_gross,10,1.0
+FRA,France,High income,voice_account,9,0.9
+FRA,France,High income,work_age_share,10,1.0
+FRA,France,High income,youth_literacy,0,0.0
+PYF,French Polynesia,High income,adult_literacy,0,0.0
+PYF,French Polynesia,High income,ctrl_corrup,0,0.0
+PYF,French Polynesia,High income,edu_spend_gdp,0,0.0
+PYF,French Polynesia,High income,gdp_pc_ppp,0,0.0
+PYF,French Polynesia,High income,gini,0,0.0
+PYF,French Polynesia,High income,gov_effect,0,0.0
+PYF,French Polynesia,High income,gpi_sec,0,0.0
+PYF,French Polynesia,High income,gpi_tert,0,0.0
+PYF,French Polynesia,High income,inc_share_low20,0,0.0
+PYF,French Polynesia,High income,pop_total,10,1.0
+PYF,French Polynesia,High income,poverty_215,0,0.0
+PYF,French Polynesia,High income,sec_completion,0,0.0
+PYF,French Polynesia,High income,sec_enrol_gross,0,0.0
+PYF,French Polynesia,High income,tert_enrol_gross,0,0.0
+PYF,French Polynesia,High income,voice_account,0,0.0
+PYF,French Polynesia,High income,work_age_share,10,1.0
+PYF,French Polynesia,High income,youth_literacy,0,0.0
+DEU,Germany,High income,adult_literacy,0,0.0
+DEU,Germany,High income,ctrl_corrup,9,0.9
+DEU,Germany,High income,edu_spend_gdp,8,0.8
+DEU,Germany,High income,gdp_pc_ppp,10,1.0
+DEU,Germany,High income,gini,8,0.8
+DEU,Germany,High income,gov_effect,9,0.9
+DEU,Germany,High income,gpi_sec,9,0.9
+DEU,Germany,High income,gpi_tert,10,1.0
+DEU,Germany,High income,inc_share_low20,8,0.8
+DEU,Germany,High income,pop_total,10,1.0
+DEU,Germany,High income,poverty_215,8,0.8
+DEU,Germany,High income,sec_completion,4,0.4
+DEU,Germany,High income,sec_enrol_gross,10,1.0
+DEU,Germany,High income,tert_enrol_gross,10,1.0
+DEU,Germany,High income,voice_account,9,0.9
+DEU,Germany,High income,work_age_share,10,1.0
+DEU,Germany,High income,youth_literacy,0,0.0
+GIB,Gibraltar,High income,adult_literacy,0,0.0
+GIB,Gibraltar,High income,ctrl_corrup,0,0.0
+GIB,Gibraltar,High income,edu_spend_gdp,0,0.0
+GIB,Gibraltar,High income,gdp_pc_ppp,0,0.0
+GIB,Gibraltar,High income,gini,0,0.0
+GIB,Gibraltar,High income,gov_effect,0,0.0
+GIB,Gibraltar,High income,gpi_sec,5,0.5
+GIB,Gibraltar,High income,gpi_tert,8,0.8
+GIB,Gibraltar,High income,inc_share_low20,0,0.0
+GIB,Gibraltar,High income,pop_total,10,1.0
+GIB,Gibraltar,High income,poverty_215,0,0.0
+GIB,Gibraltar,High income,sec_completion,8,0.8
+GIB,Gibraltar,High income,sec_enrol_gross,8,0.8
+GIB,Gibraltar,High income,tert_enrol_gross,0,0.0
+GIB,Gibraltar,High income,voice_account,0,0.0
+GIB,Gibraltar,High income,work_age_share,10,1.0
+GIB,Gibraltar,High income,youth_literacy,0,0.0
+GRC,Greece,High income,adult_literacy,0,0.0
+GRC,Greece,High income,ctrl_corrup,9,0.9
+GRC,Greece,High income,edu_spend_gdp,5,0.5
+GRC,Greece,High income,gdp_pc_ppp,10,1.0
+GRC,Greece,High income,gini,9,0.9
+GRC,Greece,High income,gov_effect,9,0.9
+GRC,Greece,High income,gpi_sec,9,0.9
+GRC,Greece,High income,gpi_tert,9,0.9
+GRC,Greece,High income,inc_share_low20,9,0.9
+GRC,Greece,High income,pop_total,10,1.0
+GRC,Greece,High income,poverty_215,9,0.9
+GRC,Greece,High income,sec_completion,9,0.9
+GRC,Greece,High income,sec_enrol_gross,9,0.9
+GRC,Greece,High income,tert_enrol_gross,8,0.8
+GRC,Greece,High income,voice_account,9,0.9
+GRC,Greece,High income,work_age_share,10,1.0
+GRC,Greece,High income,youth_literacy,0,0.0
+GRL,Greenland,High income,adult_literacy,0,0.0
+GRL,Greenland,High income,ctrl_corrup,0,0.0
+GRL,Greenland,High income,edu_spend_gdp,0,0.0
+GRL,Greenland,High income,gdp_pc_ppp,9,0.9
+GRL,Greenland,High income,gini,0,0.0
+GRL,Greenland,High income,gov_effect,0,0.0
+GRL,Greenland,High income,gpi_sec,0,0.0
+GRL,Greenland,High income,gpi_tert,0,0.0
+GRL,Greenland,High income,inc_share_low20,0,0.0
+GRL,Greenland,High income,pop_total,10,1.0
+GRL,Greenland,High income,poverty_215,0,0.0
+GRL,Greenland,High income,sec_completion,0,0.0
+GRL,Greenland,High income,sec_enrol_gross,0,0.0
+GRL,Greenland,High income,tert_enrol_gross,0,0.0
+GRL,Greenland,High income,voice_account,0,0.0
+GRL,Greenland,High income,work_age_share,10,1.0
+GRL,Greenland,High income,youth_literacy,0,0.0
+GUM,Guam,High income,adult_literacy,0,0.0
+GUM,Guam,High income,ctrl_corrup,0,0.0
+GUM,Guam,High income,edu_spend_gdp,0,0.0
+GUM,Guam,High income,gdp_pc_ppp,0,0.0
+GUM,Guam,High income,gini,0,0.0
+GUM,Guam,High income,gov_effect,0,0.0
+GUM,Guam,High income,gpi_sec,0,0.0
+GUM,Guam,High income,gpi_tert,0,0.0
+GUM,Guam,High income,inc_share_low20,0,0.0
+GUM,Guam,High income,pop_total,10,1.0
+GUM,Guam,High income,poverty_215,0,0.0
+GUM,Guam,High income,sec_completion,0,0.0
+GUM,Guam,High income,sec_enrol_gross,0,0.0
+GUM,Guam,High income,tert_enrol_gross,0,0.0
+GUM,Guam,High income,voice_account,0,0.0
+GUM,Guam,High income,work_age_share,10,1.0
+GUM,Guam,High income,youth_literacy,0,0.0
+GUY,Guyana,High income,adult_literacy,1,0.1
+GUY,Guyana,High income,ctrl_corrup,9,0.9
+GUY,Guyana,High income,edu_spend_gdp,4,0.4
+GUY,Guyana,High income,gdp_pc_ppp,10,1.0
+GUY,Guyana,High income,gini,0,0.0
+GUY,Guyana,High income,gov_effect,9,0.9
+GUY,Guyana,High income,gpi_sec,3,0.3
+GUY,Guyana,High income,gpi_tert,4,0.4
+GUY,Guyana,High income,inc_share_low20,0,0.0
+GUY,Guyana,High income,pop_total,10,1.0
+GUY,Guyana,High income,poverty_215,0,0.0
+GUY,Guyana,High income,sec_completion,2,0.2
+GUY,Guyana,High income,sec_enrol_gross,4,0.4
+GUY,Guyana,High income,tert_enrol_gross,2,0.2
+GUY,Guyana,High income,voice_account,9,0.9
+GUY,Guyana,High income,work_age_share,10,1.0
+GUY,Guyana,High income,youth_literacy,1,0.1
+HKG,"Hong Kong SAR, China",High income,adult_literacy,0,0.0
+HKG,"Hong Kong SAR, China",High income,ctrl_corrup,0,0.0
+HKG,"Hong Kong SAR, China",High income,edu_spend_gdp,10,1.0
+HKG,"Hong Kong SAR, China",High income,gdp_pc_ppp,10,1.0
+HKG,"Hong Kong SAR, China",High income,gini,0,0.0
+HKG,"Hong Kong SAR, China",High income,gov_effect,0,0.0
+HKG,"Hong Kong SAR, China",High income,gpi_sec,7,0.7
+HKG,"Hong Kong SAR, China",High income,gpi_tert,10,1.0
+HKG,"Hong Kong SAR, China",High income,inc_share_low20,0,0.0
+HKG,"Hong Kong SAR, China",High income,pop_total,10,1.0
+HKG,"Hong Kong SAR, China",High income,poverty_215,0,0.0
+HKG,"Hong Kong SAR, China",High income,sec_completion,10,1.0
+HKG,"Hong Kong SAR, China",High income,sec_enrol_gross,10,1.0
+HKG,"Hong Kong SAR, China",High income,tert_enrol_gross,10,1.0
+HKG,"Hong Kong SAR, China",High income,voice_account,0,0.0
+HKG,"Hong Kong SAR, China",High income,work_age_share,10,1.0
+HKG,"Hong Kong SAR, China",High income,youth_literacy,0,0.0
+HUN,Hungary,High income,adult_literacy,0,0.0
+HUN,Hungary,High income,ctrl_corrup,9,0.9
+HUN,Hungary,High income,edu_spend_gdp,8,0.8
+HUN,Hungary,High income,gdp_pc_ppp,10,1.0
+HUN,Hungary,High income,gini,3,0.3
+HUN,Hungary,High income,gov_effect,9,0.9
+HUN,Hungary,High income,gpi_sec,10,1.0
+HUN,Hungary,High income,gpi_tert,10,1.0
+HUN,Hungary,High income,inc_share_low20,3,0.3
+HUN,Hungary,High income,pop_total,10,1.0
+HUN,Hungary,High income,poverty_215,3,0.3
+HUN,Hungary,High income,sec_completion,10,1.0
+HUN,Hungary,High income,sec_enrol_gross,10,1.0
+HUN,Hungary,High income,tert_enrol_gross,10,1.0
+HUN,Hungary,High income,voice_account,9,0.9
+HUN,Hungary,High income,work_age_share,10,1.0
+HUN,Hungary,High income,youth_literacy,0,0.0
+ISL,Iceland,High income,adult_literacy,0,0.0
+ISL,Iceland,High income,ctrl_corrup,9,0.9
+ISL,Iceland,High income,edu_spend_gdp,8,0.8
+ISL,Iceland,High income,gdp_pc_ppp,10,1.0
+ISL,Iceland,High income,gini,5,0.5
+ISL,Iceland,High income,gov_effect,9,0.9
+ISL,Iceland,High income,gpi_sec,9,0.9
+ISL,Iceland,High income,gpi_tert,9,0.9
+ISL,Iceland,High income,inc_share_low20,5,0.5
+ISL,Iceland,High income,pop_total,10,1.0
+ISL,Iceland,High income,poverty_215,5,0.5
+ISL,Iceland,High income,sec_completion,8,0.8
+ISL,Iceland,High income,sec_enrol_gross,9,0.9
+ISL,Iceland,High income,tert_enrol_gross,9,0.9
+ISL,Iceland,High income,voice_account,9,0.9
+ISL,Iceland,High income,work_age_share,10,1.0
+ISL,Iceland,High income,youth_literacy,0,0.0
+IRL,Ireland,High income,adult_literacy,0,0.0
+IRL,Ireland,High income,ctrl_corrup,9,0.9
+IRL,Ireland,High income,edu_spend_gdp,7,0.7
+IRL,Ireland,High income,gdp_pc_ppp,10,1.0
+IRL,Ireland,High income,gini,9,0.9
+IRL,Ireland,High income,gov_effect,9,0.9
+IRL,Ireland,High income,gpi_sec,6,0.6
+IRL,Ireland,High income,gpi_tert,8,0.8
+IRL,Ireland,High income,inc_share_low20,9,0.9
+IRL,Ireland,High income,pop_total,10,1.0
+IRL,Ireland,High income,poverty_215,9,0.9
+IRL,Ireland,High income,sec_completion,8,0.8
+IRL,Ireland,High income,sec_enrol_gross,8,0.8
+IRL,Ireland,High income,tert_enrol_gross,8,0.8
+IRL,Ireland,High income,voice_account,9,0.9
+IRL,Ireland,High income,work_age_share,10,1.0
+IRL,Ireland,High income,youth_literacy,0,0.0
+IMN,Isle of Man,High income,adult_literacy,0,0.0
+IMN,Isle of Man,High income,ctrl_corrup,0,0.0
+IMN,Isle of Man,High income,edu_spend_gdp,0,0.0
+IMN,Isle of Man,High income,gdp_pc_ppp,0,0.0
+IMN,Isle of Man,High income,gini,0,0.0
+IMN,Isle of Man,High income,gov_effect,0,0.0
+IMN,Isle of Man,High income,gpi_sec,0,0.0
+IMN,Isle of Man,High income,gpi_tert,0,0.0
+IMN,Isle of Man,High income,inc_share_low20,0,0.0
+IMN,Isle of Man,High income,pop_total,10,1.0
+IMN,Isle of Man,High income,poverty_215,0,0.0
+IMN,Isle of Man,High income,sec_completion,0,0.0
+IMN,Isle of Man,High income,sec_enrol_gross,0,0.0
+IMN,Isle of Man,High income,tert_enrol_gross,0,0.0
+IMN,Isle of Man,High income,voice_account,0,0.0
+IMN,Isle of Man,High income,work_age_share,10,1.0
+IMN,Isle of Man,High income,youth_literacy,0,0.0
+ISR,Israel,High income,adult_literacy,0,0.0
+ISR,Israel,High income,ctrl_corrup,9,0.9
+ISR,Israel,High income,edu_spend_gdp,8,0.8
+ISR,Israel,High income,gdp_pc_ppp,10,1.0
+ISR,Israel,High income,gini,8,0.8
+ISR,Israel,High income,gov_effect,9,0.9
+ISR,Israel,High income,gpi_sec,10,1.0
+ISR,Israel,High income,gpi_tert,10,1.0
+ISR,Israel,High income,inc_share_low20,8,0.8
+ISR,Israel,High income,pop_total,10,1.0
+ISR,Israel,High income,poverty_215,8,0.8
+ISR,Israel,High income,sec_completion,10,1.0
+ISR,Israel,High income,sec_enrol_gross,10,1.0
+ISR,Israel,High income,tert_enrol_gross,10,1.0
+ISR,Israel,High income,voice_account,9,0.9
+ISR,Israel,High income,work_age_share,10,1.0
+ISR,Israel,High income,youth_literacy,0,0.0
+ITA,Italy,High income,adult_literacy,1,0.1
+ITA,Italy,High income,ctrl_corrup,9,0.9
+ITA,Italy,High income,edu_spend_gdp,8,0.8
+ITA,Italy,High income,gdp_pc_ppp,10,1.0
+ITA,Italy,High income,gini,9,0.9
+ITA,Italy,High income,gov_effect,9,0.9
+ITA,Italy,High income,gpi_sec,9,0.9
+ITA,Italy,High income,gpi_tert,9,0.9
+ITA,Italy,High income,inc_share_low20,9,0.9
+ITA,Italy,High income,pop_total,10,1.0
+ITA,Italy,High income,poverty_215,9,0.9
+ITA,Italy,High income,sec_completion,9,0.9
+ITA,Italy,High income,sec_enrol_gross,9,0.9
+ITA,Italy,High income,tert_enrol_gross,9,0.9
+ITA,Italy,High income,voice_account,9,0.9
+ITA,Italy,High income,work_age_share,10,1.0
+ITA,Italy,High income,youth_literacy,1,0.1
+JPN,Japan,High income,adult_literacy,0,0.0
+JPN,Japan,High income,ctrl_corrup,9,0.9
+JPN,Japan,High income,edu_spend_gdp,7,0.7
+JPN,Japan,High income,gdp_pc_ppp,10,1.0
+JPN,Japan,High income,gini,6,0.6
+JPN,Japan,High income,gov_effect,9,0.9
+JPN,Japan,High income,gpi_sec,5,0.5
+JPN,Japan,High income,gpi_tert,9,0.9
+JPN,Japan,High income,inc_share_low20,6,0.6
+JPN,Japan,High income,pop_total,10,1.0
+JPN,Japan,High income,poverty_215,6,0.6
+JPN,Japan,High income,sec_completion,0,0.0
+JPN,Japan,High income,sec_enrol_gross,9,0.9
+JPN,Japan,High income,tert_enrol_gross,9,0.9
+JPN,Japan,High income,voice_account,9,0.9
+JPN,Japan,High income,work_age_share,10,1.0
+JPN,Japan,High income,youth_literacy,0,0.0
+KOR,"Korea, Rep.",High income,adult_literacy,0,0.0
+KOR,"Korea, Rep.",High income,ctrl_corrup,9,0.9
+KOR,"Korea, Rep.",High income,edu_spend_gdp,8,0.8
+KOR,"Korea, Rep.",High income,gdp_pc_ppp,10,1.0
+KOR,"Korea, Rep.",High income,gini,6,0.6
+KOR,"Korea, Rep.",High income,gov_effect,9,0.9
+KOR,"Korea, Rep.",High income,gpi_sec,10,1.0
+KOR,"Korea, Rep.",High income,gpi_tert,10,1.0
+KOR,"Korea, Rep.",High income,inc_share_low20,6,0.6
+KOR,"Korea, Rep.",High income,pop_total,10,1.0
+KOR,"Korea, Rep.",High income,poverty_215,6,0.6
+KOR,"Korea, Rep.",High income,sec_completion,10,1.0
+KOR,"Korea, Rep.",High income,sec_enrol_gross,10,1.0
+KOR,"Korea, Rep.",High income,tert_enrol_gross,10,1.0
+KOR,"Korea, Rep.",High income,voice_account,9,0.9
+KOR,"Korea, Rep.",High income,work_age_share,10,1.0
+KOR,"Korea, Rep.",High income,youth_literacy,0,0.0
+KWT,Kuwait,High income,adult_literacy,4,0.4
+KWT,Kuwait,High income,ctrl_corrup,9,0.9
+KWT,Kuwait,High income,edu_spend_gdp,9,0.9
+KWT,Kuwait,High income,gdp_pc_ppp,10,1.0
+KWT,Kuwait,High income,gini,0,0.0
+KWT,Kuwait,High income,gov_effect,9,0.9
+KWT,Kuwait,High income,gpi_sec,7,0.7
+KWT,Kuwait,High income,gpi_tert,7,0.7
+KWT,Kuwait,High income,inc_share_low20,0,0.0
+KWT,Kuwait,High income,pop_total,10,1.0
+KWT,Kuwait,High income,poverty_215,0,0.0
+KWT,Kuwait,High income,sec_completion,7,0.7
+KWT,Kuwait,High income,sec_enrol_gross,7,0.7
+KWT,Kuwait,High income,tert_enrol_gross,7,0.7
+KWT,Kuwait,High income,voice_account,9,0.9
+KWT,Kuwait,High income,work_age_share,10,1.0
+KWT,Kuwait,High income,youth_literacy,4,0.4
+LVA,Latvia,High income,adult_literacy,0,0.0
+LVA,Latvia,High income,ctrl_corrup,9,0.9
+LVA,Latvia,High income,edu_spend_gdp,8,0.8
+LVA,Latvia,High income,gdp_pc_ppp,10,1.0
+LVA,Latvia,High income,gini,9,0.9
+LVA,Latvia,High income,gov_effect,9,0.9
+LVA,Latvia,High income,gpi_sec,10,1.0
+LVA,Latvia,High income,gpi_tert,10,1.0
+LVA,Latvia,High income,inc_share_low20,9,0.9
+LVA,Latvia,High income,pop_total,10,1.0
+LVA,Latvia,High income,poverty_215,9,0.9
+LVA,Latvia,High income,sec_completion,10,1.0
+LVA,Latvia,High income,sec_enrol_gross,10,1.0
+LVA,Latvia,High income,tert_enrol_gross,10,1.0
+LVA,Latvia,High income,voice_account,9,0.9
+LVA,Latvia,High income,work_age_share,10,1.0
+LVA,Latvia,High income,youth_literacy,0,0.0
+LIE,Liechtenstein,High income,adult_literacy,0,0.0
+LIE,Liechtenstein,High income,ctrl_corrup,9,0.9
+LIE,Liechtenstein,High income,edu_spend_gdp,0,0.0
+LIE,Liechtenstein,High income,gdp_pc_ppp,0,0.0
+LIE,Liechtenstein,High income,gini,0,0.0
+LIE,Liechtenstein,High income,gov_effect,9,0.9
+LIE,Liechtenstein,High income,gpi_sec,7,0.7
+LIE,Liechtenstein,High income,gpi_tert,7,0.7
+LIE,Liechtenstein,High income,inc_share_low20,0,0.0
+LIE,Liechtenstein,High income,pop_total,10,1.0
+LIE,Liechtenstein,High income,poverty_215,0,0.0
+LIE,Liechtenstein,High income,sec_completion,6,0.6
+LIE,Liechtenstein,High income,sec_enrol_gross,7,0.7
+LIE,Liechtenstein,High income,tert_enrol_gross,7,0.7
+LIE,Liechtenstein,High income,voice_account,9,0.9
+LIE,Liechtenstein,High income,work_age_share,10,1.0
+LIE,Liechtenstein,High income,youth_literacy,0,0.0
+LTU,Lithuania,High income,adult_literacy,0,0.0
+LTU,Lithuania,High income,ctrl_corrup,9,0.9
+LTU,Lithuania,High income,edu_spend_gdp,8,0.8
+LTU,Lithuania,High income,gdp_pc_ppp,10,1.0
+LTU,Lithuania,High income,gini,9,0.9
+LTU,Lithuania,High income,gov_effect,9,0.9
+LTU,Lithuania,High income,gpi_sec,6,0.6
+LTU,Lithuania,High income,gpi_tert,10,1.0
+LTU,Lithuania,High income,inc_share_low20,9,0.9
+LTU,Lithuania,High income,pop_total,10,1.0
+LTU,Lithuania,High income,poverty_215,9,0.9
+LTU,Lithuania,High income,sec_completion,10,1.0
+LTU,Lithuania,High income,sec_enrol_gross,10,1.0
+LTU,Lithuania,High income,tert_enrol_gross,10,1.0
+LTU,Lithuania,High income,voice_account,9,0.9
+LTU,Lithuania,High income,work_age_share,10,1.0
+LTU,Lithuania,High income,youth_literacy,0,0.0
+LUX,Luxembourg,High income,adult_literacy,0,0.0
+LUX,Luxembourg,High income,ctrl_corrup,9,0.9
+LUX,Luxembourg,High income,edu_spend_gdp,7,0.7
+LUX,Luxembourg,High income,gdp_pc_ppp,10,1.0
+LUX,Luxembourg,High income,gini,9,0.9
+LUX,Luxembourg,High income,gov_effect,9,0.9
+LUX,Luxembourg,High income,gpi_sec,10,1.0
+LUX,Luxembourg,High income,gpi_tert,10,1.0
+LUX,Luxembourg,High income,inc_share_low20,9,0.9
+LUX,Luxembourg,High income,pop_total,10,1.0
+LUX,Luxembourg,High income,poverty_215,9,0.9
+LUX,Luxembourg,High income,sec_completion,10,1.0
+LUX,Luxembourg,High income,sec_enrol_gross,10,1.0
+LUX,Luxembourg,High income,tert_enrol_gross,10,1.0
+LUX,Luxembourg,High income,voice_account,9,0.9
+LUX,Luxembourg,High income,work_age_share,10,1.0
+LUX,Luxembourg,High income,youth_literacy,0,0.0
+MAC,"Macao SAR, China",High income,adult_literacy,1,0.1
+MAC,"Macao SAR, China",High income,ctrl_corrup,0,0.0
+MAC,"Macao SAR, China",High income,edu_spend_gdp,9,0.9
+MAC,"Macao SAR, China",High income,gdp_pc_ppp,10,1.0
+MAC,"Macao SAR, China",High income,gini,0,0.0
+MAC,"Macao SAR, China",High income,gov_effect,0,0.0
+MAC,"Macao SAR, China",High income,gpi_sec,10,1.0
+MAC,"Macao SAR, China",High income,gpi_tert,10,1.0
+MAC,"Macao SAR, China",High income,inc_share_low20,0,0.0
+MAC,"Macao SAR, China",High income,pop_total,10,1.0
+MAC,"Macao SAR, China",High income,poverty_215,0,0.0
+MAC,"Macao SAR, China",High income,sec_completion,10,1.0
+MAC,"Macao SAR, China",High income,sec_enrol_gross,10,1.0
+MAC,"Macao SAR, China",High income,tert_enrol_gross,10,1.0
+MAC,"Macao SAR, China",High income,voice_account,0,0.0
+MAC,"Macao SAR, China",High income,work_age_share,10,1.0
+MAC,"Macao SAR, China",High income,youth_literacy,1,0.1
+MLT,Malta,High income,adult_literacy,0,0.0
+MLT,Malta,High income,ctrl_corrup,9,0.9
+MLT,Malta,High income,edu_spend_gdp,6,0.6
+MLT,Malta,High income,gdp_pc_ppp,10,1.0
+MLT,Malta,High income,gini,9,0.9
+MLT,Malta,High income,gov_effect,9,0.9
+MLT,Malta,High income,gpi_sec,9,0.9
+MLT,Malta,High income,gpi_tert,9,0.9
+MLT,Malta,High income,inc_share_low20,9,0.9
+MLT,Malta,High income,pop_total,10,1.0
+MLT,Malta,High income,poverty_215,9,0.9
+MLT,Malta,High income,sec_completion,9,0.9
+MLT,Malta,High income,sec_enrol_gross,9,0.9
+MLT,Malta,High income,tert_enrol_gross,9,0.9
+MLT,Malta,High income,voice_account,9,0.9
+MLT,Malta,High income,work_age_share,10,1.0
+MLT,Malta,High income,youth_literacy,0,0.0
+MCO,Monaco,High income,adult_literacy,0,0.0
+MCO,Monaco,High income,ctrl_corrup,9,0.9
+MCO,Monaco,High income,edu_spend_gdp,6,0.6
+MCO,Monaco,High income,gdp_pc_ppp,0,0.0
+MCO,Monaco,High income,gini,0,0.0
+MCO,Monaco,High income,gov_effect,9,0.9
+MCO,Monaco,High income,gpi_sec,0,0.0
+MCO,Monaco,High income,gpi_tert,2,0.2
+MCO,Monaco,High income,inc_share_low20,0,0.0
+MCO,Monaco,High income,pop_total,10,1.0
+MCO,Monaco,High income,poverty_215,0,0.0
+MCO,Monaco,High income,sec_completion,7,0.7
+MCO,Monaco,High income,sec_enrol_gross,2,0.2
+MCO,Monaco,High income,tert_enrol_gross,2,0.2
+MCO,Monaco,High income,voice_account,9,0.9
+MCO,Monaco,High income,work_age_share,10,1.0
+MCO,Monaco,High income,youth_literacy,0,0.0
+NRU,Nauru,High income,adult_literacy,2,0.2
+NRU,Nauru,High income,ctrl_corrup,9,0.9
+NRU,Nauru,High income,edu_spend_gdp,9,0.9
+NRU,Nauru,High income,gdp_pc_ppp,10,1.0
+NRU,Nauru,High income,gini,0,0.0
+NRU,Nauru,High income,gov_effect,9,0.9
+NRU,Nauru,High income,gpi_sec,5,0.5
+NRU,Nauru,High income,gpi_tert,6,0.6
+NRU,Nauru,High income,inc_share_low20,0,0.0
+NRU,Nauru,High income,pop_total,10,1.0
+NRU,Nauru,High income,poverty_215,0,0.0
+NRU,Nauru,High income,sec_completion,6,0.6
+NRU,Nauru,High income,sec_enrol_gross,6,0.6
+NRU,Nauru,High income,tert_enrol_gross,0,0.0
+NRU,Nauru,High income,voice_account,9,0.9
+NRU,Nauru,High income,work_age_share,10,1.0
+NRU,Nauru,High income,youth_literacy,1,0.1
+NLD,Netherlands,High income,adult_literacy,0,0.0
+NLD,Netherlands,High income,ctrl_corrup,9,0.9
+NLD,Netherlands,High income,edu_spend_gdp,8,0.8
+NLD,Netherlands,High income,gdp_pc_ppp,10,1.0
+NLD,Netherlands,High income,gini,7,0.7
+NLD,Netherlands,High income,gov_effect,9,0.9
+NLD,Netherlands,High income,gpi_sec,9,0.9
+NLD,Netherlands,High income,gpi_tert,9,0.9
+NLD,Netherlands,High income,inc_share_low20,7,0.7
+NLD,Netherlands,High income,pop_total,10,1.0
+NLD,Netherlands,High income,poverty_215,7,0.7
+NLD,Netherlands,High income,sec_completion,0,0.0
+NLD,Netherlands,High income,sec_enrol_gross,9,0.9
+NLD,Netherlands,High income,tert_enrol_gross,7,0.7
+NLD,Netherlands,High income,voice_account,9,0.9
+NLD,Netherlands,High income,work_age_share,10,1.0
+NLD,Netherlands,High income,youth_literacy,0,0.0
+NCL,New Caledonia,High income,adult_literacy,0,0.0
+NCL,New Caledonia,High income,ctrl_corrup,0,0.0
+NCL,New Caledonia,High income,edu_spend_gdp,0,0.0
+NCL,New Caledonia,High income,gdp_pc_ppp,0,0.0
+NCL,New Caledonia,High income,gini,0,0.0
+NCL,New Caledonia,High income,gov_effect,0,0.0
+NCL,New Caledonia,High income,gpi_sec,0,0.0
+NCL,New Caledonia,High income,gpi_tert,0,0.0
+NCL,New Caledonia,High income,inc_share_low20,0,0.0
+NCL,New Caledonia,High income,pop_total,10,1.0
+NCL,New Caledonia,High income,poverty_215,0,0.0
+NCL,New Caledonia,High income,sec_completion,0,0.0
+NCL,New Caledonia,High income,sec_enrol_gross,0,0.0
+NCL,New Caledonia,High income,tert_enrol_gross,0,0.0
+NCL,New Caledonia,High income,voice_account,0,0.0
+NCL,New Caledonia,High income,work_age_share,10,1.0
+NCL,New Caledonia,High income,youth_literacy,0,0.0
+NZL,New Zealand,High income,adult_literacy,0,0.0
+NZL,New Zealand,High income,ctrl_corrup,9,0.9
+NZL,New Zealand,High income,edu_spend_gdp,9,0.9
+NZL,New Zealand,High income,gdp_pc_ppp,10,1.0
+NZL,New Zealand,High income,gini,0,0.0
+NZL,New Zealand,High income,gov_effect,9,0.9
+NZL,New Zealand,High income,gpi_sec,10,1.0
+NZL,New Zealand,High income,gpi_tert,10,1.0
+NZL,New Zealand,High income,inc_share_low20,0,0.0
+NZL,New Zealand,High income,pop_total,10,1.0
+NZL,New Zealand,High income,poverty_215,0,0.0
+NZL,New Zealand,High income,sec_completion,0,0.0
+NZL,New Zealand,High income,sec_enrol_gross,10,1.0
+NZL,New Zealand,High income,tert_enrol_gross,10,1.0
+NZL,New Zealand,High income,voice_account,9,0.9
+NZL,New Zealand,High income,work_age_share,10,1.0
+NZL,New Zealand,High income,youth_literacy,0,0.0
+MNP,Northern Mariana Islands,High income,adult_literacy,0,0.0
+MNP,Northern Mariana Islands,High income,ctrl_corrup,0,0.0
+MNP,Northern Mariana Islands,High income,edu_spend_gdp,0,0.0
+MNP,Northern Mariana Islands,High income,gdp_pc_ppp,0,0.0
+MNP,Northern Mariana Islands,High income,gini,0,0.0
+MNP,Northern Mariana Islands,High income,gov_effect,0,0.0
+MNP,Northern Mariana Islands,High income,gpi_sec,0,0.0
+MNP,Northern Mariana Islands,High income,gpi_tert,0,0.0
+MNP,Northern Mariana Islands,High income,inc_share_low20,0,0.0
+MNP,Northern Mariana Islands,High income,pop_total,10,1.0
+MNP,Northern Mariana Islands,High income,poverty_215,0,0.0
+MNP,Northern Mariana Islands,High income,sec_completion,0,0.0
+MNP,Northern Mariana Islands,High income,sec_enrol_gross,0,0.0
+MNP,Northern Mariana Islands,High income,tert_enrol_gross,0,0.0
+MNP,Northern Mariana Islands,High income,voice_account,0,0.0
+MNP,Northern Mariana Islands,High income,work_age_share,10,1.0
+MNP,Northern Mariana Islands,High income,youth_literacy,0,0.0
+NOR,Norway,High income,adult_literacy,0,0.0
+NOR,Norway,High income,ctrl_corrup,9,0.9
+NOR,Norway,High income,edu_spend_gdp,8,0.8
+NOR,Norway,High income,gdp_pc_ppp,10,1.0
+NOR,Norway,High income,gini,9,0.9
+NOR,Norway,High income,gov_effect,9,0.9
+NOR,Norway,High income,gpi_sec,10,1.0
+NOR,Norway,High income,gpi_tert,10,1.0
+NOR,Norway,High income,inc_share_low20,9,0.9
+NOR,Norway,High income,pop_total,10,1.0
+NOR,Norway,High income,poverty_215,9,0.9
+NOR,Norway,High income,sec_completion,10,1.0
+NOR,Norway,High income,sec_enrol_gross,10,1.0
+NOR,Norway,High income,tert_enrol_gross,10,1.0
+NOR,Norway,High income,voice_account,9,0.9
+NOR,Norway,High income,work_age_share,10,1.0
+NOR,Norway,High income,youth_literacy,0,0.0
+OMN,Oman,High income,adult_literacy,5,0.5
+OMN,Oman,High income,ctrl_corrup,9,0.9
+OMN,Oman,High income,edu_spend_gdp,5,0.5
+OMN,Oman,High income,gdp_pc_ppp,10,1.0
+OMN,Oman,High income,gini,0,0.0
+OMN,Oman,High income,gov_effect,9,0.9
+OMN,Oman,High income,gpi_sec,9,0.9
+OMN,Oman,High income,gpi_tert,9,0.9
+OMN,Oman,High income,inc_share_low20,0,0.0
+OMN,Oman,High income,pop_total,10,1.0
+OMN,Oman,High income,poverty_215,0,0.0
+OMN,Oman,High income,sec_completion,10,1.0
+OMN,Oman,High income,sec_enrol_gross,9,0.9
+OMN,Oman,High income,tert_enrol_gross,8,0.8
+OMN,Oman,High income,voice_account,9,0.9
+OMN,Oman,High income,work_age_share,10,1.0
+OMN,Oman,High income,youth_literacy,5,0.5
+PLW,Palau,High income,adult_literacy,2,0.2
+PLW,Palau,High income,ctrl_corrup,9,0.9
+PLW,Palau,High income,edu_spend_gdp,4,0.4
+PLW,Palau,High income,gdp_pc_ppp,9,0.9
+PLW,Palau,High income,gini,0,0.0
+PLW,Palau,High income,gov_effect,9,0.9
+PLW,Palau,High income,gpi_sec,3,0.3
+PLW,Palau,High income,gpi_tert,5,0.5
+PLW,Palau,High income,inc_share_low20,0,0.0
+PLW,Palau,High income,pop_total,10,1.0
+PLW,Palau,High income,poverty_215,0,0.0
+PLW,Palau,High income,sec_completion,4,0.4
+PLW,Palau,High income,sec_enrol_gross,5,0.5
+PLW,Palau,High income,tert_enrol_gross,3,0.3
+PLW,Palau,High income,voice_account,9,0.9
+PLW,Palau,High income,work_age_share,10,1.0
+PLW,Palau,High income,youth_literacy,2,0.2
+PAN,Panama,High income,adult_literacy,5,0.5
+PAN,Panama,High income,ctrl_corrup,9,0.9
+PAN,Panama,High income,edu_spend_gdp,9,0.9
+PAN,Panama,High income,gdp_pc_ppp,10,1.0
+PAN,Panama,High income,gini,8,0.8
+PAN,Panama,High income,gov_effect,9,0.9
+PAN,Panama,High income,gpi_sec,8,0.8
+PAN,Panama,High income,gpi_tert,8,0.8
+PAN,Panama,High income,inc_share_low20,8,0.8
+PAN,Panama,High income,pop_total,10,1.0
+PAN,Panama,High income,poverty_215,8,0.8
+PAN,Panama,High income,sec_completion,9,0.9
+PAN,Panama,High income,sec_enrol_gross,8,0.8
+PAN,Panama,High income,tert_enrol_gross,6,0.6
+PAN,Panama,High income,voice_account,9,0.9
+PAN,Panama,High income,work_age_share,10,1.0
+PAN,Panama,High income,youth_literacy,9,0.9
+POL,Poland,High income,adult_literacy,0,0.0
+POL,Poland,High income,ctrl_corrup,9,0.9
+POL,Poland,High income,edu_spend_gdp,8,0.8
+POL,Poland,High income,gdp_pc_ppp,10,1.0
+POL,Poland,High income,gini,9,0.9
+POL,Poland,High income,gov_effect,9,0.9
+POL,Poland,High income,gpi_sec,6,0.6
+POL,Poland,High income,gpi_tert,10,1.0
+POL,Poland,High income,inc_share_low20,9,0.9
+POL,Poland,High income,pop_total,10,1.0
+POL,Poland,High income,poverty_215,9,0.9
+POL,Poland,High income,sec_completion,8,0.8
+POL,Poland,High income,sec_enrol_gross,10,1.0
+POL,Poland,High income,tert_enrol_gross,10,1.0
+POL,Poland,High income,voice_account,9,0.9
+POL,Poland,High income,work_age_share,10,1.0
+POL,Poland,High income,youth_literacy,0,0.0
+PRT,Portugal,High income,adult_literacy,0,0.0
+PRT,Portugal,High income,ctrl_corrup,9,0.9
+PRT,Portugal,High income,edu_spend_gdp,7,0.7
+PRT,Portugal,High income,gdp_pc_ppp,10,1.0
+PRT,Portugal,High income,gini,9,0.9
+PRT,Portugal,High income,gov_effect,9,0.9
+PRT,Portugal,High income,gpi_sec,6,0.6
+PRT,Portugal,High income,gpi_tert,9,0.9
+PRT,Portugal,High income,inc_share_low20,9,0.9
+PRT,Portugal,High income,pop_total,10,1.0
+PRT,Portugal,High income,poverty_215,9,0.9
+PRT,Portugal,High income,sec_completion,9,0.9
+PRT,Portugal,High income,sec_enrol_gross,9,0.9
+PRT,Portugal,High income,tert_enrol_gross,9,0.9
+PRT,Portugal,High income,voice_account,9,0.9
+PRT,Portugal,High income,work_age_share,10,1.0
+PRT,Portugal,High income,youth_literacy,0,0.0
+PRI,Puerto Rico (US),High income,adult_literacy,1,0.1
+PRI,Puerto Rico (US),High income,ctrl_corrup,0,0.0
+PRI,Puerto Rico (US),High income,edu_spend_gdp,10,1.0
+PRI,Puerto Rico (US),High income,gdp_pc_ppp,10,1.0
+PRI,Puerto Rico (US),High income,gini,0,0.0
+PRI,Puerto Rico (US),High income,gov_effect,0,0.0
+PRI,Puerto Rico (US),High income,gpi_sec,5,0.5
+PRI,Puerto Rico (US),High income,gpi_tert,10,1.0
+PRI,Puerto Rico (US),High income,inc_share_low20,0,0.0
+PRI,Puerto Rico (US),High income,pop_total,10,1.0
+PRI,Puerto Rico (US),High income,poverty_215,0,0.0
+PRI,Puerto Rico (US),High income,sec_completion,4,0.4
+PRI,Puerto Rico (US),High income,sec_enrol_gross,5,0.5
+PRI,Puerto Rico (US),High income,tert_enrol_gross,9,0.9
+PRI,Puerto Rico (US),High income,voice_account,0,0.0
+PRI,Puerto Rico (US),High income,work_age_share,10,1.0
+PRI,Puerto Rico (US),High income,youth_literacy,1,0.1
+QAT,Qatar,High income,adult_literacy,5,0.5
+QAT,Qatar,High income,ctrl_corrup,9,0.9
+QAT,Qatar,High income,edu_spend_gdp,3,0.3
+QAT,Qatar,High income,gdp_pc_ppp,10,1.0
+QAT,Qatar,High income,gini,1,0.1
+QAT,Qatar,High income,gov_effect,9,0.9
+QAT,Qatar,High income,gpi_sec,9,0.9
+QAT,Qatar,High income,gpi_tert,10,1.0
+QAT,Qatar,High income,inc_share_low20,1,0.1
+QAT,Qatar,High income,pop_total,10,1.0
+QAT,Qatar,High income,poverty_215,1,0.1
+QAT,Qatar,High income,sec_completion,10,1.0
+QAT,Qatar,High income,sec_enrol_gross,10,1.0
+QAT,Qatar,High income,tert_enrol_gross,10,1.0
+QAT,Qatar,High income,voice_account,9,0.9
+QAT,Qatar,High income,work_age_share,10,1.0
+QAT,Qatar,High income,youth_literacy,5,0.5
+ROU,Romania,High income,adult_literacy,1,0.1
+ROU,Romania,High income,ctrl_corrup,9,0.9
+ROU,Romania,High income,edu_spend_gdp,8,0.8
+ROU,Romania,High income,gdp_pc_ppp,10,1.0
+ROU,Romania,High income,gini,9,0.9
+ROU,Romania,High income,gov_effect,9,0.9
+ROU,Romania,High income,gpi_sec,8,0.8
+ROU,Romania,High income,gpi_tert,9,0.9
+ROU,Romania,High income,inc_share_low20,9,0.9
+ROU,Romania,High income,pop_total,10,1.0
+ROU,Romania,High income,poverty_215,9,0.9
+ROU,Romania,High income,sec_completion,9,0.9
+ROU,Romania,High income,sec_enrol_gross,9,0.9
+ROU,Romania,High income,tert_enrol_gross,9,0.9
+ROU,Romania,High income,voice_account,9,0.9
+ROU,Romania,High income,work_age_share,10,1.0
+ROU,Romania,High income,youth_literacy,1,0.1
+RUS,Russian Federation,High income,adult_literacy,1,0.1
+RUS,Russian Federation,High income,ctrl_corrup,9,0.9
+RUS,Russian Federation,High income,edu_spend_gdp,9,0.9
+RUS,Russian Federation,High income,gdp_pc_ppp,10,1.0
+RUS,Russian Federation,High income,gini,9,0.9
+RUS,Russian Federation,High income,gov_effect,9,0.9
+RUS,Russian Federation,High income,gpi_sec,5,0.5
+RUS,Russian Federation,High income,gpi_tert,10,1.0
+RUS,Russian Federation,High income,inc_share_low20,9,0.9
+RUS,Russian Federation,High income,pop_total,10,1.0
+RUS,Russian Federation,High income,poverty_215,9,0.9
+RUS,Russian Federation,High income,sec_completion,6,0.6
+RUS,Russian Federation,High income,sec_enrol_gross,9,0.9
+RUS,Russian Federation,High income,tert_enrol_gross,10,1.0
+RUS,Russian Federation,High income,voice_account,9,0.9
+RUS,Russian Federation,High income,work_age_share,10,1.0
+RUS,Russian Federation,High income,youth_literacy,1,0.1
+SMR,San Marino,High income,adult_literacy,1,0.1
+SMR,San Marino,High income,ctrl_corrup,9,0.9
+SMR,San Marino,High income,edu_spend_gdp,8,0.8
+SMR,San Marino,High income,gdp_pc_ppp,9,0.9
+SMR,San Marino,High income,gini,0,0.0
+SMR,San Marino,High income,gov_effect,9,0.9
+SMR,San Marino,High income,gpi_sec,7,0.7
+SMR,San Marino,High income,gpi_tert,7,0.7
+SMR,San Marino,High income,inc_share_low20,0,0.0
+SMR,San Marino,High income,pop_total,10,1.0
+SMR,San Marino,High income,poverty_215,0,0.0
+SMR,San Marino,High income,sec_completion,7,0.7
+SMR,San Marino,High income,sec_enrol_gross,7,0.7
+SMR,San Marino,High income,tert_enrol_gross,7,0.7
+SMR,San Marino,High income,voice_account,9,0.9
+SMR,San Marino,High income,work_age_share,10,1.0
+SMR,San Marino,High income,youth_literacy,1,0.1
+SAU,Saudi Arabia,High income,adult_literacy,3,0.3
+SAU,Saudi Arabia,High income,ctrl_corrup,9,0.9
+SAU,Saudi Arabia,High income,edu_spend_gdp,1,0.1
+SAU,Saudi Arabia,High income,gdp_pc_ppp,10,1.0
+SAU,Saudi Arabia,High income,gini,0,0.0
+SAU,Saudi Arabia,High income,gov_effect,9,0.9
+SAU,Saudi Arabia,High income,gpi_sec,9,0.9
+SAU,Saudi Arabia,High income,gpi_tert,9,0.9
+SAU,Saudi Arabia,High income,inc_share_low20,0,0.0
+SAU,Saudi Arabia,High income,pop_total,10,1.0
+SAU,Saudi Arabia,High income,poverty_215,0,0.0
+SAU,Saudi Arabia,High income,sec_completion,9,0.9
+SAU,Saudi Arabia,High income,sec_enrol_gross,9,0.9
+SAU,Saudi Arabia,High income,tert_enrol_gross,9,0.9
+SAU,Saudi Arabia,High income,voice_account,9,0.9
+SAU,Saudi Arabia,High income,work_age_share,10,1.0
+SAU,Saudi Arabia,High income,youth_literacy,3,0.3
+SYC,Seychelles,High income,adult_literacy,0,0.0
+SYC,Seychelles,High income,ctrl_corrup,9,0.9
+SYC,Seychelles,High income,edu_spend_gdp,9,0.9
+SYC,Seychelles,High income,gdp_pc_ppp,10,1.0
+SYC,Seychelles,High income,gini,1,0.1
+SYC,Seychelles,High income,gov_effect,9,0.9
+SYC,Seychelles,High income,gpi_sec,10,1.0
+SYC,Seychelles,High income,gpi_tert,10,1.0
+SYC,Seychelles,High income,inc_share_low20,1,0.1
+SYC,Seychelles,High income,pop_total,10,1.0
+SYC,Seychelles,High income,poverty_215,1,0.1
+SYC,Seychelles,High income,sec_completion,10,1.0
+SYC,Seychelles,High income,sec_enrol_gross,10,1.0
+SYC,Seychelles,High income,tert_enrol_gross,10,1.0
+SYC,Seychelles,High income,voice_account,9,0.9
+SYC,Seychelles,High income,work_age_share,10,1.0
+SYC,Seychelles,High income,youth_literacy,0,0.0
+SGP,Singapore,High income,adult_literacy,7,0.7
+SGP,Singapore,High income,ctrl_corrup,9,0.9
+SGP,Singapore,High income,edu_spend_gdp,10,1.0
+SGP,Singapore,High income,gdp_pc_ppp,10,1.0
+SGP,Singapore,High income,gini,0,0.0
+SGP,Singapore,High income,gov_effect,9,0.9
+SGP,Singapore,High income,gpi_sec,6,0.6
+SGP,Singapore,High income,gpi_tert,8,0.8
+SGP,Singapore,High income,inc_share_low20,0,0.0
+SGP,Singapore,High income,pop_total,10,1.0
+SGP,Singapore,High income,poverty_215,0,0.0
+SGP,Singapore,High income,sec_completion,8,0.8
+SGP,Singapore,High income,sec_enrol_gross,8,0.8
+SGP,Singapore,High income,tert_enrol_gross,8,0.8
+SGP,Singapore,High income,voice_account,9,0.9
+SGP,Singapore,High income,work_age_share,10,1.0
+SGP,Singapore,High income,youth_literacy,7,0.7
+SXM,Sint Maarten (Dutch part),High income,adult_literacy,0,0.0
+SXM,Sint Maarten (Dutch part),High income,ctrl_corrup,0,0.0
+SXM,Sint Maarten (Dutch part),High income,edu_spend_gdp,2,0.2
+SXM,Sint Maarten (Dutch part),High income,gdp_pc_ppp,10,1.0
+SXM,Sint Maarten (Dutch part),High income,gini,0,0.0
+SXM,Sint Maarten (Dutch part),High income,gov_effect,0,0.0
+SXM,Sint Maarten (Dutch part),High income,gpi_sec,0,0.0
+SXM,Sint Maarten (Dutch part),High income,gpi_tert,4,0.4
+SXM,Sint Maarten (Dutch part),High income,inc_share_low20,0,0.0
+SXM,Sint Maarten (Dutch part),High income,pop_total,10,1.0
+SXM,Sint Maarten (Dutch part),High income,poverty_215,0,0.0
+SXM,Sint Maarten (Dutch part),High income,sec_completion,0,0.0
+SXM,Sint Maarten (Dutch part),High income,sec_enrol_gross,0,0.0
+SXM,Sint Maarten (Dutch part),High income,tert_enrol_gross,4,0.4
+SXM,Sint Maarten (Dutch part),High income,voice_account,0,0.0
+SXM,Sint Maarten (Dutch part),High income,work_age_share,10,1.0
+SXM,Sint Maarten (Dutch part),High income,youth_literacy,0,0.0
+SVK,Slovak Republic,High income,adult_literacy,0,0.0
+SVK,Slovak Republic,High income,ctrl_corrup,9,0.9
+SVK,Slovak Republic,High income,edu_spend_gdp,8,0.8
+SVK,Slovak Republic,High income,gdp_pc_ppp,10,1.0
+SVK,Slovak Republic,High income,gini,9,0.9
+SVK,Slovak Republic,High income,gov_effect,9,0.9
+SVK,Slovak Republic,High income,gpi_sec,10,1.0
+SVK,Slovak Republic,High income,gpi_tert,10,1.0
+SVK,Slovak Republic,High income,inc_share_low20,9,0.9
+SVK,Slovak Republic,High income,pop_total,10,1.0
+SVK,Slovak Republic,High income,poverty_215,9,0.9
+SVK,Slovak Republic,High income,sec_completion,10,1.0
+SVK,Slovak Republic,High income,sec_enrol_gross,10,1.0
+SVK,Slovak Republic,High income,tert_enrol_gross,10,1.0
+SVK,Slovak Republic,High income,voice_account,9,0.9
+SVK,Slovak Republic,High income,work_age_share,10,1.0
+SVK,Slovak Republic,High income,youth_literacy,0,0.0
+SVN,Slovenia,High income,adult_literacy,0,0.0
+SVN,Slovenia,High income,ctrl_corrup,9,0.9
+SVN,Slovenia,High income,edu_spend_gdp,8,0.8
+SVN,Slovenia,High income,gdp_pc_ppp,10,1.0
+SVN,Slovenia,High income,gini,9,0.9
+SVN,Slovenia,High income,gov_effect,9,0.9
+SVN,Slovenia,High income,gpi_sec,9,0.9
+SVN,Slovenia,High income,gpi_tert,9,0.9
+SVN,Slovenia,High income,inc_share_low20,9,0.9
+SVN,Slovenia,High income,pop_total,10,1.0
+SVN,Slovenia,High income,poverty_215,9,0.9
+SVN,Slovenia,High income,sec_completion,9,0.9
+SVN,Slovenia,High income,sec_enrol_gross,9,0.9
+SVN,Slovenia,High income,tert_enrol_gross,9,0.9
+SVN,Slovenia,High income,voice_account,9,0.9
+SVN,Slovenia,High income,work_age_share,10,1.0
+SVN,Slovenia,High income,youth_literacy,0,0.0
+ESP,Spain,High income,adult_literacy,5,0.5
+ESP,Spain,High income,ctrl_corrup,9,0.9
+ESP,Spain,High income,edu_spend_gdp,8,0.8
+ESP,Spain,High income,gdp_pc_ppp,10,1.0
+ESP,Spain,High income,gini,9,0.9
+ESP,Spain,High income,gov_effect,9,0.9
+ESP,Spain,High income,gpi_sec,10,1.0
+ESP,Spain,High income,gpi_tert,10,1.0
+ESP,Spain,High income,inc_share_low20,9,0.9
+ESP,Spain,High income,pop_total,10,1.0
+ESP,Spain,High income,poverty_215,9,0.9
+ESP,Spain,High income,sec_completion,10,1.0
+ESP,Spain,High income,sec_enrol_gross,10,1.0
+ESP,Spain,High income,tert_enrol_gross,10,1.0
+ESP,Spain,High income,voice_account,9,0.9
+ESP,Spain,High income,work_age_share,10,1.0
+ESP,Spain,High income,youth_literacy,5,0.5
+KNA,St. Kitts and Nevis,High income,adult_literacy,0,0.0
+KNA,St. Kitts and Nevis,High income,ctrl_corrup,9,0.9
+KNA,St. Kitts and Nevis,High income,edu_spend_gdp,9,0.9
+KNA,St. Kitts and Nevis,High income,gdp_pc_ppp,10,1.0
+KNA,St. Kitts and Nevis,High income,gini,0,0.0
+KNA,St. Kitts and Nevis,High income,gov_effect,9,0.9
+KNA,St. Kitts and Nevis,High income,gpi_sec,3,0.3
+KNA,St. Kitts and Nevis,High income,gpi_tert,9,0.9
+KNA,St. Kitts and Nevis,High income,inc_share_low20,0,0.0
+KNA,St. Kitts and Nevis,High income,pop_total,10,1.0
+KNA,St. Kitts and Nevis,High income,poverty_215,0,0.0
+KNA,St. Kitts and Nevis,High income,sec_completion,9,0.9
+KNA,St. Kitts and Nevis,High income,sec_enrol_gross,9,0.9
+KNA,St. Kitts and Nevis,High income,tert_enrol_gross,1,0.1
+KNA,St. Kitts and Nevis,High income,voice_account,9,0.9
+KNA,St. Kitts and Nevis,High income,work_age_share,10,1.0
+KNA,St. Kitts and Nevis,High income,youth_literacy,0,0.0
+MAF,St. Martin (French part),High income,adult_literacy,0,0.0
+MAF,St. Martin (French part),High income,ctrl_corrup,0,0.0
+MAF,St. Martin (French part),High income,edu_spend_gdp,0,0.0
+MAF,St. Martin (French part),High income,gdp_pc_ppp,0,0.0
+MAF,St. Martin (French part),High income,gini,0,0.0
+MAF,St. Martin (French part),High income,gov_effect,0,0.0
+MAF,St. Martin (French part),High income,gpi_sec,0,0.0
+MAF,St. Martin (French part),High income,gpi_tert,0,0.0
+MAF,St. Martin (French part),High income,inc_share_low20,0,0.0
+MAF,St. Martin (French part),High income,pop_total,10,1.0
+MAF,St. Martin (French part),High income,poverty_215,0,0.0
+MAF,St. Martin (French part),High income,sec_completion,0,0.0
+MAF,St. Martin (French part),High income,sec_enrol_gross,0,0.0
+MAF,St. Martin (French part),High income,tert_enrol_gross,0,0.0
+MAF,St. Martin (French part),High income,voice_account,0,0.0
+MAF,St. Martin (French part),High income,work_age_share,10,1.0
+MAF,St. Martin (French part),High income,youth_literacy,0,0.0
+SWE,Sweden,High income,adult_literacy,0,0.0
+SWE,Sweden,High income,ctrl_corrup,9,0.9
+SWE,Sweden,High income,edu_spend_gdp,8,0.8
+SWE,Sweden,High income,gdp_pc_ppp,10,1.0
+SWE,Sweden,High income,gini,9,0.9
+SWE,Sweden,High income,gov_effect,9,0.9
+SWE,Sweden,High income,gpi_sec,10,1.0
+SWE,Sweden,High income,gpi_tert,10,1.0
+SWE,Sweden,High income,inc_share_low20,9,0.9
+SWE,Sweden,High income,pop_total,10,1.0
+SWE,Sweden,High income,poverty_215,9,0.9
+SWE,Sweden,High income,sec_completion,10,1.0
+SWE,Sweden,High income,sec_enrol_gross,10,1.0
+SWE,Sweden,High income,tert_enrol_gross,10,1.0
+SWE,Sweden,High income,voice_account,9,0.9
+SWE,Sweden,High income,work_age_share,10,1.0
+SWE,Sweden,High income,youth_literacy,0,0.0
+CHE,Switzerland,High income,adult_literacy,0,0.0
+CHE,Switzerland,High income,ctrl_corrup,9,0.9
+CHE,Switzerland,High income,edu_spend_gdp,8,0.8
+CHE,Switzerland,High income,gdp_pc_ppp,10,1.0
+CHE,Switzerland,High income,gini,8,0.8
+CHE,Switzerland,High income,gov_effect,9,0.9
+CHE,Switzerland,High income,gpi_sec,9,0.9
+CHE,Switzerland,High income,gpi_tert,10,1.0
+CHE,Switzerland,High income,inc_share_low20,8,0.8
+CHE,Switzerland,High income,pop_total,10,1.0
+CHE,Switzerland,High income,poverty_215,8,0.8
+CHE,Switzerland,High income,sec_completion,10,1.0
+CHE,Switzerland,High income,sec_enrol_gross,10,1.0
+CHE,Switzerland,High income,tert_enrol_gross,10,1.0
+CHE,Switzerland,High income,voice_account,9,0.9
+CHE,Switzerland,High income,work_age_share,10,1.0
+CHE,Switzerland,High income,youth_literacy,0,0.0
+TTO,Trinidad and Tobago,High income,adult_literacy,0,0.0
+TTO,Trinidad and Tobago,High income,ctrl_corrup,9,0.9
+TTO,Trinidad and Tobago,High income,edu_spend_gdp,9,0.9
+TTO,Trinidad and Tobago,High income,gdp_pc_ppp,10,1.0
+TTO,Trinidad and Tobago,High income,gini,0,0.0
+TTO,Trinidad and Tobago,High income,gov_effect,9,0.9
+TTO,Trinidad and Tobago,High income,gpi_sec,2,0.2
+TTO,Trinidad and Tobago,High income,gpi_tert,2,0.2
+TTO,Trinidad and Tobago,High income,inc_share_low20,0,0.0
+TTO,Trinidad and Tobago,High income,pop_total,10,1.0
+TTO,Trinidad and Tobago,High income,poverty_215,0,0.0
+TTO,Trinidad and Tobago,High income,sec_completion,4,0.4
+TTO,Trinidad and Tobago,High income,sec_enrol_gross,2,0.2
+TTO,Trinidad and Tobago,High income,tert_enrol_gross,1,0.1
+TTO,Trinidad and Tobago,High income,voice_account,9,0.9
+TTO,Trinidad and Tobago,High income,work_age_share,10,1.0
+TTO,Trinidad and Tobago,High income,youth_literacy,1,0.1
+TCA,Turks and Caicos Islands,High income,adult_literacy,0,0.0
+TCA,Turks and Caicos Islands,High income,ctrl_corrup,0,0.0
+TCA,Turks and Caicos Islands,High income,edu_spend_gdp,10,1.0
+TCA,Turks and Caicos Islands,High income,gdp_pc_ppp,10,1.0
+TCA,Turks and Caicos Islands,High income,gini,0,0.0
+TCA,Turks and Caicos Islands,High income,gov_effect,0,0.0
+TCA,Turks and Caicos Islands,High income,gpi_sec,5,0.5
+TCA,Turks and Caicos Islands,High income,gpi_tert,10,1.0
+TCA,Turks and Caicos Islands,High income,inc_share_low20,0,0.0
+TCA,Turks and Caicos Islands,High income,pop_total,10,1.0
+TCA,Turks and Caicos Islands,High income,poverty_215,0,0.0
+TCA,Turks and Caicos Islands,High income,sec_completion,7,0.7
+TCA,Turks and Caicos Islands,High income,sec_enrol_gross,10,1.0
+TCA,Turks and Caicos Islands,High income,tert_enrol_gross,7,0.7
+TCA,Turks and Caicos Islands,High income,voice_account,0,0.0
+TCA,Turks and Caicos Islands,High income,work_age_share,10,1.0
+TCA,Turks and Caicos Islands,High income,youth_literacy,1,0.1
+ARE,United Arab Emirates,High income,adult_literacy,5,0.5
+ARE,United Arab Emirates,High income,ctrl_corrup,9,0.9
+ARE,United Arab Emirates,High income,edu_spend_gdp,3,0.3
+ARE,United Arab Emirates,High income,gdp_pc_ppp,10,1.0
+ARE,United Arab Emirates,High income,gini,1,0.1
+ARE,United Arab Emirates,High income,gov_effect,9,0.9
+ARE,United Arab Emirates,High income,gpi_sec,5,0.5
+ARE,United Arab Emirates,High income,gpi_tert,7,0.7
+ARE,United Arab Emirates,High income,inc_share_low20,1,0.1
+ARE,United Arab Emirates,High income,pop_total,10,1.0
+ARE,United Arab Emirates,High income,poverty_215,1,0.1
+ARE,United Arab Emirates,High income,sec_completion,6,0.6
+ARE,United Arab Emirates,High income,sec_enrol_gross,7,0.7
+ARE,United Arab Emirates,High income,tert_enrol_gross,7,0.7
+ARE,United Arab Emirates,High income,voice_account,9,0.9
+ARE,United Arab Emirates,High income,work_age_share,10,1.0
+ARE,United Arab Emirates,High income,youth_literacy,5,0.5
+GBR,United Kingdom,High income,adult_literacy,0,0.0
+GBR,United Kingdom,High income,ctrl_corrup,9,0.9
+GBR,United Kingdom,High income,edu_spend_gdp,7,0.7
+GBR,United Kingdom,High income,gdp_pc_ppp,10,1.0
+GBR,United Kingdom,High income,gini,7,0.7
+GBR,United Kingdom,High income,gov_effect,9,0.9
+GBR,United Kingdom,High income,gpi_sec,8,0.8
+GBR,United Kingdom,High income,gpi_tert,9,0.9
+GBR,United Kingdom,High income,inc_share_low20,7,0.7
+GBR,United Kingdom,High income,pop_total,10,1.0
+GBR,United Kingdom,High income,poverty_215,7,0.7
+GBR,United Kingdom,High income,sec_completion,7,0.7
+GBR,United Kingdom,High income,sec_enrol_gross,8,0.8
+GBR,United Kingdom,High income,tert_enrol_gross,9,0.9
+GBR,United Kingdom,High income,voice_account,9,0.9
+GBR,United Kingdom,High income,work_age_share,10,1.0
+GBR,United Kingdom,High income,youth_literacy,0,0.0
+USA,United States,High income,adult_literacy,0,0.0
+USA,United States,High income,ctrl_corrup,9,0.9
+USA,United States,High income,edu_spend_gdp,7,0.7
+USA,United States,High income,gdp_pc_ppp,10,1.0
+USA,United States,High income,gini,10,1.0
+USA,United States,High income,gov_effect,9,0.9
+USA,United States,High income,gpi_sec,7,0.7
+USA,United States,High income,gpi_tert,8,0.8
+USA,United States,High income,inc_share_low20,10,1.0
+USA,United States,High income,pop_total,10,1.0
+USA,United States,High income,poverty_215,10,1.0
+USA,United States,High income,sec_completion,9,0.9
+USA,United States,High income,sec_enrol_gross,8,0.8
+USA,United States,High income,tert_enrol_gross,8,0.8
+USA,United States,High income,voice_account,9,0.9
+USA,United States,High income,work_age_share,10,1.0
+USA,United States,High income,youth_literacy,0,0.0
+URY,Uruguay,High income,adult_literacy,9,0.9
+URY,Uruguay,High income,ctrl_corrup,9,0.9
+URY,Uruguay,High income,edu_spend_gdp,9,0.9
+URY,Uruguay,High income,gdp_pc_ppp,10,1.0
+URY,Uruguay,High income,gini,10,1.0
+URY,Uruguay,High income,gov_effect,9,0.9
+URY,Uruguay,High income,gpi_sec,8,0.8
+URY,Uruguay,High income,gpi_tert,7,0.7
+URY,Uruguay,High income,inc_share_low20,10,1.0
+URY,Uruguay,High income,pop_total,10,1.0
+URY,Uruguay,High income,poverty_215,10,1.0
+URY,Uruguay,High income,sec_completion,9,0.9
+URY,Uruguay,High income,sec_enrol_gross,9,0.9
+URY,Uruguay,High income,tert_enrol_gross,9,0.9
+URY,Uruguay,High income,voice_account,9,0.9
+URY,Uruguay,High income,work_age_share,10,1.0
+URY,Uruguay,High income,youth_literacy,10,1.0
+VIR,Virgin Islands (U.S.),High income,adult_literacy,0,0.0
+VIR,Virgin Islands (U.S.),High income,ctrl_corrup,0,0.0
+VIR,Virgin Islands (U.S.),High income,edu_spend_gdp,0,0.0
+VIR,Virgin Islands (U.S.),High income,gdp_pc_ppp,8,0.8
+VIR,Virgin Islands (U.S.),High income,gini,0,0.0
+VIR,Virgin Islands (U.S.),High income,gov_effect,0,0.0
+VIR,Virgin Islands (U.S.),High income,gpi_sec,0,0.0
+VIR,Virgin Islands (U.S.),High income,gpi_tert,0,0.0
+VIR,Virgin Islands (U.S.),High income,inc_share_low20,0,0.0
+VIR,Virgin Islands (U.S.),High income,pop_total,10,1.0
+VIR,Virgin Islands (U.S.),High income,poverty_215,0,0.0
+VIR,Virgin Islands (U.S.),High income,sec_completion,0,0.0
+VIR,Virgin Islands (U.S.),High income,sec_enrol_gross,0,0.0
+VIR,Virgin Islands (U.S.),High income,tert_enrol_gross,0,0.0
+VIR,Virgin Islands (U.S.),High income,voice_account,0,0.0
+VIR,Virgin Islands (U.S.),High income,work_age_share,10,1.0
+VIR,Virgin Islands (U.S.),High income,youth_literacy,0,0.0
+ALB,Albania,Upper middle income,adult_literacy,2,0.2
+ALB,Albania,Upper middle income,ctrl_corrup,9,0.9
+ALB,Albania,Upper middle income,edu_spend_gdp,9,0.9
+ALB,Albania,Upper middle income,gdp_pc_ppp,10,1.0
+ALB,Albania,Upper middle income,gini,6,0.6
+ALB,Albania,Upper middle income,gov_effect,9,0.9
+ALB,Albania,Upper middle income,gpi_sec,8,0.8
+ALB,Albania,Upper middle income,gpi_tert,10,1.0
+ALB,Albania,Upper middle income,inc_share_low20,6,0.6
+ALB,Albania,Upper middle income,pop_total,10,1.0
+ALB,Albania,Upper middle income,poverty_215,6,0.6
+ALB,Albania,Upper middle income,sec_completion,9,0.9
+ALB,Albania,Upper middle income,sec_enrol_gross,10,1.0
+ALB,Albania,Upper middle income,tert_enrol_gross,10,1.0
+ALB,Albania,Upper middle income,voice_account,9,0.9
+ALB,Albania,Upper middle income,work_age_share,10,1.0
+ALB,Albania,Upper middle income,youth_literacy,2,0.2
+DZA,Algeria,Upper middle income,adult_literacy,0,0.0
+DZA,Algeria,Upper middle income,ctrl_corrup,9,0.9
+DZA,Algeria,Upper middle income,edu_spend_gdp,10,1.0
+DZA,Algeria,Upper middle income,gdp_pc_ppp,10,1.0
+DZA,Algeria,Upper middle income,gini,0,0.0
+DZA,Algeria,Upper middle income,gov_effect,9,0.9
+DZA,Algeria,Upper middle income,gpi_sec,10,1.0
+DZA,Algeria,Upper middle income,gpi_tert,10,1.0
+DZA,Algeria,Upper middle income,inc_share_low20,0,0.0
+DZA,Algeria,Upper middle income,pop_total,10,1.0
+DZA,Algeria,Upper middle income,poverty_215,0,0.0
+DZA,Algeria,Upper middle income,sec_completion,10,1.0
+DZA,Algeria,Upper middle income,sec_enrol_gross,10,1.0
+DZA,Algeria,Upper middle income,tert_enrol_gross,10,1.0
+DZA,Algeria,Upper middle income,voice_account,9,0.9
+DZA,Algeria,Upper middle income,work_age_share,10,1.0
+DZA,Algeria,Upper middle income,youth_literacy,0,0.0
+ARG,Argentina,Upper middle income,adult_literacy,1,0.1
+ARG,Argentina,Upper middle income,ctrl_corrup,9,0.9
+ARG,Argentina,Upper middle income,edu_spend_gdp,9,0.9
+ARG,Argentina,Upper middle income,gdp_pc_ppp,10,1.0
+ARG,Argentina,Upper middle income,gini,9,0.9
+ARG,Argentina,Upper middle income,gov_effect,9,0.9
+ARG,Argentina,Upper middle income,gpi_sec,6,0.6
+ARG,Argentina,Upper middle income,gpi_tert,9,0.9
+ARG,Argentina,Upper middle income,inc_share_low20,9,0.9
+ARG,Argentina,Upper middle income,pop_total,10,1.0
+ARG,Argentina,Upper middle income,poverty_215,9,0.9
+ARG,Argentina,Upper middle income,sec_completion,9,0.9
+ARG,Argentina,Upper middle income,sec_enrol_gross,9,0.9
+ARG,Argentina,Upper middle income,tert_enrol_gross,9,0.9
+ARG,Argentina,Upper middle income,voice_account,9,0.9
+ARG,Argentina,Upper middle income,work_age_share,10,1.0
+ARG,Argentina,Upper middle income,youth_literacy,1,0.1
+ARM,Armenia,Upper middle income,adult_literacy,7,0.7
+ARM,Armenia,Upper middle income,ctrl_corrup,9,0.9
+ARM,Armenia,Upper middle income,edu_spend_gdp,9,0.9
+ARM,Armenia,Upper middle income,gdp_pc_ppp,10,1.0
+ARM,Armenia,Upper middle income,gini,10,1.0
+ARM,Armenia,Upper middle income,gov_effect,9,0.9
+ARM,Armenia,Upper middle income,gpi_sec,10,1.0
+ARM,Armenia,Upper middle income,gpi_tert,10,1.0
+ARM,Armenia,Upper middle income,inc_share_low20,10,1.0
+ARM,Armenia,Upper middle income,pop_total,10,1.0
+ARM,Armenia,Upper middle income,poverty_215,10,1.0
+ARM,Armenia,Upper middle income,sec_completion,9,0.9
+ARM,Armenia,Upper middle income,sec_enrol_gross,10,1.0
+ARM,Armenia,Upper middle income,tert_enrol_gross,10,1.0
+ARM,Armenia,Upper middle income,voice_account,9,0.9
+ARM,Armenia,Upper middle income,work_age_share,10,1.0
+ARM,Armenia,Upper middle income,youth_literacy,7,0.7
+AZE,Azerbaijan,Upper middle income,adult_literacy,5,0.5
+AZE,Azerbaijan,Upper middle income,ctrl_corrup,9,0.9
+AZE,Azerbaijan,Upper middle income,edu_spend_gdp,9,0.9
+AZE,Azerbaijan,Upper middle income,gdp_pc_ppp,10,1.0
+AZE,Azerbaijan,Upper middle income,gini,0,0.0
+AZE,Azerbaijan,Upper middle income,gov_effect,9,0.9
+AZE,Azerbaijan,Upper middle income,gpi_sec,10,1.0
+AZE,Azerbaijan,Upper middle income,gpi_tert,10,1.0
+AZE,Azerbaijan,Upper middle income,inc_share_low20,0,0.0
+AZE,Azerbaijan,Upper middle income,pop_total,10,1.0
+AZE,Azerbaijan,Upper middle income,poverty_215,0,0.0
+AZE,Azerbaijan,Upper middle income,sec_completion,10,1.0
+AZE,Azerbaijan,Upper middle income,sec_enrol_gross,10,1.0
+AZE,Azerbaijan,Upper middle income,tert_enrol_gross,10,1.0
+AZE,Azerbaijan,Upper middle income,voice_account,9,0.9
+AZE,Azerbaijan,Upper middle income,work_age_share,10,1.0
+AZE,Azerbaijan,Upper middle income,youth_literacy,5,0.5
+BLR,Belarus,Upper middle income,adult_literacy,1,0.1
+BLR,Belarus,Upper middle income,ctrl_corrup,9,0.9
+BLR,Belarus,Upper middle income,edu_spend_gdp,10,1.0
+BLR,Belarus,Upper middle income,gdp_pc_ppp,10,1.0
+BLR,Belarus,Upper middle income,gini,6,0.6
+BLR,Belarus,Upper middle income,gov_effect,9,0.9
+BLR,Belarus,Upper middle income,gpi_sec,10,1.0
+BLR,Belarus,Upper middle income,gpi_tert,10,1.0
+BLR,Belarus,Upper middle income,inc_share_low20,6,0.6
+BLR,Belarus,Upper middle income,pop_total,10,1.0
+BLR,Belarus,Upper middle income,poverty_215,6,0.6
+BLR,Belarus,Upper middle income,sec_completion,10,1.0
+BLR,Belarus,Upper middle income,sec_enrol_gross,10,1.0
+BLR,Belarus,Upper middle income,tert_enrol_gross,10,1.0
+BLR,Belarus,Upper middle income,voice_account,9,0.9
+BLR,Belarus,Upper middle income,work_age_share,10,1.0
+BLR,Belarus,Upper middle income,youth_literacy,1,0.1
+BLZ,Belize,Upper middle income,adult_literacy,2,0.2
+BLZ,Belize,Upper middle income,ctrl_corrup,9,0.9
+BLZ,Belize,Upper middle income,edu_spend_gdp,10,1.0
+BLZ,Belize,Upper middle income,gdp_pc_ppp,10,1.0
+BLZ,Belize,Upper middle income,gini,1,0.1
+BLZ,Belize,Upper middle income,gov_effect,9,0.9
+BLZ,Belize,Upper middle income,gpi_sec,10,1.0
+BLZ,Belize,Upper middle income,gpi_tert,10,1.0
+BLZ,Belize,Upper middle income,inc_share_low20,1,0.1
+BLZ,Belize,Upper middle income,pop_total,10,1.0
+BLZ,Belize,Upper middle income,poverty_215,1,0.1
+BLZ,Belize,Upper middle income,sec_completion,10,1.0
+BLZ,Belize,Upper middle income,sec_enrol_gross,10,1.0
+BLZ,Belize,Upper middle income,tert_enrol_gross,10,1.0
+BLZ,Belize,Upper middle income,voice_account,9,0.9
+BLZ,Belize,Upper middle income,work_age_share,10,1.0
+BLZ,Belize,Upper middle income,youth_literacy,2,0.2
+BIH,Bosnia and Herzegovina,Upper middle income,adult_literacy,0,0.0
+BIH,Bosnia and Herzegovina,Upper middle income,ctrl_corrup,9,0.9
+BIH,Bosnia and Herzegovina,Upper middle income,edu_spend_gdp,9,0.9
+BIH,Bosnia and Herzegovina,Upper middle income,gdp_pc_ppp,10,1.0
+BIH,Bosnia and Herzegovina,Upper middle income,gini,2,0.2
+BIH,Bosnia and Herzegovina,Upper middle income,gov_effect,9,0.9
+BIH,Bosnia and Herzegovina,Upper middle income,gpi_sec,7,0.7
+BIH,Bosnia and Herzegovina,Upper middle income,gpi_tert,9,0.9
+BIH,Bosnia and Herzegovina,Upper middle income,inc_share_low20,2,0.2
+BIH,Bosnia and Herzegovina,Upper middle income,pop_total,10,1.0
+BIH,Bosnia and Herzegovina,Upper middle income,poverty_215,2,0.2
+BIH,Bosnia and Herzegovina,Upper middle income,sec_completion,9,0.9
+BIH,Bosnia and Herzegovina,Upper middle income,sec_enrol_gross,9,0.9
+BIH,Bosnia and Herzegovina,Upper middle income,tert_enrol_gross,9,0.9
+BIH,Bosnia and Herzegovina,Upper middle income,voice_account,9,0.9
+BIH,Bosnia and Herzegovina,Upper middle income,work_age_share,10,1.0
+BIH,Bosnia and Herzegovina,Upper middle income,youth_literacy,0,0.0
+BWA,Botswana,Upper middle income,adult_literacy,0,0.0
+BWA,Botswana,Upper middle income,ctrl_corrup,9,0.9
+BWA,Botswana,Upper middle income,edu_spend_gdp,6,0.6
+BWA,Botswana,Upper middle income,gdp_pc_ppp,10,1.0
+BWA,Botswana,Upper middle income,gini,1,0.1
+BWA,Botswana,Upper middle income,gov_effect,9,0.9
+BWA,Botswana,Upper middle income,gpi_sec,2,0.2
+BWA,Botswana,Upper middle income,gpi_tert,9,0.9
+BWA,Botswana,Upper middle income,inc_share_low20,1,0.1
+BWA,Botswana,Upper middle income,pop_total,10,1.0
+BWA,Botswana,Upper middle income,poverty_215,1,0.1
+BWA,Botswana,Upper middle income,sec_completion,1,0.1
+BWA,Botswana,Upper middle income,sec_enrol_gross,2,0.2
+BWA,Botswana,Upper middle income,tert_enrol_gross,9,0.9
+BWA,Botswana,Upper middle income,voice_account,9,0.9
+BWA,Botswana,Upper middle income,work_age_share,10,1.0
+BWA,Botswana,Upper middle income,youth_literacy,0,0.0
+BRA,Brazil,Upper middle income,adult_literacy,10,1.0
+BRA,Brazil,Upper middle income,ctrl_corrup,9,0.9
+BRA,Brazil,Upper middle income,edu_spend_gdp,8,0.8
+BRA,Brazil,Upper middle income,gdp_pc_ppp,10,1.0
+BRA,Brazil,Upper middle income,gini,10,1.0
+BRA,Brazil,Upper middle income,gov_effect,9,0.9
+BRA,Brazil,Upper middle income,gpi_sec,9,0.9
+BRA,Brazil,Upper middle income,gpi_tert,9,0.9
+BRA,Brazil,Upper middle income,inc_share_low20,10,1.0
+BRA,Brazil,Upper middle income,pop_total,10,1.0
+BRA,Brazil,Upper middle income,poverty_215,10,1.0
+BRA,Brazil,Upper middle income,sec_completion,5,0.5
+BRA,Brazil,Upper middle income,sec_enrol_gross,9,0.9
+BRA,Brazil,Upper middle income,tert_enrol_gross,9,0.9
+BRA,Brazil,Upper middle income,voice_account,9,0.9
+BRA,Brazil,Upper middle income,work_age_share,10,1.0
+BRA,Brazil,Upper middle income,youth_literacy,10,1.0
+CPV,Cabo Verde,Upper middle income,adult_literacy,2,0.2
+CPV,Cabo Verde,Upper middle income,ctrl_corrup,9,0.9
+CPV,Cabo Verde,Upper middle income,edu_spend_gdp,9,0.9
+CPV,Cabo Verde,Upper middle income,gdp_pc_ppp,10,1.0
+CPV,Cabo Verde,Upper middle income,gini,1,0.1
+CPV,Cabo Verde,Upper middle income,gov_effect,9,0.9
+CPV,Cabo Verde,Upper middle income,gpi_sec,8,0.8
+CPV,Cabo Verde,Upper middle income,gpi_tert,8,0.8
+CPV,Cabo Verde,Upper middle income,inc_share_low20,1,0.1
+CPV,Cabo Verde,Upper middle income,pop_total,10,1.0
+CPV,Cabo Verde,Upper middle income,poverty_215,1,0.1
+CPV,Cabo Verde,Upper middle income,sec_completion,8,0.8
+CPV,Cabo Verde,Upper middle income,sec_enrol_gross,8,0.8
+CPV,Cabo Verde,Upper middle income,tert_enrol_gross,4,0.4
+CPV,Cabo Verde,Upper middle income,voice_account,9,0.9
+CPV,Cabo Verde,Upper middle income,work_age_share,10,1.0
+CPV,Cabo Verde,Upper middle income,youth_literacy,2,0.2
+CHN,China,Upper middle income,adult_literacy,1,0.1
+CHN,China,Upper middle income,ctrl_corrup,9,0.9
+CHN,China,Upper middle income,edu_spend_gdp,1,0.1
+CHN,China,Upper middle income,gdp_pc_ppp,10,1.0
+CHN,China,Upper middle income,gini,8,0.8
+CHN,China,Upper middle income,gov_effect,9,0.9
+CHN,China,Upper middle income,gpi_sec,0,0.0
+CHN,China,Upper middle income,gpi_tert,10,1.0
+CHN,China,Upper middle income,inc_share_low20,8,0.8
+CHN,China,Upper middle income,pop_total,10,1.0
+CHN,China,Upper middle income,poverty_215,8,0.8
+CHN,China,Upper middle income,sec_completion,0,0.0
+CHN,China,Upper middle income,sec_enrol_gross,0,0.0
+CHN,China,Upper middle income,tert_enrol_gross,10,1.0
+CHN,China,Upper middle income,voice_account,9,0.9
+CHN,China,Upper middle income,work_age_share,10,1.0
+CHN,China,Upper middle income,youth_literacy,1,0.1
+COL,Colombia,Upper middle income,adult_literacy,10,1.0
+COL,Colombia,Upper middle income,ctrl_corrup,9,0.9
+COL,Colombia,Upper middle income,edu_spend_gdp,6,0.6
+COL,Colombia,Upper middle income,gdp_pc_ppp,10,1.0
+COL,Colombia,Upper middle income,gini,10,1.0
+COL,Colombia,Upper middle income,gov_effect,9,0.9
+COL,Colombia,Upper middle income,gpi_sec,8,0.8
+COL,Colombia,Upper middle income,gpi_tert,8,0.8
+COL,Colombia,Upper middle income,inc_share_low20,10,1.0
+COL,Colombia,Upper middle income,pop_total,10,1.0
+COL,Colombia,Upper middle income,poverty_215,10,1.0
+COL,Colombia,Upper middle income,sec_completion,8,0.8
+COL,Colombia,Upper middle income,sec_enrol_gross,8,0.8
+COL,Colombia,Upper middle income,tert_enrol_gross,8,0.8
+COL,Colombia,Upper middle income,voice_account,9,0.9
+COL,Colombia,Upper middle income,work_age_share,10,1.0
+COL,Colombia,Upper middle income,youth_literacy,10,1.0
+CUB,Cuba,Upper middle income,adult_literacy,1,0.1
+CUB,Cuba,Upper middle income,ctrl_corrup,9,0.9
+CUB,Cuba,Upper middle income,edu_spend_gdp,8,0.8
+CUB,Cuba,Upper middle income,gdp_pc_ppp,0,0.0
+CUB,Cuba,Upper middle income,gini,0,0.0
+CUB,Cuba,Upper middle income,gov_effect,9,0.9
+CUB,Cuba,Upper middle income,gpi_sec,10,1.0
+CUB,Cuba,Upper middle income,gpi_tert,10,1.0
+CUB,Cuba,Upper middle income,inc_share_low20,0,0.0
+CUB,Cuba,Upper middle income,pop_total,10,1.0
+CUB,Cuba,Upper middle income,poverty_215,0,0.0
+CUB,Cuba,Upper middle income,sec_completion,10,1.0
+CUB,Cuba,Upper middle income,sec_enrol_gross,10,1.0
+CUB,Cuba,Upper middle income,tert_enrol_gross,9,0.9
+CUB,Cuba,Upper middle income,voice_account,9,0.9
+CUB,Cuba,Upper middle income,work_age_share,10,1.0
+CUB,Cuba,Upper middle income,youth_literacy,1,0.1
+DMA,Dominica,Upper middle income,adult_literacy,0,0.0
+DMA,Dominica,Upper middle income,ctrl_corrup,9,0.9
+DMA,Dominica,Upper middle income,edu_spend_gdp,10,1.0
+DMA,Dominica,Upper middle income,gdp_pc_ppp,10,1.0
+DMA,Dominica,Upper middle income,gini,0,0.0
+DMA,Dominica,Upper middle income,gov_effect,9,0.9
+DMA,Dominica,Upper middle income,gpi_sec,5,0.5
+DMA,Dominica,Upper middle income,gpi_tert,6,0.6
+DMA,Dominica,Upper middle income,inc_share_low20,0,0.0
+DMA,Dominica,Upper middle income,pop_total,10,1.0
+DMA,Dominica,Upper middle income,poverty_215,0,0.0
+DMA,Dominica,Upper middle income,sec_completion,7,0.7
+DMA,Dominica,Upper middle income,sec_enrol_gross,7,0.7
+DMA,Dominica,Upper middle income,tert_enrol_gross,0,0.0
+DMA,Dominica,Upper middle income,voice_account,9,0.9
+DMA,Dominica,Upper middle income,work_age_share,10,1.0
+DMA,Dominica,Upper middle income,youth_literacy,0,0.0
+DOM,Dominican Republic,Upper middle income,adult_literacy,10,1.0
+DOM,Dominican Republic,Upper middle income,ctrl_corrup,9,0.9
+DOM,Dominican Republic,Upper middle income,edu_spend_gdp,9,0.9
+DOM,Dominican Republic,Upper middle income,gdp_pc_ppp,10,1.0
+DOM,Dominican Republic,Upper middle income,gini,10,1.0
+DOM,Dominican Republic,Upper middle income,gov_effect,9,0.9
+DOM,Dominican Republic,Upper middle income,gpi_sec,10,1.0
+DOM,Dominican Republic,Upper middle income,gpi_tert,10,1.0
+DOM,Dominican Republic,Upper middle income,inc_share_low20,10,1.0
+DOM,Dominican Republic,Upper middle income,pop_total,10,1.0
+DOM,Dominican Republic,Upper middle income,poverty_215,10,1.0
+DOM,Dominican Republic,Upper middle income,sec_completion,10,1.0
+DOM,Dominican Republic,Upper middle income,sec_enrol_gross,10,1.0
+DOM,Dominican Republic,Upper middle income,tert_enrol_gross,8,0.8
+DOM,Dominican Republic,Upper middle income,voice_account,9,0.9
+DOM,Dominican Republic,Upper middle income,work_age_share,10,1.0
+DOM,Dominican Republic,Upper middle income,youth_literacy,10,1.0
+ECU,Ecuador,Upper middle income,adult_literacy,7,0.7
+ECU,Ecuador,Upper middle income,ctrl_corrup,9,0.9
+ECU,Ecuador,Upper middle income,edu_spend_gdp,10,1.0
+ECU,Ecuador,Upper middle income,gdp_pc_ppp,10,1.0
+ECU,Ecuador,Upper middle income,gini,10,1.0
+ECU,Ecuador,Upper middle income,gov_effect,9,0.9
+ECU,Ecuador,Upper middle income,gpi_sec,9,0.9
+ECU,Ecuador,Upper middle income,gpi_tert,9,0.9
+ECU,Ecuador,Upper middle income,inc_share_low20,10,1.0
+ECU,Ecuador,Upper middle income,pop_total,10,1.0
+ECU,Ecuador,Upper middle income,poverty_215,10,1.0
+ECU,Ecuador,Upper middle income,sec_completion,10,1.0
+ECU,Ecuador,Upper middle income,sec_enrol_gross,9,0.9
+ECU,Ecuador,Upper middle income,tert_enrol_gross,6,0.6
+ECU,Ecuador,Upper middle income,voice_account,9,0.9
+ECU,Ecuador,Upper middle income,work_age_share,10,1.0
+ECU,Ecuador,Upper middle income,youth_literacy,10,1.0
+SLV,El Salvador,Upper middle income,adult_literacy,10,1.0
+SLV,El Salvador,Upper middle income,ctrl_corrup,9,0.9
+SLV,El Salvador,Upper middle income,edu_spend_gdp,10,1.0
+SLV,El Salvador,Upper middle income,gdp_pc_ppp,10,1.0
+SLV,El Salvador,Upper middle income,gini,8,0.8
+SLV,El Salvador,Upper middle income,gov_effect,9,0.9
+SLV,El Salvador,Upper middle income,gpi_sec,10,1.0
+SLV,El Salvador,Upper middle income,gpi_tert,10,1.0
+SLV,El Salvador,Upper middle income,inc_share_low20,8,0.8
+SLV,El Salvador,Upper middle income,pop_total,10,1.0
+SLV,El Salvador,Upper middle income,poverty_215,8,0.8
+SLV,El Salvador,Upper middle income,sec_completion,9,0.9
+SLV,El Salvador,Upper middle income,sec_enrol_gross,10,1.0
+SLV,El Salvador,Upper middle income,tert_enrol_gross,10,1.0
+SLV,El Salvador,Upper middle income,voice_account,9,0.9
+SLV,El Salvador,Upper middle income,work_age_share,10,1.0
+SLV,El Salvador,Upper middle income,youth_literacy,10,1.0
+GNQ,Equatorial Guinea,Upper middle income,adult_literacy,0,0.0
+GNQ,Equatorial Guinea,Upper middle income,ctrl_corrup,9,0.9
+GNQ,Equatorial Guinea,Upper middle income,edu_spend_gdp,0,0.0
+GNQ,Equatorial Guinea,Upper middle income,gdp_pc_ppp,10,1.0
+GNQ,Equatorial Guinea,Upper middle income,gini,1,0.1
+GNQ,Equatorial Guinea,Upper middle income,gov_effect,9,0.9
+GNQ,Equatorial Guinea,Upper middle income,gpi_sec,0,0.0
+GNQ,Equatorial Guinea,Upper middle income,gpi_tert,1,0.1
+GNQ,Equatorial Guinea,Upper middle income,inc_share_low20,1,0.1
+GNQ,Equatorial Guinea,Upper middle income,pop_total,10,1.0
+GNQ,Equatorial Guinea,Upper middle income,poverty_215,1,0.1
+GNQ,Equatorial Guinea,Upper middle income,sec_completion,1,0.1
+GNQ,Equatorial Guinea,Upper middle income,sec_enrol_gross,0,0.0
+GNQ,Equatorial Guinea,Upper middle income,tert_enrol_gross,0,0.0
+GNQ,Equatorial Guinea,Upper middle income,voice_account,9,0.9
+GNQ,Equatorial Guinea,Upper middle income,work_age_share,10,1.0
+GNQ,Equatorial Guinea,Upper middle income,youth_literacy,0,0.0
+FJI,Fiji,Upper middle income,adult_literacy,0,0.0
+FJI,Fiji,Upper middle income,ctrl_corrup,9,0.9
+FJI,Fiji,Upper middle income,edu_spend_gdp,9,0.9
+FJI,Fiji,Upper middle income,gdp_pc_ppp,10,1.0
+FJI,Fiji,Upper middle income,gini,1,0.1
+FJI,Fiji,Upper middle income,gov_effect,9,0.9
+FJI,Fiji,Upper middle income,gpi_sec,6,0.6
+FJI,Fiji,Upper middle income,gpi_tert,10,1.0
+FJI,Fiji,Upper middle income,inc_share_low20,1,0.1
+FJI,Fiji,Upper middle income,pop_total,10,1.0
+FJI,Fiji,Upper middle income,poverty_215,1,0.1
+FJI,Fiji,Upper middle income,sec_completion,10,1.0
+FJI,Fiji,Upper middle income,sec_enrol_gross,9,0.9
+FJI,Fiji,Upper middle income,tert_enrol_gross,10,1.0
+FJI,Fiji,Upper middle income,voice_account,9,0.9
+FJI,Fiji,Upper middle income,work_age_share,10,1.0
+FJI,Fiji,Upper middle income,youth_literacy,0,0.0
+GAB,Gabon,Upper middle income,adult_literacy,1,0.1
+GAB,Gabon,Upper middle income,ctrl_corrup,9,0.9
+GAB,Gabon,Upper middle income,edu_spend_gdp,9,0.9
+GAB,Gabon,Upper middle income,gdp_pc_ppp,10,1.0
+GAB,Gabon,Upper middle income,gini,1,0.1
+GAB,Gabon,Upper middle income,gov_effect,9,0.9
+GAB,Gabon,Upper middle income,gpi_sec,1,0.1
+GAB,Gabon,Upper middle income,gpi_tert,1,0.1
+GAB,Gabon,Upper middle income,inc_share_low20,1,0.1
+GAB,Gabon,Upper middle income,pop_total,10,1.0
+GAB,Gabon,Upper middle income,poverty_215,1,0.1
+GAB,Gabon,Upper middle income,sec_completion,1,0.1
+GAB,Gabon,Upper middle income,sec_enrol_gross,1,0.1
+GAB,Gabon,Upper middle income,tert_enrol_gross,0,0.0
+GAB,Gabon,Upper middle income,voice_account,9,0.9
+GAB,Gabon,Upper middle income,work_age_share,10,1.0
+GAB,Gabon,Upper middle income,youth_literacy,1,0.1
+GEO,Georgia,Upper middle income,adult_literacy,8,0.8
+GEO,Georgia,Upper middle income,ctrl_corrup,9,0.9
+GEO,Georgia,Upper middle income,edu_spend_gdp,10,1.0
+GEO,Georgia,Upper middle income,gdp_pc_ppp,10,1.0
+GEO,Georgia,Upper middle income,gini,10,1.0
+GEO,Georgia,Upper middle income,gov_effect,9,0.9
+GEO,Georgia,Upper middle income,gpi_sec,7,0.7
+GEO,Georgia,Upper middle income,gpi_tert,10,1.0
+GEO,Georgia,Upper middle income,inc_share_low20,10,1.0
+GEO,Georgia,Upper middle income,pop_total,10,1.0
+GEO,Georgia,Upper middle income,poverty_215,10,1.0
+GEO,Georgia,Upper middle income,sec_completion,10,1.0
+GEO,Georgia,Upper middle income,sec_enrol_gross,10,1.0
+GEO,Georgia,Upper middle income,tert_enrol_gross,9,0.9
+GEO,Georgia,Upper middle income,voice_account,9,0.9
+GEO,Georgia,Upper middle income,work_age_share,10,1.0
+GEO,Georgia,Upper middle income,youth_literacy,8,0.8
+GRD,Grenada,Upper middle income,adult_literacy,0,0.0
+GRD,Grenada,Upper middle income,ctrl_corrup,9,0.9
+GRD,Grenada,Upper middle income,edu_spend_gdp,6,0.6
+GRD,Grenada,Upper middle income,gdp_pc_ppp,10,1.0
+GRD,Grenada,Upper middle income,gini,1,0.1
+GRD,Grenada,Upper middle income,gov_effect,9,0.9
+GRD,Grenada,Upper middle income,gpi_sec,5,0.5
+GRD,Grenada,Upper middle income,gpi_tert,7,0.7
+GRD,Grenada,Upper middle income,inc_share_low20,1,0.1
+GRD,Grenada,Upper middle income,pop_total,10,1.0
+GRD,Grenada,Upper middle income,poverty_215,1,0.1
+GRD,Grenada,Upper middle income,sec_completion,8,0.8
+GRD,Grenada,Upper middle income,sec_enrol_gross,7,0.7
+GRD,Grenada,Upper middle income,tert_enrol_gross,4,0.4
+GRD,Grenada,Upper middle income,voice_account,9,0.9
+GRD,Grenada,Upper middle income,work_age_share,10,1.0
+GRD,Grenada,Upper middle income,youth_literacy,0,0.0
+GTM,Guatemala,Upper middle income,adult_literacy,5,0.5
+GTM,Guatemala,Upper middle income,ctrl_corrup,9,0.9
+GTM,Guatemala,Upper middle income,edu_spend_gdp,10,1.0
+GTM,Guatemala,Upper middle income,gdp_pc_ppp,10,1.0
+GTM,Guatemala,Upper middle income,gini,1,0.1
+GTM,Guatemala,Upper middle income,gov_effect,9,0.9
+GTM,Guatemala,Upper middle income,gpi_sec,10,1.0
+GTM,Guatemala,Upper middle income,gpi_tert,10,1.0
+GTM,Guatemala,Upper middle income,inc_share_low20,1,0.1
+GTM,Guatemala,Upper middle income,pop_total,10,1.0
+GTM,Guatemala,Upper middle income,poverty_215,1,0.1
+GTM,Guatemala,Upper middle income,sec_completion,10,1.0
+GTM,Guatemala,Upper middle income,sec_enrol_gross,10,1.0
+GTM,Guatemala,Upper middle income,tert_enrol_gross,3,0.3
+GTM,Guatemala,Upper middle income,voice_account,9,0.9
+GTM,Guatemala,Upper middle income,work_age_share,10,1.0
+GTM,Guatemala,Upper middle income,youth_literacy,5,0.5
+IDN,Indonesia,Upper middle income,adult_literacy,4,0.4
+IDN,Indonesia,Upper middle income,ctrl_corrup,9,0.9
+IDN,Indonesia,Upper middle income,edu_spend_gdp,9,0.9
+IDN,Indonesia,Upper middle income,gdp_pc_ppp,10,1.0
+IDN,Indonesia,Upper middle income,gini,10,1.0
+IDN,Indonesia,Upper middle income,gov_effect,9,0.9
+IDN,Indonesia,Upper middle income,gpi_sec,7,0.7
+IDN,Indonesia,Upper middle income,gpi_tert,10,1.0
+IDN,Indonesia,Upper middle income,inc_share_low20,10,1.0
+IDN,Indonesia,Upper middle income,pop_total,10,1.0
+IDN,Indonesia,Upper middle income,poverty_215,10,1.0
+IDN,Indonesia,Upper middle income,sec_completion,10,1.0
+IDN,Indonesia,Upper middle income,sec_enrol_gross,10,1.0
+IDN,Indonesia,Upper middle income,tert_enrol_gross,9,0.9
+IDN,Indonesia,Upper middle income,voice_account,9,0.9
+IDN,Indonesia,Upper middle income,work_age_share,10,1.0
+IDN,Indonesia,Upper middle income,youth_literacy,6,0.6
+IRN,"Iran, Islamic Rep.",Upper middle income,adult_literacy,9,0.9
+IRN,"Iran, Islamic Rep.",Upper middle income,ctrl_corrup,9,0.9
+IRN,"Iran, Islamic Rep.",Upper middle income,edu_spend_gdp,8,0.8
+IRN,"Iran, Islamic Rep.",Upper middle income,gdp_pc_ppp,10,1.0
+IRN,"Iran, Islamic Rep.",Upper middle income,gini,9,0.9
+IRN,"Iran, Islamic Rep.",Upper middle income,gov_effect,9,0.9
+IRN,"Iran, Islamic Rep.",Upper middle income,gpi_sec,6,0.6
+IRN,"Iran, Islamic Rep.",Upper middle income,gpi_tert,9,0.9
+IRN,"Iran, Islamic Rep.",Upper middle income,inc_share_low20,9,0.9
+IRN,"Iran, Islamic Rep.",Upper middle income,pop_total,10,1.0
+IRN,"Iran, Islamic Rep.",Upper middle income,poverty_215,9,0.9
+IRN,"Iran, Islamic Rep.",Upper middle income,sec_completion,6,0.6
+IRN,"Iran, Islamic Rep.",Upper middle income,sec_enrol_gross,6,0.6
+IRN,"Iran, Islamic Rep.",Upper middle income,tert_enrol_gross,8,0.8
+IRN,"Iran, Islamic Rep.",Upper middle income,voice_account,9,0.9
+IRN,"Iran, Islamic Rep.",Upper middle income,work_age_share,10,1.0
+IRN,"Iran, Islamic Rep.",Upper middle income,youth_literacy,9,0.9
+IRQ,Iraq,Upper middle income,adult_literacy,3,0.3
+IRQ,Iraq,Upper middle income,ctrl_corrup,9,0.9
+IRQ,Iraq,Upper middle income,edu_spend_gdp,0,0.0
+IRQ,Iraq,Upper middle income,gdp_pc_ppp,10,1.0
+IRQ,Iraq,Upper middle income,gini,1,0.1
+IRQ,Iraq,Upper middle income,gov_effect,9,0.9
+IRQ,Iraq,Upper middle income,gpi_sec,0,0.0
+IRQ,Iraq,Upper middle income,gpi_tert,0,0.0
+IRQ,Iraq,Upper middle income,inc_share_low20,1,0.1
+IRQ,Iraq,Upper middle income,pop_total,10,1.0
+IRQ,Iraq,Upper middle income,poverty_215,1,0.1
+IRQ,Iraq,Upper middle income,sec_completion,0,0.0
+IRQ,Iraq,Upper middle income,sec_enrol_gross,0,0.0
+IRQ,Iraq,Upper middle income,tert_enrol_gross,0,0.0
+IRQ,Iraq,Upper middle income,voice_account,9,0.9
+IRQ,Iraq,Upper middle income,work_age_share,10,1.0
+IRQ,Iraq,Upper middle income,youth_literacy,3,0.3
+JAM,Jamaica,Upper middle income,adult_literacy,0,0.0
+JAM,Jamaica,Upper middle income,ctrl_corrup,9,0.9
+JAM,Jamaica,Upper middle income,edu_spend_gdp,10,1.0
+JAM,Jamaica,Upper middle income,gdp_pc_ppp,10,1.0
+JAM,Jamaica,Upper middle income,gini,2,0.2
+JAM,Jamaica,Upper middle income,gov_effect,9,0.9
+JAM,Jamaica,Upper middle income,gpi_sec,9,0.9
+JAM,Jamaica,Upper middle income,gpi_tert,10,1.0
+JAM,Jamaica,Upper middle income,inc_share_low20,2,0.2
+JAM,Jamaica,Upper middle income,pop_total,10,1.0
+JAM,Jamaica,Upper middle income,poverty_215,2,0.2
+JAM,Jamaica,Upper middle income,sec_completion,10,1.0
+JAM,Jamaica,Upper middle income,sec_enrol_gross,10,1.0
+JAM,Jamaica,Upper middle income,tert_enrol_gross,1,0.1
+JAM,Jamaica,Upper middle income,voice_account,9,0.9
+JAM,Jamaica,Upper middle income,work_age_share,10,1.0
+JAM,Jamaica,Upper middle income,youth_literacy,1,0.1
+KAZ,Kazakhstan,Upper middle income,adult_literacy,0,0.0
+KAZ,Kazakhstan,Upper middle income,ctrl_corrup,9,0.9
+KAZ,Kazakhstan,Upper middle income,edu_spend_gdp,9,0.9
+KAZ,Kazakhstan,Upper middle income,gdp_pc_ppp,10,1.0
+KAZ,Kazakhstan,Upper middle income,gini,7,0.7
+KAZ,Kazakhstan,Upper middle income,gov_effect,9,0.9
+KAZ,Kazakhstan,Upper middle income,gpi_sec,10,1.0
+KAZ,Kazakhstan,Upper middle income,gpi_tert,10,1.0
+KAZ,Kazakhstan,Upper middle income,inc_share_low20,7,0.7
+KAZ,Kazakhstan,Upper middle income,pop_total,10,1.0
+KAZ,Kazakhstan,Upper middle income,poverty_215,7,0.7
+KAZ,Kazakhstan,Upper middle income,sec_completion,10,1.0
+KAZ,Kazakhstan,Upper middle income,sec_enrol_gross,10,1.0
+KAZ,Kazakhstan,Upper middle income,tert_enrol_gross,10,1.0
+KAZ,Kazakhstan,Upper middle income,voice_account,9,0.9
+KAZ,Kazakhstan,Upper middle income,work_age_share,10,1.0
+KAZ,Kazakhstan,Upper middle income,youth_literacy,0,0.0
+XKX,Kosovo,Upper middle income,adult_literacy,0,0.0
+XKX,Kosovo,Upper middle income,ctrl_corrup,0,0.0
+XKX,Kosovo,Upper middle income,edu_spend_gdp,0,0.0
+XKX,Kosovo,Upper middle income,gdp_pc_ppp,10,1.0
+XKX,Kosovo,Upper middle income,gini,8,0.8
+XKX,Kosovo,Upper middle income,gov_effect,0,0.0
+XKX,Kosovo,Upper middle income,gpi_sec,0,0.0
+XKX,Kosovo,Upper middle income,gpi_tert,0,0.0
+XKX,Kosovo,Upper middle income,inc_share_low20,8,0.8
+XKX,Kosovo,Upper middle income,pop_total,10,1.0
+XKX,Kosovo,Upper middle income,poverty_215,8,0.8
+XKX,Kosovo,Upper middle income,sec_completion,0,0.0
+XKX,Kosovo,Upper middle income,sec_enrol_gross,0,0.0
+XKX,Kosovo,Upper middle income,tert_enrol_gross,0,0.0
+XKX,Kosovo,Upper middle income,voice_account,0,0.0
+XKX,Kosovo,Upper middle income,work_age_share,10,1.0
+XKX,Kosovo,Upper middle income,youth_literacy,0,0.0
+LBY,Libya,Upper middle income,adult_literacy,0,0.0
+LBY,Libya,Upper middle income,ctrl_corrup,9,0.9
+LBY,Libya,Upper middle income,edu_spend_gdp,0,0.0
+LBY,Libya,Upper middle income,gdp_pc_ppp,10,1.0
+LBY,Libya,Upper middle income,gini,0,0.0
+LBY,Libya,Upper middle income,gov_effect,9,0.9
+LBY,Libya,Upper middle income,gpi_sec,0,0.0
+LBY,Libya,Upper middle income,gpi_tert,0,0.0
+LBY,Libya,Upper middle income,inc_share_low20,0,0.0
+LBY,Libya,Upper middle income,pop_total,10,1.0
+LBY,Libya,Upper middle income,poverty_215,0,0.0
+LBY,Libya,Upper middle income,sec_completion,0,0.0
+LBY,Libya,Upper middle income,sec_enrol_gross,0,0.0
+LBY,Libya,Upper middle income,tert_enrol_gross,0,0.0
+LBY,Libya,Upper middle income,voice_account,9,0.9
+LBY,Libya,Upper middle income,work_age_share,10,1.0
+LBY,Libya,Upper middle income,youth_literacy,0,0.0
+MYS,Malaysia,Upper middle income,adult_literacy,5,0.5
+MYS,Malaysia,Upper middle income,ctrl_corrup,9,0.9
+MYS,Malaysia,Upper middle income,edu_spend_gdp,9,0.9
+MYS,Malaysia,Upper middle income,gdp_pc_ppp,10,1.0
+MYS,Malaysia,Upper middle income,gini,3,0.3
+MYS,Malaysia,Upper middle income,gov_effect,9,0.9
+MYS,Malaysia,Upper middle income,gpi_sec,10,1.0
+MYS,Malaysia,Upper middle income,gpi_tert,10,1.0
+MYS,Malaysia,Upper middle income,inc_share_low20,3,0.3
+MYS,Malaysia,Upper middle income,pop_total,10,1.0
+MYS,Malaysia,Upper middle income,poverty_215,3,0.3
+MYS,Malaysia,Upper middle income,sec_completion,10,1.0
+MYS,Malaysia,Upper middle income,sec_enrol_gross,10,1.0
+MYS,Malaysia,Upper middle income,tert_enrol_gross,10,1.0
+MYS,Malaysia,Upper middle income,voice_account,9,0.9
+MYS,Malaysia,Upper middle income,work_age_share,10,1.0
+MYS,Malaysia,Upper middle income,youth_literacy,5,0.5
+MDV,Maldives,Upper middle income,adult_literacy,3,0.3
+MDV,Maldives,Upper middle income,ctrl_corrup,9,0.9
+MDV,Maldives,Upper middle income,edu_spend_gdp,9,0.9
+MDV,Maldives,Upper middle income,gdp_pc_ppp,10,1.0
+MDV,Maldives,Upper middle income,gini,2,0.2
+MDV,Maldives,Upper middle income,gov_effect,9,0.9
+MDV,Maldives,Upper middle income,gpi_sec,6,0.6
+MDV,Maldives,Upper middle income,gpi_tert,9,0.9
+MDV,Maldives,Upper middle income,inc_share_low20,2,0.2
+MDV,Maldives,Upper middle income,pop_total,10,1.0
+MDV,Maldives,Upper middle income,poverty_215,2,0.2
+MDV,Maldives,Upper middle income,sec_completion,8,0.8
+MDV,Maldives,Upper middle income,sec_enrol_gross,9,0.9
+MDV,Maldives,Upper middle income,tert_enrol_gross,5,0.5
+MDV,Maldives,Upper middle income,voice_account,9,0.9
+MDV,Maldives,Upper middle income,work_age_share,10,1.0
+MDV,Maldives,Upper middle income,youth_literacy,3,0.3
+MHL,Marshall Islands,Upper middle income,adult_literacy,2,0.2
+MHL,Marshall Islands,Upper middle income,ctrl_corrup,9,0.9
+MHL,Marshall Islands,Upper middle income,edu_spend_gdp,4,0.4
+MHL,Marshall Islands,Upper middle income,gdp_pc_ppp,10,1.0
+MHL,Marshall Islands,Upper middle income,gini,1,0.1
+MHL,Marshall Islands,Upper middle income,gov_effect,9,0.9
+MHL,Marshall Islands,Upper middle income,gpi_sec,7,0.7
+MHL,Marshall Islands,Upper middle income,gpi_tert,8,0.8
+MHL,Marshall Islands,Upper middle income,inc_share_low20,1,0.1
+MHL,Marshall Islands,Upper middle income,pop_total,10,1.0
+MHL,Marshall Islands,Upper middle income,poverty_215,1,0.1
+MHL,Marshall Islands,Upper middle income,sec_completion,7,0.7
+MHL,Marshall Islands,Upper middle income,sec_enrol_gross,8,0.8
+MHL,Marshall Islands,Upper middle income,tert_enrol_gross,5,0.5
+MHL,Marshall Islands,Upper middle income,voice_account,9,0.9
+MHL,Marshall Islands,Upper middle income,work_age_share,10,1.0
+MHL,Marshall Islands,Upper middle income,youth_literacy,2,0.2
+MUS,Mauritius,Upper middle income,adult_literacy,4,0.4
+MUS,Mauritius,Upper middle income,ctrl_corrup,9,0.9
+MUS,Mauritius,Upper middle income,edu_spend_gdp,10,1.0
+MUS,Mauritius,Upper middle income,gdp_pc_ppp,10,1.0
+MUS,Mauritius,Upper middle income,gini,1,0.1
+MUS,Mauritius,Upper middle income,gov_effect,9,0.9
+MUS,Mauritius,Upper middle income,gpi_sec,9,0.9
+MUS,Mauritius,Upper middle income,gpi_tert,10,1.0
+MUS,Mauritius,Upper middle income,inc_share_low20,1,0.1
+MUS,Mauritius,Upper middle income,pop_total,10,1.0
+MUS,Mauritius,Upper middle income,poverty_215,1,0.1
+MUS,Mauritius,Upper middle income,sec_completion,9,0.9
+MUS,Mauritius,Upper middle income,sec_enrol_gross,9,0.9
+MUS,Mauritius,Upper middle income,tert_enrol_gross,10,1.0
+MUS,Mauritius,Upper middle income,voice_account,9,0.9
+MUS,Mauritius,Upper middle income,work_age_share,10,1.0
+MUS,Mauritius,Upper middle income,youth_literacy,3,0.3
+MEX,Mexico,Upper middle income,adult_literacy,10,1.0
+MEX,Mexico,Upper middle income,ctrl_corrup,9,0.9
+MEX,Mexico,Upper middle income,edu_spend_gdp,7,0.7
+MEX,Mexico,Upper middle income,gdp_pc_ppp,10,1.0
+MEX,Mexico,Upper middle income,gini,5,0.5
+MEX,Mexico,Upper middle income,gov_effect,9,0.9
+MEX,Mexico,Upper middle income,gpi_sec,10,1.0
+MEX,Mexico,Upper middle income,gpi_tert,10,1.0
+MEX,Mexico,Upper middle income,inc_share_low20,5,0.5
+MEX,Mexico,Upper middle income,pop_total,10,1.0
+MEX,Mexico,Upper middle income,poverty_215,5,0.5
+MEX,Mexico,Upper middle income,sec_completion,10,1.0
+MEX,Mexico,Upper middle income,sec_enrol_gross,10,1.0
+MEX,Mexico,Upper middle income,tert_enrol_gross,10,1.0
+MEX,Mexico,Upper middle income,voice_account,9,0.9
+MEX,Mexico,Upper middle income,work_age_share,10,1.0
+MEX,Mexico,Upper middle income,youth_literacy,10,1.0
+MDA,Moldova,Upper middle income,adult_literacy,0,0.0
+MDA,Moldova,Upper middle income,ctrl_corrup,9,0.9
+MDA,Moldova,Upper middle income,edu_spend_gdp,9,0.9
+MDA,Moldova,Upper middle income,gdp_pc_ppp,10,1.0
+MDA,Moldova,Upper middle income,gini,9,0.9
+MDA,Moldova,Upper middle income,gov_effect,9,0.9
+MDA,Moldova,Upper middle income,gpi_sec,7,0.7
+MDA,Moldova,Upper middle income,gpi_tert,10,1.0
+MDA,Moldova,Upper middle income,inc_share_low20,9,0.9
+MDA,Moldova,Upper middle income,pop_total,10,1.0
+MDA,Moldova,Upper middle income,poverty_215,9,0.9
+MDA,Moldova,Upper middle income,sec_completion,10,1.0
+MDA,Moldova,Upper middle income,sec_enrol_gross,10,1.0
+MDA,Moldova,Upper middle income,tert_enrol_gross,10,1.0
+MDA,Moldova,Upper middle income,voice_account,9,0.9
+MDA,Moldova,Upper middle income,work_age_share,10,1.0
+MDA,Moldova,Upper middle income,youth_literacy,0,0.0
+MNG,Mongolia,Upper middle income,adult_literacy,7,0.7
+MNG,Mongolia,Upper middle income,ctrl_corrup,9,0.9
+MNG,Mongolia,Upper middle income,edu_spend_gdp,5,0.5
+MNG,Mongolia,Upper middle income,gdp_pc_ppp,10,1.0
+MNG,Mongolia,Upper middle income,gini,3,0.3
+MNG,Mongolia,Upper middle income,gov_effect,9,0.9
+MNG,Mongolia,Upper middle income,gpi_sec,6,0.6
+MNG,Mongolia,Upper middle income,gpi_tert,10,1.0
+MNG,Mongolia,Upper middle income,inc_share_low20,3,0.3
+MNG,Mongolia,Upper middle income,pop_total,10,1.0
+MNG,Mongolia,Upper middle income,poverty_215,3,0.3
+MNG,Mongolia,Upper middle income,sec_completion,8,0.8
+MNG,Mongolia,Upper middle income,sec_enrol_gross,6,0.6
+MNG,Mongolia,Upper middle income,tert_enrol_gross,10,1.0
+MNG,Mongolia,Upper middle income,voice_account,9,0.9
+MNG,Mongolia,Upper middle income,work_age_share,10,1.0
+MNG,Mongolia,Upper middle income,youth_literacy,7,0.7
+MNE,Montenegro,Upper middle income,adult_literacy,1,0.1
+MNE,Montenegro,Upper middle income,ctrl_corrup,9,0.9
+MNE,Montenegro,Upper middle income,edu_spend_gdp,0,0.0
+MNE,Montenegro,Upper middle income,gdp_pc_ppp,10,1.0
+MNE,Montenegro,Upper middle income,gini,7,0.7
+MNE,Montenegro,Upper middle income,gov_effect,9,0.9
+MNE,Montenegro,Upper middle income,gpi_sec,7,0.7
+MNE,Montenegro,Upper middle income,gpi_tert,9,0.9
+MNE,Montenegro,Upper middle income,inc_share_low20,7,0.7
+MNE,Montenegro,Upper middle income,pop_total,10,1.0
+MNE,Montenegro,Upper middle income,poverty_215,7,0.7
+MNE,Montenegro,Upper middle income,sec_completion,9,0.9
+MNE,Montenegro,Upper middle income,sec_enrol_gross,9,0.9
+MNE,Montenegro,Upper middle income,tert_enrol_gross,9,0.9
+MNE,Montenegro,Upper middle income,voice_account,9,0.9
+MNE,Montenegro,Upper middle income,work_age_share,10,1.0
+MNE,Montenegro,Upper middle income,youth_literacy,1,0.1
+MKD,North Macedonia,Upper middle income,adult_literacy,0,0.0
+MKD,North Macedonia,Upper middle income,ctrl_corrup,9,0.9
+MKD,North Macedonia,Upper middle income,edu_spend_gdp,0,0.0
+MKD,North Macedonia,Upper middle income,gdp_pc_ppp,10,1.0
+MKD,North Macedonia,Upper middle income,gini,5,0.5
+MKD,North Macedonia,Upper middle income,gov_effect,9,0.9
+MKD,North Macedonia,Upper middle income,gpi_sec,5,0.5
+MKD,North Macedonia,Upper middle income,gpi_tert,8,0.8
+MKD,North Macedonia,Upper middle income,inc_share_low20,5,0.5
+MKD,North Macedonia,Upper middle income,pop_total,10,1.0
+MKD,North Macedonia,Upper middle income,poverty_215,5,0.5
+MKD,North Macedonia,Upper middle income,sec_completion,8,0.8
+MKD,North Macedonia,Upper middle income,sec_enrol_gross,8,0.8
+MKD,North Macedonia,Upper middle income,tert_enrol_gross,8,0.8
+MKD,North Macedonia,Upper middle income,voice_account,9,0.9
+MKD,North Macedonia,Upper middle income,work_age_share,10,1.0
+MKD,North Macedonia,Upper middle income,youth_literacy,0,0.0
+PRY,Paraguay,Upper middle income,adult_literacy,6,0.6
+PRY,Paraguay,Upper middle income,ctrl_corrup,9,0.9
+PRY,Paraguay,Upper middle income,edu_spend_gdp,10,1.0
+PRY,Paraguay,Upper middle income,gdp_pc_ppp,10,1.0
+PRY,Paraguay,Upper middle income,gini,10,1.0
+PRY,Paraguay,Upper middle income,gov_effect,9,0.9
+PRY,Paraguay,Upper middle income,gpi_sec,6,0.6
+PRY,Paraguay,Upper middle income,gpi_tert,6,0.6
+PRY,Paraguay,Upper middle income,inc_share_low20,10,1.0
+PRY,Paraguay,Upper middle income,pop_total,10,1.0
+PRY,Paraguay,Upper middle income,poverty_215,10,1.0
+PRY,Paraguay,Upper middle income,sec_completion,6,0.6
+PRY,Paraguay,Upper middle income,sec_enrol_gross,6,0.6
+PRY,Paraguay,Upper middle income,tert_enrol_gross,0,0.0
+PRY,Paraguay,Upper middle income,voice_account,9,0.9
+PRY,Paraguay,Upper middle income,work_age_share,10,1.0
+PRY,Paraguay,Upper middle income,youth_literacy,10,1.0
+PER,Peru,Upper middle income,adult_literacy,6,0.6
+PER,Peru,Upper middle income,ctrl_corrup,9,0.9
+PER,Peru,Upper middle income,edu_spend_gdp,10,1.0
+PER,Peru,Upper middle income,gdp_pc_ppp,10,1.0
+PER,Peru,Upper middle income,gini,10,1.0
+PER,Peru,Upper middle income,gov_effect,9,0.9
+PER,Peru,Upper middle income,gpi_sec,7,0.7
+PER,Peru,Upper middle income,gpi_tert,10,1.0
+PER,Peru,Upper middle income,inc_share_low20,10,1.0
+PER,Peru,Upper middle income,pop_total,10,1.0
+PER,Peru,Upper middle income,poverty_215,10,1.0
+PER,Peru,Upper middle income,sec_completion,6,0.6
+PER,Peru,Upper middle income,sec_enrol_gross,10,1.0
+PER,Peru,Upper middle income,tert_enrol_gross,2,0.2
+PER,Peru,Upper middle income,voice_account,9,0.9
+PER,Peru,Upper middle income,work_age_share,10,1.0
+PER,Peru,Upper middle income,youth_literacy,10,1.0
+WSM,Samoa,Upper middle income,adult_literacy,3,0.3
+WSM,Samoa,Upper middle income,ctrl_corrup,9,0.9
+WSM,Samoa,Upper middle income,edu_spend_gdp,10,1.0
+WSM,Samoa,Upper middle income,gdp_pc_ppp,10,1.0
+WSM,Samoa,Upper middle income,gini,0,0.0
+WSM,Samoa,Upper middle income,gov_effect,9,0.9
+WSM,Samoa,Upper middle income,gpi_sec,2,0.2
+WSM,Samoa,Upper middle income,gpi_tert,10,1.0
+WSM,Samoa,Upper middle income,inc_share_low20,0,0.0
+WSM,Samoa,Upper middle income,pop_total,10,1.0
+WSM,Samoa,Upper middle income,poverty_215,0,0.0
+WSM,Samoa,Upper middle income,sec_completion,10,1.0
+WSM,Samoa,Upper middle income,sec_enrol_gross,10,1.0
+WSM,Samoa,Upper middle income,tert_enrol_gross,8,0.8
+WSM,Samoa,Upper middle income,voice_account,9,0.9
+WSM,Samoa,Upper middle income,work_age_share,10,1.0
+WSM,Samoa,Upper middle income,youth_literacy,3,0.3
+SRB,Serbia,Upper middle income,adult_literacy,3,0.3
+SRB,Serbia,Upper middle income,ctrl_corrup,9,0.9
+SRB,Serbia,Upper middle income,edu_spend_gdp,7,0.7
+SRB,Serbia,Upper middle income,gdp_pc_ppp,10,1.0
+SRB,Serbia,Upper middle income,gini,9,0.9
+SRB,Serbia,Upper middle income,gov_effect,9,0.9
+SRB,Serbia,Upper middle income,gpi_sec,9,0.9
+SRB,Serbia,Upper middle income,gpi_tert,10,1.0
+SRB,Serbia,Upper middle income,inc_share_low20,9,0.9
+SRB,Serbia,Upper middle income,pop_total,10,1.0
+SRB,Serbia,Upper middle income,poverty_215,9,0.9
+SRB,Serbia,Upper middle income,sec_completion,8,0.8
+SRB,Serbia,Upper middle income,sec_enrol_gross,9,0.9
+SRB,Serbia,Upper middle income,tert_enrol_gross,10,1.0
+SRB,Serbia,Upper middle income,voice_account,9,0.9
+SRB,Serbia,Upper middle income,work_age_share,10,1.0
+SRB,Serbia,Upper middle income,youth_literacy,3,0.3
+ZAF,South Africa,Upper middle income,adult_literacy,5,0.5
+ZAF,South Africa,Upper middle income,ctrl_corrup,9,0.9
+ZAF,South Africa,Upper middle income,edu_spend_gdp,10,1.0
+ZAF,South Africa,Upper middle income,gdp_pc_ppp,10,1.0
+ZAF,South Africa,Upper middle income,gini,1,0.1
+ZAF,South Africa,Upper middle income,gov_effect,9,0.9
+ZAF,South Africa,Upper middle income,gpi_sec,9,0.9
+ZAF,South Africa,Upper middle income,gpi_tert,9,0.9
+ZAF,South Africa,Upper middle income,inc_share_low20,1,0.1
+ZAF,South Africa,Upper middle income,pop_total,10,1.0
+ZAF,South Africa,Upper middle income,poverty_215,1,0.1
+ZAF,South Africa,Upper middle income,sec_completion,7,0.7
+ZAF,South Africa,Upper middle income,sec_enrol_gross,9,0.9
+ZAF,South Africa,Upper middle income,tert_enrol_gross,9,0.9
+ZAF,South Africa,Upper middle income,voice_account,9,0.9
+ZAF,South Africa,Upper middle income,work_age_share,10,1.0
+ZAF,South Africa,Upper middle income,youth_literacy,5,0.5
+LCA,St. Lucia,Upper middle income,adult_literacy,0,0.0
+LCA,St. Lucia,Upper middle income,ctrl_corrup,9,0.9
+LCA,St. Lucia,Upper middle income,edu_spend_gdp,10,1.0
+LCA,St. Lucia,Upper middle income,gdp_pc_ppp,10,1.0
+LCA,St. Lucia,Upper middle income,gini,1,0.1
+LCA,St. Lucia,Upper middle income,gov_effect,9,0.9
+LCA,St. Lucia,Upper middle income,gpi_sec,10,1.0
+LCA,St. Lucia,Upper middle income,gpi_tert,9,0.9
+LCA,St. Lucia,Upper middle income,inc_share_low20,1,0.1
+LCA,St. Lucia,Upper middle income,pop_total,10,1.0
+LCA,St. Lucia,Upper middle income,poverty_215,1,0.1
+LCA,St. Lucia,Upper middle income,sec_completion,9,0.9
+LCA,St. Lucia,Upper middle income,sec_enrol_gross,10,1.0
+LCA,St. Lucia,Upper middle income,tert_enrol_gross,8,0.8
+LCA,St. Lucia,Upper middle income,voice_account,9,0.9
+LCA,St. Lucia,Upper middle income,work_age_share,10,1.0
+LCA,St. Lucia,Upper middle income,youth_literacy,0,0.0
+VCT,St. Vincent and the Grenadines,Upper middle income,adult_literacy,0,0.0
+VCT,St. Vincent and the Grenadines,Upper middle income,ctrl_corrup,9,0.9
+VCT,St. Vincent and the Grenadines,Upper middle income,edu_spend_gdp,7,0.7
+VCT,St. Vincent and the Grenadines,Upper middle income,gdp_pc_ppp,10,1.0
+VCT,St. Vincent and the Grenadines,Upper middle income,gini,0,0.0
+VCT,St. Vincent and the Grenadines,Upper middle income,gov_effect,9,0.9
+VCT,St. Vincent and the Grenadines,Upper middle income,gpi_sec,4,0.4
+VCT,St. Vincent and the Grenadines,Upper middle income,gpi_tert,10,1.0
+VCT,St. Vincent and the Grenadines,Upper middle income,inc_share_low20,0,0.0
+VCT,St. Vincent and the Grenadines,Upper middle income,pop_total,10,1.0
+VCT,St. Vincent and the Grenadines,Upper middle income,poverty_215,0,0.0
+VCT,St. Vincent and the Grenadines,Upper middle income,sec_completion,10,1.0
+VCT,St. Vincent and the Grenadines,Upper middle income,sec_enrol_gross,7,0.7
+VCT,St. Vincent and the Grenadines,Upper middle income,tert_enrol_gross,8,0.8
+VCT,St. Vincent and the Grenadines,Upper middle income,voice_account,9,0.9
+VCT,St. Vincent and the Grenadines,Upper middle income,work_age_share,10,1.0
+VCT,St. Vincent and the Grenadines,Upper middle income,youth_literacy,0,0.0
+SUR,Suriname,Upper middle income,adult_literacy,0,0.0
+SUR,Suriname,Upper middle income,ctrl_corrup,9,0.9
+SUR,Suriname,Upper middle income,edu_spend_gdp,9,0.9
+SUR,Suriname,Upper middle income,gdp_pc_ppp,10,1.0
+SUR,Suriname,Upper middle income,gini,1,0.1
+SUR,Suriname,Upper middle income,gov_effect,9,0.9
+SUR,Suriname,Upper middle income,gpi_sec,8,0.8
+SUR,Suriname,Upper middle income,gpi_tert,10,1.0
+SUR,Suriname,Upper middle income,inc_share_low20,1,0.1
+SUR,Suriname,Upper middle income,pop_total,10,1.0
+SUR,Suriname,Upper middle income,poverty_215,1,0.1
+SUR,Suriname,Upper middle income,sec_completion,7,0.7
+SUR,Suriname,Upper middle income,sec_enrol_gross,9,0.9
+SUR,Suriname,Upper middle income,tert_enrol_gross,6,0.6
+SUR,Suriname,Upper middle income,voice_account,9,0.9
+SUR,Suriname,Upper middle income,work_age_share,10,1.0
+SUR,Suriname,Upper middle income,youth_literacy,1,0.1
+THA,Thailand,Upper middle income,adult_literacy,5,0.5
+THA,Thailand,Upper middle income,ctrl_corrup,9,0.9
+THA,Thailand,Upper middle income,edu_spend_gdp,9,0.9
+THA,Thailand,Upper middle income,gdp_pc_ppp,10,1.0
+THA,Thailand,Upper middle income,gini,10,1.0
+THA,Thailand,Upper middle income,gov_effect,9,0.9
+THA,Thailand,Upper middle income,gpi_sec,8,0.8
+THA,Thailand,Upper middle income,gpi_tert,10,1.0
+THA,Thailand,Upper middle income,inc_share_low20,10,1.0
+THA,Thailand,Upper middle income,pop_total,10,1.0
+THA,Thailand,Upper middle income,poverty_215,10,1.0
+THA,Thailand,Upper middle income,sec_completion,10,1.0
+THA,Thailand,Upper middle income,sec_enrol_gross,10,1.0
+THA,Thailand,Upper middle income,tert_enrol_gross,10,1.0
+THA,Thailand,Upper middle income,voice_account,9,0.9
+THA,Thailand,Upper middle income,work_age_share,10,1.0
+THA,Thailand,Upper middle income,youth_literacy,5,0.5
+TON,Tonga,Upper middle income,adult_literacy,3,0.3
+TON,Tonga,Upper middle income,ctrl_corrup,9,0.9
+TON,Tonga,Upper middle income,edu_spend_gdp,6,0.6
+TON,Tonga,Upper middle income,gdp_pc_ppp,9,0.9
+TON,Tonga,Upper middle income,gini,2,0.2
+TON,Tonga,Upper middle income,gov_effect,9,0.9
+TON,Tonga,Upper middle income,gpi_sec,5,0.5
+TON,Tonga,Upper middle income,gpi_tert,8,0.8
+TON,Tonga,Upper middle income,inc_share_low20,2,0.2
+TON,Tonga,Upper middle income,pop_total,10,1.0
+TON,Tonga,Upper middle income,poverty_215,2,0.2
+TON,Tonga,Upper middle income,sec_completion,8,0.8
+TON,Tonga,Upper middle income,sec_enrol_gross,8,0.8
+TON,Tonga,Upper middle income,tert_enrol_gross,2,0.2
+TON,Tonga,Upper middle income,voice_account,9,0.9
+TON,Tonga,Upper middle income,work_age_share,10,1.0
+TON,Tonga,Upper middle income,youth_literacy,4,0.4
+TUR,Turkiye,Upper middle income,adult_literacy,5,0.5
+TUR,Turkiye,Upper middle income,ctrl_corrup,9,0.9
+TUR,Turkiye,Upper middle income,edu_spend_gdp,8,0.8
+TUR,Turkiye,Upper middle income,gdp_pc_ppp,10,1.0
+TUR,Turkiye,Upper middle income,gini,9,0.9
+TUR,Turkiye,Upper middle income,gov_effect,9,0.9
+TUR,Turkiye,Upper middle income,gpi_sec,7,0.7
+TUR,Turkiye,Upper middle income,gpi_tert,9,0.9
+TUR,Turkiye,Upper middle income,inc_share_low20,9,0.9
+TUR,Turkiye,Upper middle income,pop_total,10,1.0
+TUR,Turkiye,Upper middle income,poverty_215,9,0.9
+TUR,Turkiye,Upper middle income,sec_completion,9,0.9
+TUR,Turkiye,Upper middle income,sec_enrol_gross,9,0.9
+TUR,Turkiye,Upper middle income,tert_enrol_gross,9,0.9
+TUR,Turkiye,Upper middle income,voice_account,9,0.9
+TUR,Turkiye,Upper middle income,work_age_share,10,1.0
+TUR,Turkiye,Upper middle income,youth_literacy,7,0.7
+TKM,Turkmenistan,Upper middle income,adult_literacy,1,0.1
+TKM,Turkmenistan,Upper middle income,ctrl_corrup,9,0.9
+TKM,Turkmenistan,Upper middle income,edu_spend_gdp,6,0.6
+TKM,Turkmenistan,Upper middle income,gdp_pc_ppp,10,1.0
+TKM,Turkmenistan,Upper middle income,gini,0,0.0
+TKM,Turkmenistan,Upper middle income,gov_effect,9,0.9
+TKM,Turkmenistan,Upper middle income,gpi_sec,4,0.4
+TKM,Turkmenistan,Upper middle income,gpi_tert,6,0.6
+TKM,Turkmenistan,Upper middle income,inc_share_low20,0,0.0
+TKM,Turkmenistan,Upper middle income,pop_total,10,1.0
+TKM,Turkmenistan,Upper middle income,poverty_215,0,0.0
+TKM,Turkmenistan,Upper middle income,sec_completion,6,0.6
+TKM,Turkmenistan,Upper middle income,sec_enrol_gross,6,0.6
+TKM,Turkmenistan,Upper middle income,tert_enrol_gross,6,0.6
+TKM,Turkmenistan,Upper middle income,voice_account,9,0.9
+TKM,Turkmenistan,Upper middle income,work_age_share,10,1.0
+TKM,Turkmenistan,Upper middle income,youth_literacy,1,0.1
+TUV,Tuvalu,Upper middle income,adult_literacy,1,0.1
+TUV,Tuvalu,Upper middle income,ctrl_corrup,9,0.9
+TUV,Tuvalu,Upper middle income,edu_spend_gdp,4,0.4
+TUV,Tuvalu,Upper middle income,gdp_pc_ppp,9,0.9
+TUV,Tuvalu,Upper middle income,gini,0,0.0
+TUV,Tuvalu,Upper middle income,gov_effect,9,0.9
+TUV,Tuvalu,Upper middle income,gpi_sec,6,0.6
+TUV,Tuvalu,Upper middle income,gpi_tert,9,0.9
+TUV,Tuvalu,Upper middle income,inc_share_low20,0,0.0
+TUV,Tuvalu,Upper middle income,pop_total,10,1.0
+TUV,Tuvalu,Upper middle income,poverty_215,0,0.0
+TUV,Tuvalu,Upper middle income,sec_completion,9,0.9
+TUV,Tuvalu,Upper middle income,sec_enrol_gross,9,0.9
+TUV,Tuvalu,Upper middle income,tert_enrol_gross,1,0.1
+TUV,Tuvalu,Upper middle income,voice_account,9,0.9
+TUV,Tuvalu,Upper middle income,work_age_share,10,1.0
+TUV,Tuvalu,Upper middle income,youth_literacy,2,0.2
+UKR,Ukraine,Upper middle income,adult_literacy,0,0.0
+UKR,Ukraine,Upper middle income,ctrl_corrup,9,0.9
+UKR,Ukraine,Upper middle income,edu_spend_gdp,7,0.7
+UKR,Ukraine,Upper middle income,gdp_pc_ppp,10,1.0
+UKR,Ukraine,Upper middle income,gini,6,0.6
+UKR,Ukraine,Upper middle income,gov_effect,9,0.9
+UKR,Ukraine,Upper middle income,gpi_sec,9,0.9
+UKR,Ukraine,Upper middle income,gpi_tert,9,0.9
+UKR,Ukraine,Upper middle income,inc_share_low20,6,0.6
+UKR,Ukraine,Upper middle income,pop_total,10,1.0
+UKR,Ukraine,Upper middle income,poverty_215,6,0.6
+UKR,Ukraine,Upper middle income,sec_completion,9,0.9
+UKR,Ukraine,Upper middle income,sec_enrol_gross,9,0.9
+UKR,Ukraine,Upper middle income,tert_enrol_gross,9,0.9
+UKR,Ukraine,Upper middle income,voice_account,9,0.9
+UKR,Ukraine,Upper middle income,work_age_share,10,1.0
+UKR,Ukraine,Upper middle income,youth_literacy,0,0.0
+AGO,Angola,Lower middle income,adult_literacy,2,0.2
+AGO,Angola,Lower middle income,ctrl_corrup,9,0.9
+AGO,Angola,Lower middle income,edu_spend_gdp,9,0.9
+AGO,Angola,Lower middle income,gdp_pc_ppp,10,1.0
+AGO,Angola,Lower middle income,gini,1,0.1
+AGO,Angola,Lower middle income,gov_effect,9,0.9
+AGO,Angola,Lower middle income,gpi_sec,2,0.2
+AGO,Angola,Lower middle income,gpi_tert,5,0.5
+AGO,Angola,Lower middle income,inc_share_low20,1,0.1
+AGO,Angola,Lower middle income,pop_total,10,1.0
+AGO,Angola,Lower middle income,poverty_215,1,0.1
+AGO,Angola,Lower middle income,sec_completion,2,0.2
+AGO,Angola,Lower middle income,sec_enrol_gross,3,0.3
+AGO,Angola,Lower middle income,tert_enrol_gross,4,0.4
+AGO,Angola,Lower middle income,voice_account,9,0.9
+AGO,Angola,Lower middle income,work_age_share,10,1.0
+AGO,Angola,Lower middle income,youth_literacy,2,0.2
+BGD,Bangladesh,Lower middle income,adult_literacy,8,0.8
+BGD,Bangladesh,Lower middle income,ctrl_corrup,9,0.9
+BGD,Bangladesh,Lower middle income,edu_spend_gdp,10,1.0
+BGD,Bangladesh,Lower middle income,gdp_pc_ppp,10,1.0
+BGD,Bangladesh,Lower middle income,gini,2,0.2
+BGD,Bangladesh,Lower middle income,gov_effect,9,0.9
+BGD,Bangladesh,Lower middle income,gpi_sec,10,1.0
+BGD,Bangladesh,Lower middle income,gpi_tert,10,1.0
+BGD,Bangladesh,Lower middle income,inc_share_low20,2,0.2
+BGD,Bangladesh,Lower middle income,pop_total,10,1.0
+BGD,Bangladesh,Lower middle income,poverty_215,2,0.2
+BGD,Bangladesh,Lower middle income,sec_completion,10,1.0
+BGD,Bangladesh,Lower middle income,sec_enrol_gross,10,1.0
+BGD,Bangladesh,Lower middle income,tert_enrol_gross,10,1.0
+BGD,Bangladesh,Lower middle income,voice_account,9,0.9
+BGD,Bangladesh,Lower middle income,work_age_share,10,1.0
+BGD,Bangladesh,Lower middle income,youth_literacy,8,0.8
+BEN,Benin,Lower middle income,adult_literacy,4,0.4
+BEN,Benin,Lower middle income,ctrl_corrup,9,0.9
+BEN,Benin,Lower middle income,edu_spend_gdp,9,0.9
+BEN,Benin,Lower middle income,gdp_pc_ppp,10,1.0
+BEN,Benin,Lower middle income,gini,3,0.3
+BEN,Benin,Lower middle income,gov_effect,9,0.9
+BEN,Benin,Lower middle income,gpi_sec,5,0.5
+BEN,Benin,Lower middle income,gpi_tert,8,0.8
+BEN,Benin,Lower middle income,inc_share_low20,3,0.3
+BEN,Benin,Lower middle income,pop_total,10,1.0
+BEN,Benin,Lower middle income,poverty_215,3,0.3
+BEN,Benin,Lower middle income,sec_completion,8,0.8
+BEN,Benin,Lower middle income,sec_enrol_gross,5,0.5
+BEN,Benin,Lower middle income,tert_enrol_gross,8,0.8
+BEN,Benin,Lower middle income,voice_account,9,0.9
+BEN,Benin,Lower middle income,work_age_share,10,1.0
+BEN,Benin,Lower middle income,youth_literacy,4,0.4
+BTN,Bhutan,Lower middle income,adult_literacy,2,0.2
+BTN,Bhutan,Lower middle income,ctrl_corrup,9,0.9
+BTN,Bhutan,Lower middle income,edu_spend_gdp,9,0.9
+BTN,Bhutan,Lower middle income,gdp_pc_ppp,9,0.9
+BTN,Bhutan,Lower middle income,gini,2,0.2
+BTN,Bhutan,Lower middle income,gov_effect,9,0.9
+BTN,Bhutan,Lower middle income,gpi_sec,8,0.8
+BTN,Bhutan,Lower middle income,gpi_tert,10,1.0
+BTN,Bhutan,Lower middle income,inc_share_low20,2,0.2
+BTN,Bhutan,Lower middle income,pop_total,10,1.0
+BTN,Bhutan,Lower middle income,poverty_215,2,0.2
+BTN,Bhutan,Lower middle income,sec_completion,10,1.0
+BTN,Bhutan,Lower middle income,sec_enrol_gross,10,1.0
+BTN,Bhutan,Lower middle income,tert_enrol_gross,8,0.8
+BTN,Bhutan,Lower middle income,voice_account,9,0.9
+BTN,Bhutan,Lower middle income,work_age_share,10,1.0
+BTN,Bhutan,Lower middle income,youth_literacy,2,0.2
+BOL,Bolivia,Lower middle income,adult_literacy,4,0.4
+BOL,Bolivia,Lower middle income,ctrl_corrup,9,0.9
+BOL,Bolivia,Lower middle income,edu_spend_gdp,10,1.0
+BOL,Bolivia,Lower middle income,gdp_pc_ppp,10,1.0
+BOL,Bolivia,Lower middle income,gini,10,1.0
+BOL,Bolivia,Lower middle income,gov_effect,9,0.9
+BOL,Bolivia,Lower middle income,gpi_sec,10,1.0
+BOL,Bolivia,Lower middle income,gpi_tert,10,1.0
+BOL,Bolivia,Lower middle income,inc_share_low20,10,1.0
+BOL,Bolivia,Lower middle income,pop_total,10,1.0
+BOL,Bolivia,Lower middle income,poverty_215,10,1.0
+BOL,Bolivia,Lower middle income,sec_completion,10,1.0
+BOL,Bolivia,Lower middle income,sec_enrol_gross,10,1.0
+BOL,Bolivia,Lower middle income,tert_enrol_gross,0,0.0
+BOL,Bolivia,Lower middle income,voice_account,9,0.9
+BOL,Bolivia,Lower middle income,work_age_share,10,1.0
+BOL,Bolivia,Lower middle income,youth_literacy,9,0.9
+KHM,Cambodia,Lower middle income,adult_literacy,4,0.4
+KHM,Cambodia,Lower middle income,ctrl_corrup,9,0.9
+KHM,Cambodia,Lower middle income,edu_spend_gdp,6,0.6
+KHM,Cambodia,Lower middle income,gdp_pc_ppp,10,1.0
+KHM,Cambodia,Lower middle income,gini,0,0.0
+KHM,Cambodia,Lower middle income,gov_effect,9,0.9
+KHM,Cambodia,Lower middle income,gpi_sec,5,0.5
+KHM,Cambodia,Lower middle income,gpi_tert,10,1.0
+KHM,Cambodia,Lower middle income,inc_share_low20,0,0.0
+KHM,Cambodia,Lower middle income,pop_total,10,1.0
+KHM,Cambodia,Lower middle income,poverty_215,0,0.0
+KHM,Cambodia,Lower middle income,sec_completion,10,1.0
+KHM,Cambodia,Lower middle income,sec_enrol_gross,9,0.9
+KHM,Cambodia,Lower middle income,tert_enrol_gross,9,0.9
+KHM,Cambodia,Lower middle income,voice_account,9,0.9
+KHM,Cambodia,Lower middle income,work_age_share,10,1.0
+KHM,Cambodia,Lower middle income,youth_literacy,5,0.5
+CMR,Cameroon,Lower middle income,adult_literacy,1,0.1
+CMR,Cameroon,Lower middle income,ctrl_corrup,9,0.9
+CMR,Cameroon,Lower middle income,edu_spend_gdp,9,0.9
+CMR,Cameroon,Lower middle income,gdp_pc_ppp,10,1.0
+CMR,Cameroon,Lower middle income,gini,1,0.1
+CMR,Cameroon,Lower middle income,gov_effect,9,0.9
+CMR,Cameroon,Lower middle income,gpi_sec,9,0.9
+CMR,Cameroon,Lower middle income,gpi_tert,10,1.0
+CMR,Cameroon,Lower middle income,inc_share_low20,1,0.1
+CMR,Cameroon,Lower middle income,pop_total,10,1.0
+CMR,Cameroon,Lower middle income,poverty_215,1,0.1
+CMR,Cameroon,Lower middle income,sec_completion,6,0.6
+CMR,Cameroon,Lower middle income,sec_enrol_gross,5,0.5
+CMR,Cameroon,Lower middle income,tert_enrol_gross,10,1.0
+CMR,Cameroon,Lower middle income,voice_account,9,0.9
+CMR,Cameroon,Lower middle income,work_age_share,10,1.0
+CMR,Cameroon,Lower middle income,youth_literacy,1,0.1
+COM,Comoros,Lower middle income,adult_literacy,1,0.1
+COM,Comoros,Lower middle income,ctrl_corrup,9,0.9
+COM,Comoros,Lower middle income,edu_spend_gdp,5,0.5
+COM,Comoros,Lower middle income,gdp_pc_ppp,10,1.0
+COM,Comoros,Lower middle income,gini,2,0.2
+COM,Comoros,Lower middle income,gov_effect,9,0.9
+COM,Comoros,Lower middle income,gpi_sec,5,0.5
+COM,Comoros,Lower middle income,gpi_tert,3,0.3
+COM,Comoros,Lower middle income,inc_share_low20,2,0.2
+COM,Comoros,Lower middle income,pop_total,10,1.0
+COM,Comoros,Lower middle income,poverty_215,2,0.2
+COM,Comoros,Lower middle income,sec_completion,3,0.3
+COM,Comoros,Lower middle income,sec_enrol_gross,5,0.5
+COM,Comoros,Lower middle income,tert_enrol_gross,1,0.1
+COM,Comoros,Lower middle income,voice_account,9,0.9
+COM,Comoros,Lower middle income,work_age_share,10,1.0
+COM,Comoros,Lower middle income,youth_literacy,1,0.1
+COG,"Congo, Rep.",Lower middle income,adult_literacy,0,0.0
+COG,"Congo, Rep.",Lower middle income,ctrl_corrup,9,0.9
+COG,"Congo, Rep.",Lower middle income,edu_spend_gdp,9,0.9
+COG,"Congo, Rep.",Lower middle income,gdp_pc_ppp,10,1.0
+COG,"Congo, Rep.",Lower middle income,gini,0,0.0
+COG,"Congo, Rep.",Lower middle income,gov_effect,9,0.9
+COG,"Congo, Rep.",Lower middle income,gpi_sec,1,0.1
+COG,"Congo, Rep.",Lower middle income,gpi_tert,2,0.2
+COG,"Congo, Rep.",Lower middle income,inc_share_low20,0,0.0
+COG,"Congo, Rep.",Lower middle income,pop_total,10,1.0
+COG,"Congo, Rep.",Lower middle income,poverty_215,0,0.0
+COG,"Congo, Rep.",Lower middle income,sec_completion,0,0.0
+COG,"Congo, Rep.",Lower middle income,sec_enrol_gross,0,0.0
+COG,"Congo, Rep.",Lower middle income,tert_enrol_gross,2,0.2
+COG,"Congo, Rep.",Lower middle income,voice_account,9,0.9
+COG,"Congo, Rep.",Lower middle income,work_age_share,10,1.0
+COG,"Congo, Rep.",Lower middle income,youth_literacy,0,0.0
+CIV,Cote d'Ivoire,Lower middle income,adult_literacy,3,0.3
+CIV,Cote d'Ivoire,Lower middle income,ctrl_corrup,9,0.9
+CIV,Cote d'Ivoire,Lower middle income,edu_spend_gdp,10,1.0
+CIV,Cote d'Ivoire,Lower middle income,gdp_pc_ppp,10,1.0
+CIV,Cote d'Ivoire,Lower middle income,gini,3,0.3
+CIV,Cote d'Ivoire,Lower middle income,gov_effect,9,0.9
+CIV,Cote d'Ivoire,Lower middle income,gpi_sec,10,1.0
+CIV,Cote d'Ivoire,Lower middle income,gpi_tert,10,1.0
+CIV,Cote d'Ivoire,Lower middle income,inc_share_low20,3,0.3
+CIV,Cote d'Ivoire,Lower middle income,pop_total,10,1.0
+CIV,Cote d'Ivoire,Lower middle income,poverty_215,3,0.3
+CIV,Cote d'Ivoire,Lower middle income,sec_completion,10,1.0
+CIV,Cote d'Ivoire,Lower middle income,sec_enrol_gross,10,1.0
+CIV,Cote d'Ivoire,Lower middle income,tert_enrol_gross,9,0.9
+CIV,Cote d'Ivoire,Lower middle income,voice_account,9,0.9
+CIV,Cote d'Ivoire,Lower middle income,work_age_share,10,1.0
+CIV,Cote d'Ivoire,Lower middle income,youth_literacy,3,0.3
+DJI,Djibouti,Lower middle income,adult_literacy,0,0.0
+DJI,Djibouti,Lower middle income,ctrl_corrup,9,0.9
+DJI,Djibouti,Lower middle income,edu_spend_gdp,4,0.4
+DJI,Djibouti,Lower middle income,gdp_pc_ppp,10,1.0
+DJI,Djibouti,Lower middle income,gini,1,0.1
+DJI,Djibouti,Lower middle income,gov_effect,9,0.9
+DJI,Djibouti,Lower middle income,gpi_sec,7,0.7
+DJI,Djibouti,Lower middle income,gpi_tert,0,0.0
+DJI,Djibouti,Lower middle income,inc_share_low20,1,0.1
+DJI,Djibouti,Lower middle income,pop_total,10,1.0
+DJI,Djibouti,Lower middle income,poverty_215,1,0.1
+DJI,Djibouti,Lower middle income,sec_completion,3,0.3
+DJI,Djibouti,Lower middle income,sec_enrol_gross,0,0.0
+DJI,Djibouti,Lower middle income,tert_enrol_gross,0,0.0
+DJI,Djibouti,Lower middle income,voice_account,9,0.9
+DJI,Djibouti,Lower middle income,work_age_share,10,1.0
+DJI,Djibouti,Lower middle income,youth_literacy,1,0.1
+EGY,"Egypt, Arab Rep.",Lower middle income,adult_literacy,3,0.3
+EGY,"Egypt, Arab Rep.",Lower middle income,ctrl_corrup,9,0.9
+EGY,"Egypt, Arab Rep.",Lower middle income,edu_spend_gdp,0,0.0
+EGY,"Egypt, Arab Rep.",Lower middle income,gdp_pc_ppp,10,1.0
+EGY,"Egypt, Arab Rep.",Lower middle income,gini,4,0.4
+EGY,"Egypt, Arab Rep.",Lower middle income,gov_effect,9,0.9
+EGY,"Egypt, Arab Rep.",Lower middle income,gpi_sec,8,0.8
+EGY,"Egypt, Arab Rep.",Lower middle income,gpi_tert,10,1.0
+EGY,"Egypt, Arab Rep.",Lower middle income,inc_share_low20,4,0.4
+EGY,"Egypt, Arab Rep.",Lower middle income,pop_total,10,1.0
+EGY,"Egypt, Arab Rep.",Lower middle income,poverty_215,4,0.4
+EGY,"Egypt, Arab Rep.",Lower middle income,sec_completion,8,0.8
+EGY,"Egypt, Arab Rep.",Lower middle income,sec_enrol_gross,8,0.8
+EGY,"Egypt, Arab Rep.",Lower middle income,tert_enrol_gross,10,1.0
+EGY,"Egypt, Arab Rep.",Lower middle income,voice_account,9,0.9
+EGY,"Egypt, Arab Rep.",Lower middle income,work_age_share,10,1.0
+EGY,"Egypt, Arab Rep.",Lower middle income,youth_literacy,3,0.3
+SWZ,Eswatini,Lower middle income,adult_literacy,1,0.1
+SWZ,Eswatini,Lower middle income,ctrl_corrup,9,0.9
+SWZ,Eswatini,Lower middle income,edu_spend_gdp,10,1.0
+SWZ,Eswatini,Lower middle income,gdp_pc_ppp,10,1.0
+SWZ,Eswatini,Lower middle income,gini,1,0.1
+SWZ,Eswatini,Lower middle income,gov_effect,9,0.9
+SWZ,Eswatini,Lower middle income,gpi_sec,5,0.5
+SWZ,Eswatini,Lower middle income,gpi_tert,2,0.2
+SWZ,Eswatini,Lower middle income,inc_share_low20,1,0.1
+SWZ,Eswatini,Lower middle income,pop_total,10,1.0
+SWZ,Eswatini,Lower middle income,poverty_215,1,0.1
+SWZ,Eswatini,Lower middle income,sec_completion,6,0.6
+SWZ,Eswatini,Lower middle income,sec_enrol_gross,5,0.5
+SWZ,Eswatini,Lower middle income,tert_enrol_gross,0,0.0
+SWZ,Eswatini,Lower middle income,voice_account,9,0.9
+SWZ,Eswatini,Lower middle income,work_age_share,10,1.0
+SWZ,Eswatini,Lower middle income,youth_literacy,1,0.1
+GHA,Ghana,Lower middle income,adult_literacy,3,0.3
+GHA,Ghana,Lower middle income,ctrl_corrup,9,0.9
+GHA,Ghana,Lower middle income,edu_spend_gdp,8,0.8
+GHA,Ghana,Lower middle income,gdp_pc_ppp,10,1.0
+GHA,Ghana,Lower middle income,gini,1,0.1
+GHA,Ghana,Lower middle income,gov_effect,9,0.9
+GHA,Ghana,Lower middle income,gpi_sec,8,0.8
+GHA,Ghana,Lower middle income,gpi_tert,10,1.0
+GHA,Ghana,Lower middle income,inc_share_low20,1,0.1
+GHA,Ghana,Lower middle income,pop_total,10,1.0
+GHA,Ghana,Lower middle income,poverty_215,1,0.1
+GHA,Ghana,Lower middle income,sec_completion,8,0.8
+GHA,Ghana,Lower middle income,sec_enrol_gross,9,0.9
+GHA,Ghana,Lower middle income,tert_enrol_gross,10,1.0
+GHA,Ghana,Lower middle income,voice_account,9,0.9
+GHA,Ghana,Lower middle income,work_age_share,10,1.0
+GHA,Ghana,Lower middle income,youth_literacy,3,0.3
+GIN,Guinea,Lower middle income,adult_literacy,1,0.1
+GIN,Guinea,Lower middle income,ctrl_corrup,9,0.9
+GIN,Guinea,Lower middle income,edu_spend_gdp,9,0.9
+GIN,Guinea,Lower middle income,gdp_pc_ppp,10,1.0
+GIN,Guinea,Lower middle income,gini,1,0.1
+GIN,Guinea,Lower middle income,gov_effect,9,0.9
+GIN,Guinea,Lower middle income,gpi_sec,4,0.4
+GIN,Guinea,Lower middle income,gpi_tert,0,0.0
+GIN,Guinea,Lower middle income,inc_share_low20,1,0.1
+GIN,Guinea,Lower middle income,pop_total,10,1.0
+GIN,Guinea,Lower middle income,poverty_215,1,0.1
+GIN,Guinea,Lower middle income,sec_completion,3,0.3
+GIN,Guinea,Lower middle income,sec_enrol_gross,0,0.0
+GIN,Guinea,Lower middle income,tert_enrol_gross,0,0.0
+GIN,Guinea,Lower middle income,voice_account,9,0.9
+GIN,Guinea,Lower middle income,work_age_share,10,1.0
+GIN,Guinea,Lower middle income,youth_literacy,1,0.1
+HTI,Haiti,Lower middle income,adult_literacy,1,0.1
+HTI,Haiti,Lower middle income,ctrl_corrup,9,0.9
+HTI,Haiti,Lower middle income,edu_spend_gdp,9,0.9
+HTI,Haiti,Lower middle income,gdp_pc_ppp,10,1.0
+HTI,Haiti,Lower middle income,gini,0,0.0
+HTI,Haiti,Lower middle income,gov_effect,9,0.9
+HTI,Haiti,Lower middle income,gpi_sec,0,0.0
+HTI,Haiti,Lower middle income,gpi_tert,0,0.0
+HTI,Haiti,Lower middle income,inc_share_low20,0,0.0
+HTI,Haiti,Lower middle income,pop_total,10,1.0
+HTI,Haiti,Lower middle income,poverty_215,0,0.0
+HTI,Haiti,Lower middle income,sec_completion,0,0.0
+HTI,Haiti,Lower middle income,sec_enrol_gross,0,0.0
+HTI,Haiti,Lower middle income,tert_enrol_gross,0,0.0
+HTI,Haiti,Lower middle income,voice_account,9,0.9
+HTI,Haiti,Lower middle income,work_age_share,10,1.0
+HTI,Haiti,Lower middle income,youth_literacy,1,0.1
+HND,Honduras,Lower middle income,adult_literacy,7,0.7
+HND,Honduras,Lower middle income,ctrl_corrup,9,0.9
+HND,Honduras,Lower middle income,edu_spend_gdp,9,0.9
+HND,Honduras,Lower middle income,gdp_pc_ppp,10,1.0
+HND,Honduras,Lower middle income,gini,7,0.7
+HND,Honduras,Lower middle income,gov_effect,9,0.9
+HND,Honduras,Lower middle income,gpi_sec,9,0.9
+HND,Honduras,Lower middle income,gpi_tert,10,1.0
+HND,Honduras,Lower middle income,inc_share_low20,7,0.7
+HND,Honduras,Lower middle income,pop_total,10,1.0
+HND,Honduras,Lower middle income,poverty_215,7,0.7
+HND,Honduras,Lower middle income,sec_completion,6,0.6
+HND,Honduras,Lower middle income,sec_enrol_gross,9,0.9
+HND,Honduras,Lower middle income,tert_enrol_gross,6,0.6
+HND,Honduras,Lower middle income,voice_account,9,0.9
+HND,Honduras,Lower middle income,work_age_share,10,1.0
+HND,Honduras,Lower middle income,youth_literacy,7,0.7
+IND,India,Lower middle income,adult_literacy,7,0.7
+IND,India,Lower middle income,ctrl_corrup,9,0.9
+IND,India,Lower middle income,edu_spend_gdp,8,0.8
+IND,India,Lower middle income,gdp_pc_ppp,10,1.0
+IND,India,Lower middle income,gini,1,0.1
+IND,India,Lower middle income,gov_effect,9,0.9
+IND,India,Lower middle income,gpi_sec,10,1.0
+IND,India,Lower middle income,gpi_tert,10,1.0
+IND,India,Lower middle income,inc_share_low20,1,0.1
+IND,India,Lower middle income,pop_total,10,1.0
+IND,India,Lower middle income,poverty_215,1,0.1
+IND,India,Lower middle income,sec_completion,9,0.9
+IND,India,Lower middle income,sec_enrol_gross,10,1.0
+IND,India,Lower middle income,tert_enrol_gross,10,1.0
+IND,India,Lower middle income,voice_account,9,0.9
+IND,India,Lower middle income,work_age_share,10,1.0
+IND,India,Lower middle income,youth_literacy,8,0.8
+JOR,Jordan,Lower middle income,adult_literacy,3,0.3
+JOR,Jordan,Lower middle income,ctrl_corrup,9,0.9
+JOR,Jordan,Lower middle income,edu_spend_gdp,10,1.0
+JOR,Jordan,Lower middle income,gdp_pc_ppp,10,1.0
+JOR,Jordan,Lower middle income,gini,0,0.0
+JOR,Jordan,Lower middle income,gov_effect,9,0.9
+JOR,Jordan,Lower middle income,gpi_sec,8,0.8
+JOR,Jordan,Lower middle income,gpi_tert,10,1.0
+JOR,Jordan,Lower middle income,inc_share_low20,0,0.0
+JOR,Jordan,Lower middle income,pop_total,10,1.0
+JOR,Jordan,Lower middle income,poverty_215,0,0.0
+JOR,Jordan,Lower middle income,sec_completion,9,0.9
+JOR,Jordan,Lower middle income,sec_enrol_gross,8,0.8
+JOR,Jordan,Lower middle income,tert_enrol_gross,10,1.0
+JOR,Jordan,Lower middle income,voice_account,9,0.9
+JOR,Jordan,Lower middle income,work_age_share,10,1.0
+JOR,Jordan,Lower middle income,youth_literacy,3,0.3
+KEN,Kenya,Lower middle income,adult_literacy,0,0.0
+KEN,Kenya,Lower middle income,ctrl_corrup,9,0.9
+KEN,Kenya,Lower middle income,edu_spend_gdp,10,1.0
+KEN,Kenya,Lower middle income,gdp_pc_ppp,10,1.0
+KEN,Kenya,Lower middle income,gini,4,0.4
+KEN,Kenya,Lower middle income,gov_effect,9,0.9
+KEN,Kenya,Lower middle income,gpi_sec,0,0.0
+KEN,Kenya,Lower middle income,gpi_tert,8,0.8
+KEN,Kenya,Lower middle income,inc_share_low20,4,0.4
+KEN,Kenya,Lower middle income,pop_total,10,1.0
+KEN,Kenya,Lower middle income,poverty_215,4,0.4
+KEN,Kenya,Lower middle income,sec_completion,7,0.7
+KEN,Kenya,Lower middle income,sec_enrol_gross,5,0.5
+KEN,Kenya,Lower middle income,tert_enrol_gross,6,0.6
+KEN,Kenya,Lower middle income,voice_account,9,0.9
+KEN,Kenya,Lower middle income,work_age_share,10,1.0
+KEN,Kenya,Lower middle income,youth_literacy,0,0.0
+KIR,Kiribati,Lower middle income,adult_literacy,2,0.2
+KIR,Kiribati,Lower middle income,ctrl_corrup,9,0.9
+KIR,Kiribati,Lower middle income,edu_spend_gdp,9,0.9
+KIR,Kiribati,Lower middle income,gdp_pc_ppp,10,1.0
+KIR,Kiribati,Lower middle income,gini,2,0.2
+KIR,Kiribati,Lower middle income,gov_effect,9,0.9
+KIR,Kiribati,Lower middle income,gpi_sec,7,0.7
+KIR,Kiribati,Lower middle income,gpi_tert,8,0.8
+KIR,Kiribati,Lower middle income,inc_share_low20,2,0.2
+KIR,Kiribati,Lower middle income,pop_total,10,1.0
+KIR,Kiribati,Lower middle income,poverty_215,2,0.2
+KIR,Kiribati,Lower middle income,sec_completion,6,0.6
+KIR,Kiribati,Lower middle income,sec_enrol_gross,8,0.8
+KIR,Kiribati,Lower middle income,tert_enrol_gross,1,0.1
+KIR,Kiribati,Lower middle income,voice_account,9,0.9
+KIR,Kiribati,Lower middle income,work_age_share,10,1.0
+KIR,Kiribati,Lower middle income,youth_literacy,2,0.2
+KGZ,Kyrgyz Republic,Lower middle income,adult_literacy,0,0.0
+KGZ,Kyrgyz Republic,Lower middle income,ctrl_corrup,9,0.9
+KGZ,Kyrgyz Republic,Lower middle income,edu_spend_gdp,9,0.9
+KGZ,Kyrgyz Republic,Lower middle income,gdp_pc_ppp,10,1.0
+KGZ,Kyrgyz Republic,Lower middle income,gini,10,1.0
+KGZ,Kyrgyz Republic,Lower middle income,gov_effect,9,0.9
+KGZ,Kyrgyz Republic,Lower middle income,gpi_sec,10,1.0
+KGZ,Kyrgyz Republic,Lower middle income,gpi_tert,10,1.0
+KGZ,Kyrgyz Republic,Lower middle income,inc_share_low20,10,1.0
+KGZ,Kyrgyz Republic,Lower middle income,pop_total,10,1.0
+KGZ,Kyrgyz Republic,Lower middle income,poverty_215,10,1.0
+KGZ,Kyrgyz Republic,Lower middle income,sec_completion,10,1.0
+KGZ,Kyrgyz Republic,Lower middle income,sec_enrol_gross,10,1.0
+KGZ,Kyrgyz Republic,Lower middle income,tert_enrol_gross,10,1.0
+KGZ,Kyrgyz Republic,Lower middle income,voice_account,9,0.9
+KGZ,Kyrgyz Republic,Lower middle income,work_age_share,10,1.0
+KGZ,Kyrgyz Republic,Lower middle income,youth_literacy,0,0.0
+LAO,Lao PDR,Lower middle income,adult_literacy,3,0.3
+LAO,Lao PDR,Lower middle income,ctrl_corrup,9,0.9
+LAO,Lao PDR,Lower middle income,edu_spend_gdp,9,0.9
+LAO,Lao PDR,Lower middle income,gdp_pc_ppp,10,1.0
+LAO,Lao PDR,Lower middle income,gini,2,0.2
+LAO,Lao PDR,Lower middle income,gov_effect,9,0.9
+LAO,Lao PDR,Lower middle income,gpi_sec,10,1.0
+LAO,Lao PDR,Lower middle income,gpi_tert,10,1.0
+LAO,Lao PDR,Lower middle income,inc_share_low20,2,0.2
+LAO,Lao PDR,Lower middle income,pop_total,10,1.0
+LAO,Lao PDR,Lower middle income,poverty_215,2,0.2
+LAO,Lao PDR,Lower middle income,sec_completion,10,1.0
+LAO,Lao PDR,Lower middle income,sec_enrol_gross,10,1.0
+LAO,Lao PDR,Lower middle income,tert_enrol_gross,9,0.9
+LAO,Lao PDR,Lower middle income,voice_account,9,0.9
+LAO,Lao PDR,Lower middle income,work_age_share,10,1.0
+LAO,Lao PDR,Lower middle income,youth_literacy,4,0.4
+LBN,Lebanon,Lower middle income,adult_literacy,2,0.2
+LBN,Lebanon,Lower middle income,ctrl_corrup,9,0.9
+LBN,Lebanon,Lower middle income,edu_spend_gdp,8,0.8
+LBN,Lebanon,Lower middle income,gdp_pc_ppp,9,0.9
+LBN,Lebanon,Lower middle income,gini,1,0.1
+LBN,Lebanon,Lower middle income,gov_effect,9,0.9
+LBN,Lebanon,Lower middle income,gpi_sec,10,1.0
+LBN,Lebanon,Lower middle income,gpi_tert,10,1.0
+LBN,Lebanon,Lower middle income,inc_share_low20,1,0.1
+LBN,Lebanon,Lower middle income,pop_total,10,1.0
+LBN,Lebanon,Lower middle income,poverty_215,1,0.1
+LBN,Lebanon,Lower middle income,sec_completion,10,1.0
+LBN,Lebanon,Lower middle income,sec_enrol_gross,10,1.0
+LBN,Lebanon,Lower middle income,tert_enrol_gross,9,0.9
+LBN,Lebanon,Lower middle income,voice_account,9,0.9
+LBN,Lebanon,Lower middle income,work_age_share,10,1.0
+LBN,Lebanon,Lower middle income,youth_literacy,2,0.2
+LSO,Lesotho,Lower middle income,adult_literacy,4,0.4
+LSO,Lesotho,Lower middle income,ctrl_corrup,9,0.9
+LSO,Lesotho,Lower middle income,edu_spend_gdp,6,0.6
+LSO,Lesotho,Lower middle income,gdp_pc_ppp,10,1.0
+LSO,Lesotho,Lower middle income,gini,1,0.1
+LSO,Lesotho,Lower middle income,gov_effect,9,0.9
+LSO,Lesotho,Lower middle income,gpi_sec,10,1.0
+LSO,Lesotho,Lower middle income,gpi_tert,4,0.4
+LSO,Lesotho,Lower middle income,inc_share_low20,1,0.1
+LSO,Lesotho,Lower middle income,pop_total,10,1.0
+LSO,Lesotho,Lower middle income,poverty_215,1,0.1
+LSO,Lesotho,Lower middle income,sec_completion,10,1.0
+LSO,Lesotho,Lower middle income,sec_enrol_gross,10,1.0
+LSO,Lesotho,Lower middle income,tert_enrol_gross,3,0.3
+LSO,Lesotho,Lower middle income,voice_account,9,0.9
+LSO,Lesotho,Lower middle income,work_age_share,10,1.0
+LSO,Lesotho,Lower middle income,youth_literacy,4,0.4
+MRT,Mauritania,Lower middle income,adult_literacy,2,0.2
+MRT,Mauritania,Lower middle income,ctrl_corrup,9,0.9
+MRT,Mauritania,Lower middle income,edu_spend_gdp,8,0.8
+MRT,Mauritania,Lower middle income,gdp_pc_ppp,10,1.0
+MRT,Mauritania,Lower middle income,gini,1,0.1
+MRT,Mauritania,Lower middle income,gov_effect,9,0.9
+MRT,Mauritania,Lower middle income,gpi_sec,7,0.7
+MRT,Mauritania,Lower middle income,gpi_tert,8,0.8
+MRT,Mauritania,Lower middle income,inc_share_low20,1,0.1
+MRT,Mauritania,Lower middle income,pop_total,10,1.0
+MRT,Mauritania,Lower middle income,poverty_215,1,0.1
+MRT,Mauritania,Lower middle income,sec_completion,6,0.6
+MRT,Mauritania,Lower middle income,sec_enrol_gross,7,0.7
+MRT,Mauritania,Lower middle income,tert_enrol_gross,6,0.6
+MRT,Mauritania,Lower middle income,voice_account,9,0.9
+MRT,Mauritania,Lower middle income,work_age_share,10,1.0
+MRT,Mauritania,Lower middle income,youth_literacy,2,0.2
+FSM,"Micronesia, Fed. Sts.",Lower middle income,adult_literacy,0,0.0
+FSM,"Micronesia, Fed. Sts.",Lower middle income,ctrl_corrup,9,0.9
+FSM,"Micronesia, Fed. Sts.",Lower middle income,edu_spend_gdp,6,0.6
+FSM,"Micronesia, Fed. Sts.",Lower middle income,gdp_pc_ppp,10,1.0
+FSM,"Micronesia, Fed. Sts.",Lower middle income,gini,0,0.0
+FSM,"Micronesia, Fed. Sts.",Lower middle income,gov_effect,9,0.9
+FSM,"Micronesia, Fed. Sts.",Lower middle income,gpi_sec,9,0.9
+FSM,"Micronesia, Fed. Sts.",Lower middle income,gpi_tert,10,1.0
+FSM,"Micronesia, Fed. Sts.",Lower middle income,inc_share_low20,0,0.0
+FSM,"Micronesia, Fed. Sts.",Lower middle income,pop_total,10,1.0
+FSM,"Micronesia, Fed. Sts.",Lower middle income,poverty_215,0,0.0
+FSM,"Micronesia, Fed. Sts.",Lower middle income,sec_completion,10,1.0
+FSM,"Micronesia, Fed. Sts.",Lower middle income,sec_enrol_gross,9,0.9
+FSM,"Micronesia, Fed. Sts.",Lower middle income,tert_enrol_gross,0,0.0
+FSM,"Micronesia, Fed. Sts.",Lower middle income,voice_account,9,0.9
+FSM,"Micronesia, Fed. Sts.",Lower middle income,work_age_share,10,1.0
+FSM,"Micronesia, Fed. Sts.",Lower middle income,youth_literacy,0,0.0
+MAR,Morocco,Lower middle income,adult_literacy,0,0.0
+MAR,Morocco,Lower middle income,ctrl_corrup,9,0.9
+MAR,Morocco,Lower middle income,edu_spend_gdp,9,0.9
+MAR,Morocco,Lower middle income,gdp_pc_ppp,10,1.0
+MAR,Morocco,Lower middle income,gini,0,0.0
+MAR,Morocco,Lower middle income,gov_effect,9,0.9
+MAR,Morocco,Lower middle income,gpi_sec,10,1.0
+MAR,Morocco,Lower middle income,gpi_tert,10,1.0
+MAR,Morocco,Lower middle income,inc_share_low20,0,0.0
+MAR,Morocco,Lower middle income,pop_total,10,1.0
+MAR,Morocco,Lower middle income,poverty_215,0,0.0
+MAR,Morocco,Lower middle income,sec_completion,10,1.0
+MAR,Morocco,Lower middle income,sec_enrol_gross,10,1.0
+MAR,Morocco,Lower middle income,tert_enrol_gross,10,1.0
+MAR,Morocco,Lower middle income,voice_account,9,0.9
+MAR,Morocco,Lower middle income,work_age_share,10,1.0
+MAR,Morocco,Lower middle income,youth_literacy,0,0.0
+MMR,Myanmar,Lower middle income,adult_literacy,4,0.4
+MMR,Myanmar,Lower middle income,ctrl_corrup,9,0.9
+MMR,Myanmar,Lower middle income,edu_spend_gdp,3,0.3
+MMR,Myanmar,Lower middle income,gdp_pc_ppp,10,1.0
+MMR,Myanmar,Lower middle income,gini,2,0.2
+MMR,Myanmar,Lower middle income,gov_effect,9,0.9
+MMR,Myanmar,Lower middle income,gpi_sec,3,0.3
+MMR,Myanmar,Lower middle income,gpi_tert,3,0.3
+MMR,Myanmar,Lower middle income,inc_share_low20,2,0.2
+MMR,Myanmar,Lower middle income,pop_total,10,1.0
+MMR,Myanmar,Lower middle income,poverty_215,2,0.2
+MMR,Myanmar,Lower middle income,sec_completion,3,0.3
+MMR,Myanmar,Lower middle income,sec_enrol_gross,3,0.3
+MMR,Myanmar,Lower middle income,tert_enrol_gross,1,0.1
+MMR,Myanmar,Lower middle income,voice_account,9,0.9
+MMR,Myanmar,Lower middle income,work_age_share,10,1.0
+MMR,Myanmar,Lower middle income,youth_literacy,4,0.4
+NAM,Namibia,Lower middle income,adult_literacy,3,0.3
+NAM,Namibia,Lower middle income,ctrl_corrup,9,0.9
+NAM,Namibia,Lower middle income,edu_spend_gdp,9,0.9
+NAM,Namibia,Lower middle income,gdp_pc_ppp,10,1.0
+NAM,Namibia,Lower middle income,gini,1,0.1
+NAM,Namibia,Lower middle income,gov_effect,9,0.9
+NAM,Namibia,Lower middle income,gpi_sec,4,0.4
+NAM,Namibia,Lower middle income,gpi_tert,10,1.0
+NAM,Namibia,Lower middle income,inc_share_low20,1,0.1
+NAM,Namibia,Lower middle income,pop_total,10,1.0
+NAM,Namibia,Lower middle income,poverty_215,1,0.1
+NAM,Namibia,Lower middle income,sec_completion,10,1.0
+NAM,Namibia,Lower middle income,sec_enrol_gross,10,1.0
+NAM,Namibia,Lower middle income,tert_enrol_gross,8,0.8
+NAM,Namibia,Lower middle income,voice_account,9,0.9
+NAM,Namibia,Lower middle income,work_age_share,10,1.0
+NAM,Namibia,Lower middle income,youth_literacy,3,0.3
+NPL,Nepal,Lower middle income,adult_literacy,3,0.3
+NPL,Nepal,Lower middle income,ctrl_corrup,9,0.9
+NPL,Nepal,Lower middle income,edu_spend_gdp,10,1.0
+NPL,Nepal,Lower middle income,gdp_pc_ppp,10,1.0
+NPL,Nepal,Lower middle income,gini,1,0.1
+NPL,Nepal,Lower middle income,gov_effect,9,0.9
+NPL,Nepal,Lower middle income,gpi_sec,9,0.9
+NPL,Nepal,Lower middle income,gpi_tert,10,1.0
+NPL,Nepal,Lower middle income,inc_share_low20,1,0.1
+NPL,Nepal,Lower middle income,pop_total,10,1.0
+NPL,Nepal,Lower middle income,poverty_215,1,0.1
+NPL,Nepal,Lower middle income,sec_completion,9,0.9
+NPL,Nepal,Lower middle income,sec_enrol_gross,9,0.9
+NPL,Nepal,Lower middle income,tert_enrol_gross,10,1.0
+NPL,Nepal,Lower middle income,voice_account,9,0.9
+NPL,Nepal,Lower middle income,work_age_share,10,1.0
+NPL,Nepal,Lower middle income,youth_literacy,3,0.3
+NIC,Nicaragua,Lower middle income,adult_literacy,0,0.0
+NIC,Nicaragua,Lower middle income,ctrl_corrup,9,0.9
+NIC,Nicaragua,Lower middle income,edu_spend_gdp,9,0.9
+NIC,Nicaragua,Lower middle income,gdp_pc_ppp,10,1.0
+NIC,Nicaragua,Lower middle income,gini,0,0.0
+NIC,Nicaragua,Lower middle income,gov_effect,9,0.9
+NIC,Nicaragua,Lower middle income,gpi_sec,1,0.1
+NIC,Nicaragua,Lower middle income,gpi_tert,1,0.1
+NIC,Nicaragua,Lower middle income,inc_share_low20,0,0.0
+NIC,Nicaragua,Lower middle income,pop_total,10,1.0
+NIC,Nicaragua,Lower middle income,poverty_215,0,0.0
+NIC,Nicaragua,Lower middle income,sec_completion,2,0.2
+NIC,Nicaragua,Lower middle income,sec_enrol_gross,1,0.1
+NIC,Nicaragua,Lower middle income,tert_enrol_gross,1,0.1
+NIC,Nicaragua,Lower middle income,voice_account,9,0.9
+NIC,Nicaragua,Lower middle income,work_age_share,10,1.0
+NIC,Nicaragua,Lower middle income,youth_literacy,0,0.0
+NGA,Nigeria,Lower middle income,adult_literacy,3,0.3
+NGA,Nigeria,Lower middle income,ctrl_corrup,9,0.9
+NGA,Nigeria,Lower middle income,edu_spend_gdp,9,0.9
+NGA,Nigeria,Lower middle income,gdp_pc_ppp,10,1.0
+NGA,Nigeria,Lower middle income,gini,3,0.3
+NGA,Nigeria,Lower middle income,gov_effect,9,0.9
+NGA,Nigeria,Lower middle income,gpi_sec,3,0.3
+NGA,Nigeria,Lower middle income,gpi_tert,6,0.6
+NGA,Nigeria,Lower middle income,inc_share_low20,3,0.3
+NGA,Nigeria,Lower middle income,pop_total,10,1.0
+NGA,Nigeria,Lower middle income,poverty_215,3,0.3
+NGA,Nigeria,Lower middle income,sec_completion,1,0.1
+NGA,Nigeria,Lower middle income,sec_enrol_gross,6,0.6
+NGA,Nigeria,Lower middle income,tert_enrol_gross,0,0.0
+NGA,Nigeria,Lower middle income,voice_account,9,0.9
+NGA,Nigeria,Lower middle income,work_age_share,10,1.0
+NGA,Nigeria,Lower middle income,youth_literacy,3,0.3
+PAK,Pakistan,Lower middle income,adult_literacy,4,0.4
+PAK,Pakistan,Lower middle income,ctrl_corrup,9,0.9
+PAK,Pakistan,Lower middle income,edu_spend_gdp,9,0.9
+PAK,Pakistan,Lower middle income,gdp_pc_ppp,10,1.0
+PAK,Pakistan,Lower middle income,gini,3,0.3
+PAK,Pakistan,Lower middle income,gov_effect,9,0.9
+PAK,Pakistan,Lower middle income,gpi_sec,9,0.9
+PAK,Pakistan,Lower middle income,gpi_tert,10,1.0
+PAK,Pakistan,Lower middle income,inc_share_low20,3,0.3
+PAK,Pakistan,Lower middle income,pop_total,10,1.0
+PAK,Pakistan,Lower middle income,poverty_215,3,0.3
+PAK,Pakistan,Lower middle income,sec_completion,9,0.9
+PAK,Pakistan,Lower middle income,sec_enrol_gross,9,0.9
+PAK,Pakistan,Lower middle income,tert_enrol_gross,10,1.0
+PAK,Pakistan,Lower middle income,voice_account,9,0.9
+PAK,Pakistan,Lower middle income,work_age_share,10,1.0
+PAK,Pakistan,Lower middle income,youth_literacy,4,0.4
+PNG,Papua New Guinea,Lower middle income,adult_literacy,2,0.2
+PNG,Papua New Guinea,Lower middle income,ctrl_corrup,9,0.9
+PNG,Papua New Guinea,Lower middle income,edu_spend_gdp,9,0.9
+PNG,Papua New Guinea,Lower middle income,gdp_pc_ppp,10,1.0
+PNG,Papua New Guinea,Lower middle income,gini,0,0.0
+PNG,Papua New Guinea,Lower middle income,gov_effect,9,0.9
+PNG,Papua New Guinea,Lower middle income,gpi_sec,5,0.5
+PNG,Papua New Guinea,Lower middle income,gpi_tert,5,0.5
+PNG,Papua New Guinea,Lower middle income,inc_share_low20,0,0.0
+PNG,Papua New Guinea,Lower middle income,pop_total,10,1.0
+PNG,Papua New Guinea,Lower middle income,poverty_215,0,0.0
+PNG,Papua New Guinea,Lower middle income,sec_completion,3,0.3
+PNG,Papua New Guinea,Lower middle income,sec_enrol_gross,5,0.5
+PNG,Papua New Guinea,Lower middle income,tert_enrol_gross,0,0.0
+PNG,Papua New Guinea,Lower middle income,voice_account,9,0.9
+PNG,Papua New Guinea,Lower middle income,work_age_share,10,1.0
+PNG,Papua New Guinea,Lower middle income,youth_literacy,2,0.2
+PHL,Philippines,Lower middle income,adult_literacy,3,0.3
+PHL,Philippines,Lower middle income,ctrl_corrup,9,0.9
+PHL,Philippines,Lower middle income,edu_spend_gdp,10,1.0
+PHL,Philippines,Lower middle income,gdp_pc_ppp,10,1.0
+PHL,Philippines,Lower middle income,gini,4,0.4
+PHL,Philippines,Lower middle income,gov_effect,9,0.9
+PHL,Philippines,Lower middle income,gpi_sec,10,1.0
+PHL,Philippines,Lower middle income,gpi_tert,10,1.0
+PHL,Philippines,Lower middle income,inc_share_low20,4,0.4
+PHL,Philippines,Lower middle income,pop_total,10,1.0
+PHL,Philippines,Lower middle income,poverty_215,4,0.4
+PHL,Philippines,Lower middle income,sec_completion,10,1.0
+PHL,Philippines,Lower middle income,sec_enrol_gross,10,1.0
+PHL,Philippines,Lower middle income,tert_enrol_gross,10,1.0
+PHL,Philippines,Lower middle income,voice_account,9,0.9
+PHL,Philippines,Lower middle income,work_age_share,10,1.0
+PHL,Philippines,Lower middle income,youth_literacy,5,0.5
+STP,Sao Tome and Principe,Lower middle income,adult_literacy,1,0.1
+STP,Sao Tome and Principe,Lower middle income,ctrl_corrup,9,0.9
+STP,Sao Tome and Principe,Lower middle income,edu_spend_gdp,9,0.9
+STP,Sao Tome and Principe,Lower middle income,gdp_pc_ppp,10,1.0
+STP,Sao Tome and Principe,Lower middle income,gini,1,0.1
+STP,Sao Tome and Principe,Lower middle income,gov_effect,9,0.9
+STP,Sao Tome and Principe,Lower middle income,gpi_sec,3,0.3
+STP,Sao Tome and Principe,Lower middle income,gpi_tert,3,0.3
+STP,Sao Tome and Principe,Lower middle income,inc_share_low20,1,0.1
+STP,Sao Tome and Principe,Lower middle income,pop_total,10,1.0
+STP,Sao Tome and Principe,Lower middle income,poverty_215,1,0.1
+STP,Sao Tome and Principe,Lower middle income,sec_completion,3,0.3
+STP,Sao Tome and Principe,Lower middle income,sec_enrol_gross,3,0.3
+STP,Sao Tome and Principe,Lower middle income,tert_enrol_gross,1,0.1
+STP,Sao Tome and Principe,Lower middle income,voice_account,9,0.9
+STP,Sao Tome and Principe,Lower middle income,work_age_share,10,1.0
+STP,Sao Tome and Principe,Lower middle income,youth_literacy,1,0.1
+SEN,Senegal,Lower middle income,adult_literacy,6,0.6
+SEN,Senegal,Lower middle income,ctrl_corrup,9,0.9
+SEN,Senegal,Lower middle income,edu_spend_gdp,9,0.9
+SEN,Senegal,Lower middle income,gdp_pc_ppp,10,1.0
+SEN,Senegal,Lower middle income,gini,2,0.2
+SEN,Senegal,Lower middle income,gov_effect,9,0.9
+SEN,Senegal,Lower middle income,gpi_sec,7,0.7
+SEN,Senegal,Lower middle income,gpi_tert,10,1.0
+SEN,Senegal,Lower middle income,inc_share_low20,2,0.2
+SEN,Senegal,Lower middle income,pop_total,10,1.0
+SEN,Senegal,Lower middle income,poverty_215,2,0.2
+SEN,Senegal,Lower middle income,sec_completion,7,0.7
+SEN,Senegal,Lower middle income,sec_enrol_gross,7,0.7
+SEN,Senegal,Lower middle income,tert_enrol_gross,10,1.0
+SEN,Senegal,Lower middle income,voice_account,9,0.9
+SEN,Senegal,Lower middle income,work_age_share,10,1.0
+SEN,Senegal,Lower middle income,youth_literacy,7,0.7
+SLB,Solomon Islands,Lower middle income,adult_literacy,0,0.0
+SLB,Solomon Islands,Lower middle income,ctrl_corrup,9,0.9
+SLB,Solomon Islands,Lower middle income,edu_spend_gdp,4,0.4
+SLB,Solomon Islands,Lower middle income,gdp_pc_ppp,10,1.0
+SLB,Solomon Islands,Lower middle income,gini,0,0.0
+SLB,Solomon Islands,Lower middle income,gov_effect,9,0.9
+SLB,Solomon Islands,Lower middle income,gpi_sec,4,0.4
+SLB,Solomon Islands,Lower middle income,gpi_tert,7,0.7
+SLB,Solomon Islands,Lower middle income,inc_share_low20,0,0.0
+SLB,Solomon Islands,Lower middle income,pop_total,10,1.0
+SLB,Solomon Islands,Lower middle income,poverty_215,0,0.0
+SLB,Solomon Islands,Lower middle income,sec_completion,6,0.6
+SLB,Solomon Islands,Lower middle income,sec_enrol_gross,5,0.5
+SLB,Solomon Islands,Lower middle income,tert_enrol_gross,0,0.0
+SLB,Solomon Islands,Lower middle income,voice_account,9,0.9
+SLB,Solomon Islands,Lower middle income,work_age_share,10,1.0
+SLB,Solomon Islands,Lower middle income,youth_literacy,0,0.0
+LKA,Sri Lanka,Lower middle income,adult_literacy,10,1.0
+LKA,Sri Lanka,Lower middle income,ctrl_corrup,9,0.9
+LKA,Sri Lanka,Lower middle income,edu_spend_gdp,8,0.8
+LKA,Sri Lanka,Lower middle income,gdp_pc_ppp,10,1.0
+LKA,Sri Lanka,Lower middle income,gini,2,0.2
+LKA,Sri Lanka,Lower middle income,gov_effect,9,0.9
+LKA,Sri Lanka,Lower middle income,gpi_sec,7,0.7
+LKA,Sri Lanka,Lower middle income,gpi_tert,9,0.9
+LKA,Sri Lanka,Lower middle income,inc_share_low20,2,0.2
+LKA,Sri Lanka,Lower middle income,pop_total,10,1.0
+LKA,Sri Lanka,Lower middle income,poverty_215,2,0.2
+LKA,Sri Lanka,Lower middle income,sec_completion,9,0.9
+LKA,Sri Lanka,Lower middle income,sec_enrol_gross,7,0.7
+LKA,Sri Lanka,Lower middle income,tert_enrol_gross,9,0.9
+LKA,Sri Lanka,Lower middle income,voice_account,9,0.9
+LKA,Sri Lanka,Lower middle income,work_age_share,10,1.0
+LKA,Sri Lanka,Lower middle income,youth_literacy,10,1.0
+TJK,Tajikistan,Lower middle income,adult_literacy,0,0.0
+TJK,Tajikistan,Lower middle income,ctrl_corrup,9,0.9
+TJK,Tajikistan,Lower middle income,edu_spend_gdp,9,0.9
+TJK,Tajikistan,Lower middle income,gdp_pc_ppp,10,1.0
+TJK,Tajikistan,Lower middle income,gini,5,0.5
+TJK,Tajikistan,Lower middle income,gov_effect,9,0.9
+TJK,Tajikistan,Lower middle income,gpi_sec,0,0.0
+TJK,Tajikistan,Lower middle income,gpi_tert,8,0.8
+TJK,Tajikistan,Lower middle income,inc_share_low20,5,0.5
+TJK,Tajikistan,Lower middle income,pop_total,10,1.0
+TJK,Tajikistan,Lower middle income,poverty_215,5,0.5
+TJK,Tajikistan,Lower middle income,sec_completion,3,0.3
+TJK,Tajikistan,Lower middle income,sec_enrol_gross,5,0.5
+TJK,Tajikistan,Lower middle income,tert_enrol_gross,8,0.8
+TJK,Tajikistan,Lower middle income,voice_account,9,0.9
+TJK,Tajikistan,Lower middle income,work_age_share,10,1.0
+TJK,Tajikistan,Lower middle income,youth_literacy,1,0.1
+TZA,Tanzania,Lower middle income,adult_literacy,3,0.3
+TZA,Tanzania,Lower middle income,ctrl_corrup,9,0.9
+TZA,Tanzania,Lower middle income,edu_spend_gdp,10,1.0
+TZA,Tanzania,Lower middle income,gdp_pc_ppp,10,1.0
+TZA,Tanzania,Lower middle income,gini,1,0.1
+TZA,Tanzania,Lower middle income,gov_effect,9,0.9
+TZA,Tanzania,Lower middle income,gpi_sec,10,1.0
+TZA,Tanzania,Lower middle income,gpi_tert,10,1.0
+TZA,Tanzania,Lower middle income,inc_share_low20,1,0.1
+TZA,Tanzania,Lower middle income,pop_total,10,1.0
+TZA,Tanzania,Lower middle income,poverty_215,1,0.1
+TZA,Tanzania,Lower middle income,sec_completion,8,0.8
+TZA,Tanzania,Lower middle income,sec_enrol_gross,10,1.0
+TZA,Tanzania,Lower middle income,tert_enrol_gross,10,1.0
+TZA,Tanzania,Lower middle income,voice_account,9,0.9
+TZA,Tanzania,Lower middle income,work_age_share,10,1.0
+TZA,Tanzania,Lower middle income,youth_literacy,3,0.3
+TLS,Timor-Leste,Lower middle income,adult_literacy,3,0.3
+TLS,Timor-Leste,Lower middle income,ctrl_corrup,9,0.9
+TLS,Timor-Leste,Lower middle income,edu_spend_gdp,8,0.8
+TLS,Timor-Leste,Lower middle income,gdp_pc_ppp,10,1.0
+TLS,Timor-Leste,Lower middle income,gini,0,0.0
+TLS,Timor-Leste,Lower middle income,gov_effect,9,0.9
+TLS,Timor-Leste,Lower middle income,gpi_sec,6,0.6
+TLS,Timor-Leste,Lower middle income,gpi_tert,7,0.7
+TLS,Timor-Leste,Lower middle income,inc_share_low20,0,0.0
+TLS,Timor-Leste,Lower middle income,pop_total,10,1.0
+TLS,Timor-Leste,Lower middle income,poverty_215,0,0.0
+TLS,Timor-Leste,Lower middle income,sec_completion,5,0.5
+TLS,Timor-Leste,Lower middle income,sec_enrol_gross,6,0.6
+TLS,Timor-Leste,Lower middle income,tert_enrol_gross,1,0.1
+TLS,Timor-Leste,Lower middle income,voice_account,9,0.9
+TLS,Timor-Leste,Lower middle income,work_age_share,10,1.0
+TLS,Timor-Leste,Lower middle income,youth_literacy,3,0.3
+TUN,Tunisia,Lower middle income,adult_literacy,4,0.4
+TUN,Tunisia,Lower middle income,ctrl_corrup,9,0.9
+TUN,Tunisia,Lower middle income,edu_spend_gdp,6,0.6
+TUN,Tunisia,Lower middle income,gdp_pc_ppp,10,1.0
+TUN,Tunisia,Lower middle income,gini,2,0.2
+TUN,Tunisia,Lower middle income,gov_effect,9,0.9
+TUN,Tunisia,Lower middle income,gpi_sec,1,0.1
+TUN,Tunisia,Lower middle income,gpi_tert,9,0.9
+TUN,Tunisia,Lower middle income,inc_share_low20,2,0.2
+TUN,Tunisia,Lower middle income,pop_total,10,1.0
+TUN,Tunisia,Lower middle income,poverty_215,2,0.2
+TUN,Tunisia,Lower middle income,sec_completion,8,0.8
+TUN,Tunisia,Lower middle income,sec_enrol_gross,2,0.2
+TUN,Tunisia,Lower middle income,tert_enrol_gross,9,0.9
+TUN,Tunisia,Lower middle income,voice_account,9,0.9
+TUN,Tunisia,Lower middle income,work_age_share,10,1.0
+TUN,Tunisia,Lower middle income,youth_literacy,4,0.4
+UZB,Uzbekistan,Lower middle income,adult_literacy,6,0.6
+UZB,Uzbekistan,Lower middle income,ctrl_corrup,9,0.9
+UZB,Uzbekistan,Lower middle income,edu_spend_gdp,9,0.9
+UZB,Uzbekistan,Lower middle income,gdp_pc_ppp,10,1.0
+UZB,Uzbekistan,Lower middle income,gini,4,0.4
+UZB,Uzbekistan,Lower middle income,gov_effect,9,0.9
+UZB,Uzbekistan,Lower middle income,gpi_sec,10,1.0
+UZB,Uzbekistan,Lower middle income,gpi_tert,10,1.0
+UZB,Uzbekistan,Lower middle income,inc_share_low20,4,0.4
+UZB,Uzbekistan,Lower middle income,pop_total,10,1.0
+UZB,Uzbekistan,Lower middle income,poverty_215,4,0.4
+UZB,Uzbekistan,Lower middle income,sec_completion,10,1.0
+UZB,Uzbekistan,Lower middle income,sec_enrol_gross,10,1.0
+UZB,Uzbekistan,Lower middle income,tert_enrol_gross,10,1.0
+UZB,Uzbekistan,Lower middle income,voice_account,9,0.9
+UZB,Uzbekistan,Lower middle income,work_age_share,10,1.0
+UZB,Uzbekistan,Lower middle income,youth_literacy,6,0.6
+VUT,Vanuatu,Lower middle income,adult_literacy,3,0.3
+VUT,Vanuatu,Lower middle income,ctrl_corrup,9,0.9
+VUT,Vanuatu,Lower middle income,edu_spend_gdp,10,1.0
+VUT,Vanuatu,Lower middle income,gdp_pc_ppp,10,1.0
+VUT,Vanuatu,Lower middle income,gini,1,0.1
+VUT,Vanuatu,Lower middle income,gov_effect,9,0.9
+VUT,Vanuatu,Lower middle income,gpi_sec,5,0.5
+VUT,Vanuatu,Lower middle income,gpi_tert,5,0.5
+VUT,Vanuatu,Lower middle income,inc_share_low20,1,0.1
+VUT,Vanuatu,Lower middle income,pop_total,10,1.0
+VUT,Vanuatu,Lower middle income,poverty_215,1,0.1
+VUT,Vanuatu,Lower middle income,sec_completion,6,0.6
+VUT,Vanuatu,Lower middle income,sec_enrol_gross,6,0.6
+VUT,Vanuatu,Lower middle income,tert_enrol_gross,0,0.0
+VUT,Vanuatu,Lower middle income,voice_account,9,0.9
+VUT,Vanuatu,Lower middle income,work_age_share,10,1.0
+VUT,Vanuatu,Lower middle income,youth_literacy,3,0.3
+VNM,Viet Nam,Lower middle income,adult_literacy,2,0.2
+VNM,Viet Nam,Lower middle income,ctrl_corrup,9,0.9
+VNM,Viet Nam,Lower middle income,edu_spend_gdp,8,0.8
+VNM,Viet Nam,Lower middle income,gdp_pc_ppp,10,1.0
+VNM,Viet Nam,Lower middle income,gini,4,0.4
+VNM,Viet Nam,Lower middle income,gov_effect,9,0.9
+VNM,Viet Nam,Lower middle income,gpi_sec,9,0.9
+VNM,Viet Nam,Lower middle income,gpi_tert,10,1.0
+VNM,Viet Nam,Lower middle income,inc_share_low20,4,0.4
+VNM,Viet Nam,Lower middle income,pop_total,10,1.0
+VNM,Viet Nam,Lower middle income,poverty_215,4,0.4
+VNM,Viet Nam,Lower middle income,sec_completion,10,1.0
+VNM,Viet Nam,Lower middle income,sec_enrol_gross,10,1.0
+VNM,Viet Nam,Lower middle income,tert_enrol_gross,8,0.8
+VNM,Viet Nam,Lower middle income,voice_account,9,0.9
+VNM,Viet Nam,Lower middle income,work_age_share,10,1.0
+VNM,Viet Nam,Lower middle income,youth_literacy,3,0.3
+PSE,West Bank and Gaza,Lower middle income,adult_literacy,9,0.9
+PSE,West Bank and Gaza,Lower middle income,ctrl_corrup,0,0.0
+PSE,West Bank and Gaza,Lower middle income,edu_spend_gdp,4,0.4
+PSE,West Bank and Gaza,Lower middle income,gdp_pc_ppp,10,1.0
+PSE,West Bank and Gaza,Lower middle income,gini,2,0.2
+PSE,West Bank and Gaza,Lower middle income,gov_effect,0,0.0
+PSE,West Bank and Gaza,Lower middle income,gpi_sec,9,0.9
+PSE,West Bank and Gaza,Lower middle income,gpi_tert,9,0.9
+PSE,West Bank and Gaza,Lower middle income,inc_share_low20,2,0.2
+PSE,West Bank and Gaza,Lower middle income,pop_total,10,1.0
+PSE,West Bank and Gaza,Lower middle income,poverty_215,2,0.2
+PSE,West Bank and Gaza,Lower middle income,sec_completion,9,0.9
+PSE,West Bank and Gaza,Lower middle income,sec_enrol_gross,9,0.9
+PSE,West Bank and Gaza,Lower middle income,tert_enrol_gross,9,0.9
+PSE,West Bank and Gaza,Lower middle income,voice_account,0,0.0
+PSE,West Bank and Gaza,Lower middle income,work_age_share,10,1.0
+PSE,West Bank and Gaza,Lower middle income,youth_literacy,9,0.9
+ZMB,Zambia,Lower middle income,adult_literacy,5,0.5
+ZMB,Zambia,Lower middle income,ctrl_corrup,9,0.9
+ZMB,Zambia,Lower middle income,edu_spend_gdp,9,0.9
+ZMB,Zambia,Lower middle income,gdp_pc_ppp,10,1.0
+ZMB,Zambia,Lower middle income,gini,2,0.2
+ZMB,Zambia,Lower middle income,gov_effect,9,0.9
+ZMB,Zambia,Lower middle income,gpi_sec,2,0.2
+ZMB,Zambia,Lower middle income,gpi_tert,4,0.4
+ZMB,Zambia,Lower middle income,inc_share_low20,2,0.2
+ZMB,Zambia,Lower middle income,pop_total,10,1.0
+ZMB,Zambia,Lower middle income,poverty_215,2,0.2
+ZMB,Zambia,Lower middle income,sec_completion,1,0.1
+ZMB,Zambia,Lower middle income,sec_enrol_gross,2,0.2
+ZMB,Zambia,Lower middle income,tert_enrol_gross,0,0.0
+ZMB,Zambia,Lower middle income,voice_account,9,0.9
+ZMB,Zambia,Lower middle income,work_age_share,10,1.0
+ZMB,Zambia,Lower middle income,youth_literacy,6,0.6
+ZWE,Zimbabwe,Lower middle income,adult_literacy,1,0.1
+ZWE,Zimbabwe,Lower middle income,ctrl_corrup,9,0.9
+ZWE,Zimbabwe,Lower middle income,edu_spend_gdp,1,0.1
+ZWE,Zimbabwe,Lower middle income,gdp_pc_ppp,10,1.0
+ZWE,Zimbabwe,Lower middle income,gini,2,0.2
+ZWE,Zimbabwe,Lower middle income,gov_effect,9,0.9
+ZWE,Zimbabwe,Lower middle income,gpi_sec,10,1.0
+ZWE,Zimbabwe,Lower middle income,gpi_tert,2,0.2
+ZWE,Zimbabwe,Lower middle income,inc_share_low20,2,0.2
+ZWE,Zimbabwe,Lower middle income,pop_total,10,1.0
+ZWE,Zimbabwe,Lower middle income,poverty_215,2,0.2
+ZWE,Zimbabwe,Lower middle income,sec_completion,10,1.0
+ZWE,Zimbabwe,Lower middle income,sec_enrol_gross,10,1.0
+ZWE,Zimbabwe,Lower middle income,tert_enrol_gross,2,0.2
+ZWE,Zimbabwe,Lower middle income,voice_account,9,0.9
+ZWE,Zimbabwe,Lower middle income,work_age_share,10,1.0
+ZWE,Zimbabwe,Lower middle income,youth_literacy,1,0.1
+AFG,Afghanistan,Low income,adult_literacy,3,0.3
+AFG,Afghanistan,Low income,ctrl_corrup,9,0.9
+AFG,Afghanistan,Low income,edu_spend_gdp,3,0.3
+AFG,Afghanistan,Low income,gdp_pc_ppp,9,0.9
+AFG,Afghanistan,Low income,gini,0,0.0
+AFG,Afghanistan,Low income,gov_effect,9,0.9
+AFG,Afghanistan,Low income,gpi_sec,4,0.4
+AFG,Afghanistan,Low income,gpi_tert,7,0.7
+AFG,Afghanistan,Low income,inc_share_low20,0,0.0
+AFG,Afghanistan,Low income,pop_total,10,1.0
+AFG,Afghanistan,Low income,poverty_215,0,0.0
+AFG,Afghanistan,Low income,sec_completion,5,0.5
+AFG,Afghanistan,Low income,sec_enrol_gross,5,0.5
+AFG,Afghanistan,Low income,tert_enrol_gross,2,0.2
+AFG,Afghanistan,Low income,voice_account,9,0.9
+AFG,Afghanistan,Low income,work_age_share,10,1.0
+AFG,Afghanistan,Low income,youth_literacy,4,0.4
+BFA,Burkina Faso,Low income,adult_literacy,5,0.5
+BFA,Burkina Faso,Low income,ctrl_corrup,9,0.9
+BFA,Burkina Faso,Low income,edu_spend_gdp,8,0.8
+BFA,Burkina Faso,Low income,gdp_pc_ppp,10,1.0
+BFA,Burkina Faso,Low income,gini,2,0.2
+BFA,Burkina Faso,Low income,gov_effect,9,0.9
+BFA,Burkina Faso,Low income,gpi_sec,10,1.0
+BFA,Burkina Faso,Low income,gpi_tert,10,1.0
+BFA,Burkina Faso,Low income,inc_share_low20,2,0.2
+BFA,Burkina Faso,Low income,pop_total,10,1.0
+BFA,Burkina Faso,Low income,poverty_215,2,0.2
+BFA,Burkina Faso,Low income,sec_completion,10,1.0
+BFA,Burkina Faso,Low income,sec_enrol_gross,10,1.0
+BFA,Burkina Faso,Low income,tert_enrol_gross,10,1.0
+BFA,Burkina Faso,Low income,voice_account,9,0.9
+BFA,Burkina Faso,Low income,work_age_share,10,1.0
+BFA,Burkina Faso,Low income,youth_literacy,4,0.4
+BDI,Burundi,Low income,adult_literacy,3,0.3
+BDI,Burundi,Low income,ctrl_corrup,9,0.9
+BDI,Burundi,Low income,edu_spend_gdp,7,0.7
+BDI,Burundi,Low income,gdp_pc_ppp,10,1.0
+BDI,Burundi,Low income,gini,1,0.1
+BDI,Burundi,Low income,gov_effect,9,0.9
+BDI,Burundi,Low income,gpi_sec,6,0.6
+BDI,Burundi,Low income,gpi_tert,7,0.7
+BDI,Burundi,Low income,inc_share_low20,1,0.1
+BDI,Burundi,Low income,pop_total,10,1.0
+BDI,Burundi,Low income,poverty_215,1,0.1
+BDI,Burundi,Low income,sec_completion,6,0.6
+BDI,Burundi,Low income,sec_enrol_gross,6,0.6
+BDI,Burundi,Low income,tert_enrol_gross,5,0.5
+BDI,Burundi,Low income,voice_account,9,0.9
+BDI,Burundi,Low income,work_age_share,10,1.0
+BDI,Burundi,Low income,youth_literacy,3,0.3
+CAF,Central African Republic,Low income,adult_literacy,1,0.1
+CAF,Central African Republic,Low income,ctrl_corrup,9,0.9
+CAF,Central African Republic,Low income,edu_spend_gdp,9,0.9
+CAF,Central African Republic,Low income,gdp_pc_ppp,10,1.0
+CAF,Central African Republic,Low income,gini,1,0.1
+CAF,Central African Republic,Low income,gov_effect,9,0.9
+CAF,Central African Republic,Low income,gpi_sec,2,0.2
+CAF,Central African Republic,Low income,gpi_tert,2,0.2
+CAF,Central African Republic,Low income,inc_share_low20,1,0.1
+CAF,Central African Republic,Low income,pop_total,10,1.0
+CAF,Central African Republic,Low income,poverty_215,1,0.1
+CAF,Central African Republic,Low income,sec_completion,1,0.1
+CAF,Central African Republic,Low income,sec_enrol_gross,2,0.2
+CAF,Central African Republic,Low income,tert_enrol_gross,0,0.0
+CAF,Central African Republic,Low income,voice_account,9,0.9
+CAF,Central African Republic,Low income,work_age_share,10,1.0
+CAF,Central African Republic,Low income,youth_literacy,1,0.1
+TCD,Chad,Low income,adult_literacy,2,0.2
+TCD,Chad,Low income,ctrl_corrup,9,0.9
+TCD,Chad,Low income,edu_spend_gdp,9,0.9
+TCD,Chad,Low income,gdp_pc_ppp,10,1.0
+TCD,Chad,Low income,gini,2,0.2
+TCD,Chad,Low income,gov_effect,9,0.9
+TCD,Chad,Low income,gpi_sec,8,0.8
+TCD,Chad,Low income,gpi_tert,9,0.9
+TCD,Chad,Low income,inc_share_low20,2,0.2
+TCD,Chad,Low income,pop_total,10,1.0
+TCD,Chad,Low income,poverty_215,2,0.2
+TCD,Chad,Low income,sec_completion,8,0.8
+TCD,Chad,Low income,sec_enrol_gross,8,0.8
+TCD,Chad,Low income,tert_enrol_gross,2,0.2
+TCD,Chad,Low income,voice_account,9,0.9
+TCD,Chad,Low income,work_age_share,10,1.0
+TCD,Chad,Low income,youth_literacy,2,0.2
+COD,"Congo, Dem. Rep.",Low income,adult_literacy,4,0.4
+COD,"Congo, Dem. Rep.",Low income,ctrl_corrup,9,0.9
+COD,"Congo, Dem. Rep.",Low income,edu_spend_gdp,6,0.6
+COD,"Congo, Dem. Rep.",Low income,gdp_pc_ppp,10,1.0
+COD,"Congo, Dem. Rep.",Low income,gini,1,0.1
+COD,"Congo, Dem. Rep.",Low income,gov_effect,9,0.9
+COD,"Congo, Dem. Rep.",Low income,gpi_sec,1,0.1
+COD,"Congo, Dem. Rep.",Low income,gpi_tert,4,0.4
+COD,"Congo, Dem. Rep.",Low income,inc_share_low20,1,0.1
+COD,"Congo, Dem. Rep.",Low income,pop_total,10,1.0
+COD,"Congo, Dem. Rep.",Low income,poverty_215,1,0.1
+COD,"Congo, Dem. Rep.",Low income,sec_completion,3,0.3
+COD,"Congo, Dem. Rep.",Low income,sec_enrol_gross,3,0.3
+COD,"Congo, Dem. Rep.",Low income,tert_enrol_gross,2,0.2
+COD,"Congo, Dem. Rep.",Low income,voice_account,9,0.9
+COD,"Congo, Dem. Rep.",Low income,work_age_share,10,1.0
+COD,"Congo, Dem. Rep.",Low income,youth_literacy,3,0.3
+ERI,Eritrea,Low income,adult_literacy,0,0.0
+ERI,Eritrea,Low income,ctrl_corrup,9,0.9
+ERI,Eritrea,Low income,edu_spend_gdp,0,0.0
+ERI,Eritrea,Low income,gdp_pc_ppp,0,0.0
+ERI,Eritrea,Low income,gini,0,0.0
+ERI,Eritrea,Low income,gov_effect,9,0.9
+ERI,Eritrea,Low income,gpi_sec,5,0.5
+ERI,Eritrea,Low income,gpi_tert,5,0.5
+ERI,Eritrea,Low income,inc_share_low20,0,0.0
+ERI,Eritrea,Low income,pop_total,10,1.0
+ERI,Eritrea,Low income,poverty_215,0,0.0
+ERI,Eritrea,Low income,sec_completion,4,0.4
+ERI,Eritrea,Low income,sec_enrol_gross,4,0.4
+ERI,Eritrea,Low income,tert_enrol_gross,2,0.2
+ERI,Eritrea,Low income,voice_account,9,0.9
+ERI,Eritrea,Low income,work_age_share,10,1.0
+ERI,Eritrea,Low income,youth_literacy,0,0.0
+GMB,"Gambia, The",Low income,adult_literacy,3,0.3
+GMB,"Gambia, The",Low income,ctrl_corrup,9,0.9
+GMB,"Gambia, The",Low income,edu_spend_gdp,9,0.9
+GMB,"Gambia, The",Low income,gdp_pc_ppp,10,1.0
+GMB,"Gambia, The",Low income,gini,2,0.2
+GMB,"Gambia, The",Low income,gov_effect,9,0.9
+GMB,"Gambia, The",Low income,gpi_sec,10,1.0
+GMB,"Gambia, The",Low income,gpi_tert,10,1.0
+GMB,"Gambia, The",Low income,inc_share_low20,2,0.2
+GMB,"Gambia, The",Low income,pop_total,10,1.0
+GMB,"Gambia, The",Low income,poverty_215,2,0.2
+GMB,"Gambia, The",Low income,sec_completion,9,0.9
+GMB,"Gambia, The",Low income,sec_enrol_gross,10,1.0
+GMB,"Gambia, The",Low income,tert_enrol_gross,1,0.1
+GMB,"Gambia, The",Low income,voice_account,9,0.9
+GMB,"Gambia, The",Low income,work_age_share,10,1.0
+GMB,"Gambia, The",Low income,youth_literacy,3,0.3
+GNB,Guinea-Bissau,Low income,adult_literacy,2,0.2
+GNB,Guinea-Bissau,Low income,ctrl_corrup,9,0.9
+GNB,Guinea-Bissau,Low income,edu_spend_gdp,0,0.0
+GNB,Guinea-Bissau,Low income,gdp_pc_ppp,10,1.0
+GNB,Guinea-Bissau,Low income,gini,2,0.2
+GNB,Guinea-Bissau,Low income,gov_effect,9,0.9
+GNB,Guinea-Bissau,Low income,gpi_sec,0,0.0
+GNB,Guinea-Bissau,Low income,gpi_tert,0,0.0
+GNB,Guinea-Bissau,Low income,inc_share_low20,2,0.2
+GNB,Guinea-Bissau,Low income,pop_total,10,1.0
+GNB,Guinea-Bissau,Low income,poverty_215,2,0.2
+GNB,Guinea-Bissau,Low income,sec_completion,0,0.0
+GNB,Guinea-Bissau,Low income,sec_enrol_gross,0,0.0
+GNB,Guinea-Bissau,Low income,tert_enrol_gross,0,0.0
+GNB,Guinea-Bissau,Low income,voice_account,9,0.9
+GNB,Guinea-Bissau,Low income,work_age_share,10,1.0
+GNB,Guinea-Bissau,Low income,youth_literacy,2,0.2
+PRK,"Korea, Dem. People's Rep.",Low income,adult_literacy,0,0.0
+PRK,"Korea, Dem. People's Rep.",Low income,ctrl_corrup,9,0.9
+PRK,"Korea, Dem. People's Rep.",Low income,edu_spend_gdp,0,0.0
+PRK,"Korea, Dem. People's Rep.",Low income,gdp_pc_ppp,0,0.0
+PRK,"Korea, Dem. People's Rep.",Low income,gini,0,0.0
+PRK,"Korea, Dem. People's Rep.",Low income,gov_effect,9,0.9
+PRK,"Korea, Dem. People's Rep.",Low income,gpi_sec,1,0.1
+PRK,"Korea, Dem. People's Rep.",Low income,gpi_tert,2,0.2
+PRK,"Korea, Dem. People's Rep.",Low income,inc_share_low20,0,0.0
+PRK,"Korea, Dem. People's Rep.",Low income,pop_total,10,1.0
+PRK,"Korea, Dem. People's Rep.",Low income,poverty_215,0,0.0
+PRK,"Korea, Dem. People's Rep.",Low income,sec_completion,0,0.0
+PRK,"Korea, Dem. People's Rep.",Low income,sec_enrol_gross,1,0.1
+PRK,"Korea, Dem. People's Rep.",Low income,tert_enrol_gross,2,0.2
+PRK,"Korea, Dem. People's Rep.",Low income,voice_account,9,0.9
+PRK,"Korea, Dem. People's Rep.",Low income,work_age_share,10,1.0
+PRK,"Korea, Dem. People's Rep.",Low income,youth_literacy,0,0.0
+LBR,Liberia,Low income,adult_literacy,0,0.0
+LBR,Liberia,Low income,ctrl_corrup,9,0.9
+LBR,Liberia,Low income,edu_spend_gdp,9,0.9
+LBR,Liberia,Low income,gdp_pc_ppp,10,1.0
+LBR,Liberia,Low income,gini,1,0.1
+LBR,Liberia,Low income,gov_effect,9,0.9
+LBR,Liberia,Low income,gpi_sec,6,0.6
+LBR,Liberia,Low income,gpi_tert,5,0.5
+LBR,Liberia,Low income,inc_share_low20,1,0.1
+LBR,Liberia,Low income,pop_total,10,1.0
+LBR,Liberia,Low income,poverty_215,1,0.1
+LBR,Liberia,Low income,sec_completion,6,0.6
+LBR,Liberia,Low income,sec_enrol_gross,6,0.6
+LBR,Liberia,Low income,tert_enrol_gross,0,0.0
+LBR,Liberia,Low income,voice_account,9,0.9
+LBR,Liberia,Low income,work_age_share,10,1.0
+LBR,Liberia,Low income,youth_literacy,0,0.0
+MDG,Madagascar,Low income,adult_literacy,2,0.2
+MDG,Madagascar,Low income,ctrl_corrup,9,0.9
+MDG,Madagascar,Low income,edu_spend_gdp,9,0.9
+MDG,Madagascar,Low income,gdp_pc_ppp,10,1.0
+MDG,Madagascar,Low income,gini,1,0.1
+MDG,Madagascar,Low income,gov_effect,9,0.9
+MDG,Madagascar,Low income,gpi_sec,10,1.0
+MDG,Madagascar,Low income,gpi_tert,9,0.9
+MDG,Madagascar,Low income,inc_share_low20,1,0.1
+MDG,Madagascar,Low income,pop_total,10,1.0
+MDG,Madagascar,Low income,poverty_215,1,0.1
+MDG,Madagascar,Low income,sec_completion,10,1.0
+MDG,Madagascar,Low income,sec_enrol_gross,10,1.0
+MDG,Madagascar,Low income,tert_enrol_gross,9,0.9
+MDG,Madagascar,Low income,voice_account,9,0.9
+MDG,Madagascar,Low income,work_age_share,10,1.0
+MDG,Madagascar,Low income,youth_literacy,2,0.2
+MWI,Malawi,Low income,adult_literacy,3,0.3
+MWI,Malawi,Low income,ctrl_corrup,9,0.9
+MWI,Malawi,Low income,edu_spend_gdp,5,0.5
+MWI,Malawi,Low income,gdp_pc_ppp,10,1.0
+MWI,Malawi,Low income,gini,2,0.2
+MWI,Malawi,Low income,gov_effect,9,0.9
+MWI,Malawi,Low income,gpi_sec,10,1.0
+MWI,Malawi,Low income,gpi_tert,9,0.9
+MWI,Malawi,Low income,inc_share_low20,2,0.2
+MWI,Malawi,Low income,pop_total,10,1.0
+MWI,Malawi,Low income,poverty_215,2,0.2
+MWI,Malawi,Low income,sec_completion,7,0.7
+MWI,Malawi,Low income,sec_enrol_gross,10,1.0
+MWI,Malawi,Low income,tert_enrol_gross,5,0.5
+MWI,Malawi,Low income,voice_account,9,0.9
+MWI,Malawi,Low income,work_age_share,10,1.0
+MWI,Malawi,Low income,youth_literacy,3,0.3
+MLI,Mali,Low income,adult_literacy,3,0.3
+MLI,Mali,Low income,ctrl_corrup,9,0.9
+MLI,Mali,Low income,edu_spend_gdp,9,0.9
+MLI,Mali,Low income,gdp_pc_ppp,10,1.0
+MLI,Mali,Low income,gini,2,0.2
+MLI,Mali,Low income,gov_effect,9,0.9
+MLI,Mali,Low income,gpi_sec,5,0.5
+MLI,Mali,Low income,gpi_tert,5,0.5
+MLI,Mali,Low income,inc_share_low20,2,0.2
+MLI,Mali,Low income,pop_total,10,1.0
+MLI,Mali,Low income,poverty_215,2,0.2
+MLI,Mali,Low income,sec_completion,4,0.4
+MLI,Mali,Low income,sec_enrol_gross,5,0.5
+MLI,Mali,Low income,tert_enrol_gross,1,0.1
+MLI,Mali,Low income,voice_account,9,0.9
+MLI,Mali,Low income,work_age_share,10,1.0
+MLI,Mali,Low income,youth_literacy,4,0.4
+MOZ,Mozambique,Low income,adult_literacy,4,0.4
+MOZ,Mozambique,Low income,ctrl_corrup,9,0.9
+MOZ,Mozambique,Low income,edu_spend_gdp,8,0.8
+MOZ,Mozambique,Low income,gdp_pc_ppp,10,1.0
+MOZ,Mozambique,Low income,gini,2,0.2
+MOZ,Mozambique,Low income,gov_effect,9,0.9
+MOZ,Mozambique,Low income,gpi_sec,7,0.7
+MOZ,Mozambique,Low income,gpi_tert,4,0.4
+MOZ,Mozambique,Low income,inc_share_low20,2,0.2
+MOZ,Mozambique,Low income,pop_total,10,1.0
+MOZ,Mozambique,Low income,poverty_215,2,0.2
+MOZ,Mozambique,Low income,sec_completion,7,0.7
+MOZ,Mozambique,Low income,sec_enrol_gross,7,0.7
+MOZ,Mozambique,Low income,tert_enrol_gross,4,0.4
+MOZ,Mozambique,Low income,voice_account,9,0.9
+MOZ,Mozambique,Low income,work_age_share,10,1.0
+MOZ,Mozambique,Low income,youth_literacy,4,0.4
+NER,Niger,Low income,adult_literacy,2,0.2
+NER,Niger,Low income,ctrl_corrup,9,0.9
+NER,Niger,Low income,edu_spend_gdp,9,0.9
+NER,Niger,Low income,gdp_pc_ppp,10,1.0
+NER,Niger,Low income,gini,2,0.2
+NER,Niger,Low income,gov_effect,9,0.9
+NER,Niger,Low income,gpi_sec,8,0.8
+NER,Niger,Low income,gpi_tert,7,0.7
+NER,Niger,Low income,inc_share_low20,2,0.2
+NER,Niger,Low income,pop_total,10,1.0
+NER,Niger,Low income,poverty_215,2,0.2
+NER,Niger,Low income,sec_completion,9,0.9
+NER,Niger,Low income,sec_enrol_gross,8,0.8
+NER,Niger,Low income,tert_enrol_gross,5,0.5
+NER,Niger,Low income,voice_account,9,0.9
+NER,Niger,Low income,work_age_share,10,1.0
+NER,Niger,Low income,youth_literacy,2,0.2
+RWA,Rwanda,Low income,adult_literacy,3,0.3
+RWA,Rwanda,Low income,ctrl_corrup,9,0.9
+RWA,Rwanda,Low income,edu_spend_gdp,10,1.0
+RWA,Rwanda,Low income,gdp_pc_ppp,10,1.0
+RWA,Rwanda,Low income,gini,2,0.2
+RWA,Rwanda,Low income,gov_effect,9,0.9
+RWA,Rwanda,Low income,gpi_sec,9,0.9
+RWA,Rwanda,Low income,gpi_tert,10,1.0
+RWA,Rwanda,Low income,inc_share_low20,2,0.2
+RWA,Rwanda,Low income,pop_total,10,1.0
+RWA,Rwanda,Low income,poverty_215,2,0.2
+RWA,Rwanda,Low income,sec_completion,9,0.9
+RWA,Rwanda,Low income,sec_enrol_gross,9,0.9
+RWA,Rwanda,Low income,tert_enrol_gross,9,0.9
+RWA,Rwanda,Low income,voice_account,9,0.9
+RWA,Rwanda,Low income,work_age_share,10,1.0
+RWA,Rwanda,Low income,youth_literacy,4,0.4
+SLE,Sierra Leone,Low income,adult_literacy,4,0.4
+SLE,Sierra Leone,Low income,ctrl_corrup,9,0.9
+SLE,Sierra Leone,Low income,edu_spend_gdp,9,0.9
+SLE,Sierra Leone,Low income,gdp_pc_ppp,10,1.0
+SLE,Sierra Leone,Low income,gini,1,0.1
+SLE,Sierra Leone,Low income,gov_effect,9,0.9
+SLE,Sierra Leone,Low income,gpi_sec,9,0.9
+SLE,Sierra Leone,Low income,gpi_tert,10,1.0
+SLE,Sierra Leone,Low income,inc_share_low20,1,0.1
+SLE,Sierra Leone,Low income,pop_total,10,1.0
+SLE,Sierra Leone,Low income,poverty_215,1,0.1
+SLE,Sierra Leone,Low income,sec_completion,9,0.9
+SLE,Sierra Leone,Low income,sec_enrol_gross,10,1.0
+SLE,Sierra Leone,Low income,tert_enrol_gross,0,0.0
+SLE,Sierra Leone,Low income,voice_account,9,0.9
+SLE,Sierra Leone,Low income,work_age_share,10,1.0
+SLE,Sierra Leone,Low income,youth_literacy,4,0.4
+SOM,"Somalia, Fed. Rep.",Low income,adult_literacy,2,0.2
+SOM,"Somalia, Fed. Rep.",Low income,ctrl_corrup,9,0.9
+SOM,"Somalia, Fed. Rep.",Low income,edu_spend_gdp,6,0.6
+SOM,"Somalia, Fed. Rep.",Low income,gdp_pc_ppp,10,1.0
+SOM,"Somalia, Fed. Rep.",Low income,gini,0,0.0
+SOM,"Somalia, Fed. Rep.",Low income,gov_effect,9,0.9
+SOM,"Somalia, Fed. Rep.",Low income,gpi_sec,0,0.0
+SOM,"Somalia, Fed. Rep.",Low income,gpi_tert,0,0.0
+SOM,"Somalia, Fed. Rep.",Low income,inc_share_low20,0,0.0
+SOM,"Somalia, Fed. Rep.",Low income,pop_total,10,1.0
+SOM,"Somalia, Fed. Rep.",Low income,poverty_215,0,0.0
+SOM,"Somalia, Fed. Rep.",Low income,sec_completion,0,0.0
+SOM,"Somalia, Fed. Rep.",Low income,sec_enrol_gross,1,0.1
+SOM,"Somalia, Fed. Rep.",Low income,tert_enrol_gross,0,0.0
+SOM,"Somalia, Fed. Rep.",Low income,voice_account,9,0.9
+SOM,"Somalia, Fed. Rep.",Low income,work_age_share,10,1.0
+SOM,"Somalia, Fed. Rep.",Low income,youth_literacy,2,0.2
+SSD,South Sudan,Low income,adult_literacy,0,0.0
+SSD,South Sudan,Low income,ctrl_corrup,9,0.9
+SSD,South Sudan,Low income,edu_spend_gdp,2,0.2
+SSD,South Sudan,Low income,gdp_pc_ppp,0,0.0
+SSD,South Sudan,Low income,gini,1,0.1
+SSD,South Sudan,Low income,gov_effect,9,0.9
+SSD,South Sudan,Low income,gpi_sec,1,0.1
+SSD,South Sudan,Low income,gpi_tert,2,0.2
+SSD,South Sudan,Low income,inc_share_low20,1,0.1
+SSD,South Sudan,Low income,pop_total,10,1.0
+SSD,South Sudan,Low income,poverty_215,1,0.1
+SSD,South Sudan,Low income,sec_completion,0,0.0
+SSD,South Sudan,Low income,sec_enrol_gross,2,0.2
+SSD,South Sudan,Low income,tert_enrol_gross,0,0.0
+SSD,South Sudan,Low income,voice_account,9,0.9
+SSD,South Sudan,Low income,work_age_share,10,1.0
+SSD,South Sudan,Low income,youth_literacy,0,0.0
+SDN,Sudan,Low income,adult_literacy,0,0.0
+SDN,Sudan,Low income,ctrl_corrup,9,0.9
+SDN,Sudan,Low income,edu_spend_gdp,0,0.0
+SDN,Sudan,Low income,gdp_pc_ppp,10,1.0
+SDN,Sudan,Low income,gini,0,0.0
+SDN,Sudan,Low income,gov_effect,9,0.9
+SDN,Sudan,Low income,gpi_sec,5,0.5
+SDN,Sudan,Low income,gpi_tert,5,0.5
+SDN,Sudan,Low income,inc_share_low20,0,0.0
+SDN,Sudan,Low income,pop_total,10,1.0
+SDN,Sudan,Low income,poverty_215,0,0.0
+SDN,Sudan,Low income,sec_completion,4,0.4
+SDN,Sudan,Low income,sec_enrol_gross,5,0.5
+SDN,Sudan,Low income,tert_enrol_gross,1,0.1
+SDN,Sudan,Low income,voice_account,9,0.9
+SDN,Sudan,Low income,work_age_share,10,1.0
+SDN,Sudan,Low income,youth_literacy,0,0.0
+SYR,Syrian Arab Republic,Low income,adult_literacy,1,0.1
+SYR,Syrian Arab Republic,Low income,ctrl_corrup,9,0.9
+SYR,Syrian Arab Republic,Low income,edu_spend_gdp,0,0.0
+SYR,Syrian Arab Republic,Low income,gdp_pc_ppp,8,0.8
+SYR,Syrian Arab Republic,Low income,gini,1,0.1
+SYR,Syrian Arab Republic,Low income,gov_effect,9,0.9
+SYR,Syrian Arab Republic,Low income,gpi_sec,5,0.5
+SYR,Syrian Arab Republic,Low income,gpi_tert,7,0.7
+SYR,Syrian Arab Republic,Low income,inc_share_low20,1,0.1
+SYR,Syrian Arab Republic,Low income,pop_total,10,1.0
+SYR,Syrian Arab Republic,Low income,poverty_215,1,0.1
+SYR,Syrian Arab Republic,Low income,sec_completion,5,0.5
+SYR,Syrian Arab Republic,Low income,sec_enrol_gross,5,0.5
+SYR,Syrian Arab Republic,Low income,tert_enrol_gross,2,0.2
+SYR,Syrian Arab Republic,Low income,voice_account,9,0.9
+SYR,Syrian Arab Republic,Low income,work_age_share,10,1.0
+SYR,Syrian Arab Republic,Low income,youth_literacy,1,0.1
+TGO,Togo,Low income,adult_literacy,4,0.4
+TGO,Togo,Low income,ctrl_corrup,9,0.9
+TGO,Togo,Low income,edu_spend_gdp,9,0.9
+TGO,Togo,Low income,gdp_pc_ppp,10,1.0
+TGO,Togo,Low income,gini,3,0.3
+TGO,Togo,Low income,gov_effect,9,0.9
+TGO,Togo,Low income,gpi_sec,9,0.9
+TGO,Togo,Low income,gpi_tert,8,0.8
+TGO,Togo,Low income,inc_share_low20,3,0.3
+TGO,Togo,Low income,pop_total,10,1.0
+TGO,Togo,Low income,poverty_215,3,0.3
+TGO,Togo,Low income,sec_completion,10,1.0
+TGO,Togo,Low income,sec_enrol_gross,9,0.9
+TGO,Togo,Low income,tert_enrol_gross,6,0.6
+TGO,Togo,Low income,voice_account,9,0.9
+TGO,Togo,Low income,work_age_share,10,1.0
+TGO,Togo,Low income,youth_literacy,4,0.4
+UGA,Uganda,Low income,adult_literacy,4,0.4
+UGA,Uganda,Low income,ctrl_corrup,9,0.9
+UGA,Uganda,Low income,edu_spend_gdp,8,0.8
+UGA,Uganda,Low income,gdp_pc_ppp,10,1.0
+UGA,Uganda,Low income,gini,2,0.2
+UGA,Uganda,Low income,gov_effect,9,0.9
+UGA,Uganda,Low income,gpi_sec,2,0.2
+UGA,Uganda,Low income,gpi_tert,0,0.0
+UGA,Uganda,Low income,inc_share_low20,2,0.2
+UGA,Uganda,Low income,pop_total,10,1.0
+UGA,Uganda,Low income,poverty_215,2,0.2
+UGA,Uganda,Low income,sec_completion,2,0.2
+UGA,Uganda,Low income,sec_enrol_gross,0,0.0
+UGA,Uganda,Low income,tert_enrol_gross,0,0.0
+UGA,Uganda,Low income,voice_account,9,0.9
+UGA,Uganda,Low income,work_age_share,10,1.0
+UGA,Uganda,Low income,youth_literacy,4,0.4
+YEM,"Yemen, Rep.",Low income,adult_literacy,0,0.0
+YEM,"Yemen, Rep.",Low income,ctrl_corrup,9,0.9
+YEM,"Yemen, Rep.",Low income,edu_spend_gdp,0,0.0
+YEM,"Yemen, Rep.",Low income,gdp_pc_ppp,0,0.0
+YEM,"Yemen, Rep.",Low income,gini,0,0.0
+YEM,"Yemen, Rep.",Low income,gov_effect,9,0.9
+YEM,"Yemen, Rep.",Low income,gpi_sec,1,0.1
+YEM,"Yemen, Rep.",Low income,gpi_tert,1,0.1
+YEM,"Yemen, Rep.",Low income,inc_share_low20,0,0.0
+YEM,"Yemen, Rep.",Low income,pop_total,10,1.0
+YEM,"Yemen, Rep.",Low income,poverty_215,0,0.0
+YEM,"Yemen, Rep.",Low income,sec_completion,1,0.1
+YEM,"Yemen, Rep.",Low income,sec_enrol_gross,1,0.1
+YEM,"Yemen, Rep.",Low income,tert_enrol_gross,0,0.0
+YEM,"Yemen, Rep.",Low income,voice_account,9,0.9
+YEM,"Yemen, Rep.",Low income,work_age_share,10,1.0
+YEM,"Yemen, Rep.",Low income,youth_literacy,0,0.0
+ETH,Ethiopia,Not classified,adult_literacy,4,0.4
+ETH,Ethiopia,Not classified,ctrl_corrup,9,0.9
+ETH,Ethiopia,Not classified,edu_spend_gdp,10,1.0
+ETH,Ethiopia,Not classified,gdp_pc_ppp,10,1.0
+ETH,Ethiopia,Not classified,gini,2,0.2
+ETH,Ethiopia,Not classified,gov_effect,9,0.9
+ETH,Ethiopia,Not classified,gpi_sec,2,0.2
+ETH,Ethiopia,Not classified,gpi_tert,4,0.4
+ETH,Ethiopia,Not classified,inc_share_low20,2,0.2
+ETH,Ethiopia,Not classified,pop_total,10,1.0
+ETH,Ethiopia,Not classified,poverty_215,2,0.2
+ETH,Ethiopia,Not classified,sec_completion,3,0.3
+ETH,Ethiopia,Not classified,sec_enrol_gross,2,0.2
+ETH,Ethiopia,Not classified,tert_enrol_gross,0,0.0
+ETH,Ethiopia,Not classified,voice_account,9,0.9
+ETH,Ethiopia,Not classified,work_age_share,10,1.0
+ETH,Ethiopia,Not classified,youth_literacy,4,0.4
+VEN,"Venezuela, RB",Not classified,adult_literacy,3,0.3
+VEN,"Venezuela, RB",Not classified,ctrl_corrup,9,0.9
+VEN,"Venezuela, RB",Not classified,edu_spend_gdp,0,0.0
+VEN,"Venezuela, RB",Not classified,gdp_pc_ppp,0,0.0
+VEN,"Venezuela, RB",Not classified,gini,0,0.0
+VEN,"Venezuela, RB",Not classified,gov_effect,9,0.9
+VEN,"Venezuela, RB",Not classified,gpi_sec,3,0.3
+VEN,"Venezuela, RB",Not classified,gpi_tert,6,0.6
+VEN,"Venezuela, RB",Not classified,inc_share_low20,0,0.0
+VEN,"Venezuela, RB",Not classified,pop_total,10,1.0
+VEN,"Venezuela, RB",Not classified,poverty_215,0,0.0
+VEN,"Venezuela, RB",Not classified,sec_completion,6,0.6
+VEN,"Venezuela, RB",Not classified,sec_enrol_gross,6,0.6
+VEN,"Venezuela, RB",Not classified,tert_enrol_gross,0,0.0
+VEN,"Venezuela, RB",Not classified,voice_account,9,0.9
+VEN,"Venezuela, RB",Not classified,work_age_share,10,1.0
+VEN,"Venezuela, RB",Not classified,youth_literacy,3,0.3

@@ -1,0 +1,18 @@
+indicator,label,role,observed_n,observed_pct,available_n,available_pct,missing_n,missing_pct,countries_miss
+sec_completion,Sec. completion rate,Y,114,95.0,115,95.8,5,4.2,"BDI, URY"
+edu_spend_gdp,Edu. spend (% GDP),W,107,89.2,108,90.0,12,10.0,"BDI, BFA, CRI, ESP, IDN, KGZ, THA, URY, UZB"
+gpi_sec,GPI secondary,A,105,87.5,109,90.8,11,9.2,"BDI, GEO, IDN, THA, URY"
+gpi_tert,GPI tertiary,A,114,95.0,116,96.7,4,3.3,"BDI, URY"
+adult_literacy,Adult literacy (15+),X,56,46.7,71,59.2,49,40.8,"BDI, BFA, BGD, CRI, ESP, GEO, IDN, KGZ, RWA, THA, UZB"
+youth_literacy,Youth literacy (15–24),X,60,50.0,76,63.3,44,36.7,"BDI, BFA, BGD, CRI, ESP, GEO, IDN, KGZ, RWA, THA, UZB"
+gini,Gini index,X,80,66.7,82,68.3,38,31.7,"BDI, BFA, BGD, ESP, RWA, UZB"
+inc_share_low20,Income share (low 20%),X,80,66.7,82,68.3,38,31.7,"BDI, BFA, BGD, ESP, RWA, UZB"
+poverty_215,Poverty ($2.15/day),X,80,66.7,82,68.3,38,31.7,"BDI, BFA, BGD, ESP, RWA, UZB"
+tert_enrol_gross,Tert. gross enrolment,X,106,88.3,107,89.2,13,10.8,"BDI, CRI, GEO, IDN, URY"
+gov_effect,Govt. effectiveness,X,108,90.0,108,90.0,12,10.0,"BDI, BFA, BGD, CRI, ESP, GEO, IDN, KGZ, RWA, THA, URY, UZB"
+voice_account,Voice & accountability,X,108,90.0,108,90.0,12,10.0,"BDI, BFA, BGD, CRI, ESP, GEO, IDN, KGZ, RWA, THA, URY, UZB"
+ctrl_corrup,Control of corruption,X,108,90.0,108,90.0,12,10.0,"BDI, BFA, BGD, CRI, ESP, GEO, IDN, KGZ, RWA, THA, URY, UZB"
+sec_enrol_gross,Sec. net enrolment,X,114,95.0,115,95.8,5,4.2,"BDI, URY"
+gdp_pc_ppp,GDP/capita (PPP),X,120,100.0,120,100.0,0,0.0,—
+work_age_share,Working-age share,X,120,100.0,120,100.0,0,0.0,—
+pop_total,Population,C,120,100.0,120,100.0,0,0.0,—

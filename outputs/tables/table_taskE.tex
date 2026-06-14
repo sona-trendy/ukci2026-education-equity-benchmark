@@ -1,0 +1,15 @@
+\begin{table}[htbp]
+\centering
+\caption{Task E --- ATE estimates: effect of +1 pp-GDP education expenditure on lower-secondary completion rate (pp). 95\% CI reported; $n=95$ country-year observations (2016--2024, imputed panel).}
+\label{tab:taskE}
+\begin{tabular}{lrrrp{5cm}}
+\toprule
+Estimator & ATE & CI$_{2.5}$ & CI$_{97.5}$ & Note \\
+\midrule
+NaiveOLS & -0.731 & -- & -- & \footnotesize{Confounded; no causal adjustment} \\
+FixedEffects & +2.540 & -3.720 & +7.751 & \footnotesize{Within-country FE (demeaned), bootstrap 95% CI} \\
+LinearDML & +1.919 & -2.756 & +6.594 & \footnotesize{DML with Ridge nuisance; 5-fold CV; 95% CI} \\
+CausalForestDML & +1.389 & -3.174 & +5.952 & \footnotesize{CausalForest CATE; 5-fold CV; 95% CI} \\
+\bottomrule
+\end{tabular}
+\end{table}

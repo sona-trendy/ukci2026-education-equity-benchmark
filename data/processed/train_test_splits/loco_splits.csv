@@ -1,0 +1,1441 @@
+fold,held_out_iso3c,held_out_country,iso3c,country,year,split
+0,BDI,Burundi,BDI,Burundi,2015,test
+0,BDI,Burundi,BDI,Burundi,2016,test
+0,BDI,Burundi,BDI,Burundi,2017,test
+0,BDI,Burundi,BDI,Burundi,2018,test
+0,BDI,Burundi,BDI,Burundi,2019,test
+0,BDI,Burundi,BDI,Burundi,2020,test
+0,BDI,Burundi,BDI,Burundi,2021,test
+0,BDI,Burundi,BDI,Burundi,2022,test
+0,BDI,Burundi,BDI,Burundi,2023,test
+0,BDI,Burundi,BDI,Burundi,2024,test
+0,BDI,Burundi,BFA,Burkina Faso,2015,train
+0,BDI,Burundi,BFA,Burkina Faso,2016,train
+0,BDI,Burundi,BFA,Burkina Faso,2017,train
+0,BDI,Burundi,BFA,Burkina Faso,2018,train
+0,BDI,Burundi,BFA,Burkina Faso,2019,train
+0,BDI,Burundi,BFA,Burkina Faso,2020,train
+0,BDI,Burundi,BFA,Burkina Faso,2021,train
+0,BDI,Burundi,BFA,Burkina Faso,2022,train
+0,BDI,Burundi,BFA,Burkina Faso,2023,train
+0,BDI,Burundi,BFA,Burkina Faso,2024,train
+0,BDI,Burundi,BGD,Bangladesh,2015,train
+0,BDI,Burundi,BGD,Bangladesh,2016,train
+0,BDI,Burundi,BGD,Bangladesh,2017,train
+0,BDI,Burundi,BGD,Bangladesh,2018,train
+0,BDI,Burundi,BGD,Bangladesh,2019,train
+0,BDI,Burundi,BGD,Bangladesh,2020,train
+0,BDI,Burundi,BGD,Bangladesh,2021,train
+0,BDI,Burundi,BGD,Bangladesh,2022,train
+0,BDI,Burundi,BGD,Bangladesh,2023,train
+0,BDI,Burundi,BGD,Bangladesh,2024,train
+0,BDI,Burundi,CRI,Costa Rica,2015,train
+0,BDI,Burundi,CRI,Costa Rica,2016,train
+0,BDI,Burundi,CRI,Costa Rica,2017,train
+0,BDI,Burundi,CRI,Costa Rica,2018,train
+0,BDI,Burundi,CRI,Costa Rica,2019,train
+0,BDI,Burundi,CRI,Costa Rica,2020,train
+0,BDI,Burundi,CRI,Costa Rica,2021,train
+0,BDI,Burundi,CRI,Costa Rica,2022,train
+0,BDI,Burundi,CRI,Costa Rica,2023,train
+0,BDI,Burundi,CRI,Costa Rica,2024,train
+0,BDI,Burundi,ESP,Spain,2015,train
+0,BDI,Burundi,ESP,Spain,2016,train
+0,BDI,Burundi,ESP,Spain,2017,train
+0,BDI,Burundi,ESP,Spain,2018,train
+0,BDI,Burundi,ESP,Spain,2019,train
+0,BDI,Burundi,ESP,Spain,2020,train
+0,BDI,Burundi,ESP,Spain,2021,train
+0,BDI,Burundi,ESP,Spain,2022,train
+0,BDI,Burundi,ESP,Spain,2023,train
+0,BDI,Burundi,ESP,Spain,2024,train
+0,BDI,Burundi,GEO,Georgia,2015,train
+0,BDI,Burundi,GEO,Georgia,2016,train
+0,BDI,Burundi,GEO,Georgia,2017,train
+0,BDI,Burundi,GEO,Georgia,2018,train
+0,BDI,Burundi,GEO,Georgia,2019,train
+0,BDI,Burundi,GEO,Georgia,2020,train
+0,BDI,Burundi,GEO,Georgia,2021,train
+0,BDI,Burundi,GEO,Georgia,2022,train
+0,BDI,Burundi,GEO,Georgia,2023,train
+0,BDI,Burundi,GEO,Georgia,2024,train
+0,BDI,Burundi,IDN,Indonesia,2015,train
+0,BDI,Burundi,IDN,Indonesia,2016,train
+0,BDI,Burundi,IDN,Indonesia,2017,train
+0,BDI,Burundi,IDN,Indonesia,2018,train
+0,BDI,Burundi,IDN,Indonesia,2019,train
+0,BDI,Burundi,IDN,Indonesia,2020,train
+0,BDI,Burundi,IDN,Indonesia,2021,train
+0,BDI,Burundi,IDN,Indonesia,2022,train
+0,BDI,Burundi,IDN,Indonesia,2023,train
+0,BDI,Burundi,IDN,Indonesia,2024,train
+0,BDI,Burundi,KGZ,Kyrgyz Republic,2015,train
+0,BDI,Burundi,KGZ,Kyrgyz Republic,2016,train
+0,BDI,Burundi,KGZ,Kyrgyz Republic,2017,train
+0,BDI,Burundi,KGZ,Kyrgyz Republic,2018,train
+0,BDI,Burundi,KGZ,Kyrgyz Republic,2019,train
+0,BDI,Burundi,KGZ,Kyrgyz Republic,2020,train
+0,BDI,Burundi,KGZ,Kyrgyz Republic,2021,train
+0,BDI,Burundi,KGZ,Kyrgyz Republic,2022,train
+0,BDI,Burundi,KGZ,Kyrgyz Republic,2023,train
+0,BDI,Burundi,KGZ,Kyrgyz Republic,2024,train
+0,BDI,Burundi,RWA,Rwanda,2015,train
+0,BDI,Burundi,RWA,Rwanda,2016,train
+0,BDI,Burundi,RWA,Rwanda,2017,train
+0,BDI,Burundi,RWA,Rwanda,2018,train
+0,BDI,Burundi,RWA,Rwanda,2019,train
+0,BDI,Burundi,RWA,Rwanda,2020,train
+0,BDI,Burundi,RWA,Rwanda,2021,train
+0,BDI,Burundi,RWA,Rwanda,2022,train
+0,BDI,Burundi,RWA,Rwanda,2023,train
+0,BDI,Burundi,RWA,Rwanda,2024,train
+0,BDI,Burundi,THA,Thailand,2015,train
+0,BDI,Burundi,THA,Thailand,2016,train
+0,BDI,Burundi,THA,Thailand,2017,train
+0,BDI,Burundi,THA,Thailand,2018,train
+0,BDI,Burundi,THA,Thailand,2019,train
+0,BDI,Burundi,THA,Thailand,2020,train
+0,BDI,Burundi,THA,Thailand,2021,train
+0,BDI,Burundi,THA,Thailand,2022,train
+0,BDI,Burundi,THA,Thailand,2023,train
+0,BDI,Burundi,THA,Thailand,2024,train
+0,BDI,Burundi,URY,Uruguay,2015,train
+0,BDI,Burundi,URY,Uruguay,2016,train
+0,BDI,Burundi,URY,Uruguay,2017,train
+0,BDI,Burundi,URY,Uruguay,2018,train
+0,BDI,Burundi,URY,Uruguay,2019,train
+0,BDI,Burundi,URY,Uruguay,2020,train
+0,BDI,Burundi,URY,Uruguay,2021,train
+0,BDI,Burundi,URY,Uruguay,2022,train
+0,BDI,Burundi,URY,Uruguay,2023,train
+0,BDI,Burundi,URY,Uruguay,2024,train
+0,BDI,Burundi,UZB,Uzbekistan,2015,train
+0,BDI,Burundi,UZB,Uzbekistan,2016,train
+0,BDI,Burundi,UZB,Uzbekistan,2017,train
+0,BDI,Burundi,UZB,Uzbekistan,2018,train
+0,BDI,Burundi,UZB,Uzbekistan,2019,train
+0,BDI,Burundi,UZB,Uzbekistan,2020,train
+0,BDI,Burundi,UZB,Uzbekistan,2021,train
+0,BDI,Burundi,UZB,Uzbekistan,2022,train
+0,BDI,Burundi,UZB,Uzbekistan,2023,train
+0,BDI,Burundi,UZB,Uzbekistan,2024,train
+1,BFA,Burkina Faso,BDI,Burundi,2015,train
+1,BFA,Burkina Faso,BDI,Burundi,2016,train
+1,BFA,Burkina Faso,BDI,Burundi,2017,train
+1,BFA,Burkina Faso,BDI,Burundi,2018,train
+1,BFA,Burkina Faso,BDI,Burundi,2019,train
+1,BFA,Burkina Faso,BDI,Burundi,2020,train
+1,BFA,Burkina Faso,BDI,Burundi,2021,train
+1,BFA,Burkina Faso,BDI,Burundi,2022,train
+1,BFA,Burkina Faso,BDI,Burundi,2023,train
+1,BFA,Burkina Faso,BDI,Burundi,2024,train
+1,BFA,Burkina Faso,BFA,Burkina Faso,2015,test
+1,BFA,Burkina Faso,BFA,Burkina Faso,2016,test
+1,BFA,Burkina Faso,BFA,Burkina Faso,2017,test
+1,BFA,Burkina Faso,BFA,Burkina Faso,2018,test
+1,BFA,Burkina Faso,BFA,Burkina Faso,2019,test
+1,BFA,Burkina Faso,BFA,Burkina Faso,2020,test
+1,BFA,Burkina Faso,BFA,Burkina Faso,2021,test
+1,BFA,Burkina Faso,BFA,Burkina Faso,2022,test
+1,BFA,Burkina Faso,BFA,Burkina Faso,2023,test
+1,BFA,Burkina Faso,BFA,Burkina Faso,2024,test
+1,BFA,Burkina Faso,BGD,Bangladesh,2015,train
+1,BFA,Burkina Faso,BGD,Bangladesh,2016,train
+1,BFA,Burkina Faso,BGD,Bangladesh,2017,train
+1,BFA,Burkina Faso,BGD,Bangladesh,2018,train
+1,BFA,Burkina Faso,BGD,Bangladesh,2019,train
+1,BFA,Burkina Faso,BGD,Bangladesh,2020,train
+1,BFA,Burkina Faso,BGD,Bangladesh,2021,train
+1,BFA,Burkina Faso,BGD,Bangladesh,2022,train
+1,BFA,Burkina Faso,BGD,Bangladesh,2023,train
+1,BFA,Burkina Faso,BGD,Bangladesh,2024,train
+1,BFA,Burkina Faso,CRI,Costa Rica,2015,train
+1,BFA,Burkina Faso,CRI,Costa Rica,2016,train
+1,BFA,Burkina Faso,CRI,Costa Rica,2017,train
+1,BFA,Burkina Faso,CRI,Costa Rica,2018,train
+1,BFA,Burkina Faso,CRI,Costa Rica,2019,train
+1,BFA,Burkina Faso,CRI,Costa Rica,2020,train
+1,BFA,Burkina Faso,CRI,Costa Rica,2021,train
+1,BFA,Burkina Faso,CRI,Costa Rica,2022,train
+1,BFA,Burkina Faso,CRI,Costa Rica,2023,train
+1,BFA,Burkina Faso,CRI,Costa Rica,2024,train
+1,BFA,Burkina Faso,ESP,Spain,2015,train
+1,BFA,Burkina Faso,ESP,Spain,2016,train
+1,BFA,Burkina Faso,ESP,Spain,2017,train
+1,BFA,Burkina Faso,ESP,Spain,2018,train
+1,BFA,Burkina Faso,ESP,Spain,2019,train
+1,BFA,Burkina Faso,ESP,Spain,2020,train
+1,BFA,Burkina Faso,ESP,Spain,2021,train
+1,BFA,Burkina Faso,ESP,Spain,2022,train
+1,BFA,Burkina Faso,ESP,Spain,2023,train
+1,BFA,Burkina Faso,ESP,Spain,2024,train
+1,BFA,Burkina Faso,GEO,Georgia,2015,train
+1,BFA,Burkina Faso,GEO,Georgia,2016,train
+1,BFA,Burkina Faso,GEO,Georgia,2017,train
+1,BFA,Burkina Faso,GEO,Georgia,2018,train
+1,BFA,Burkina Faso,GEO,Georgia,2019,train
+1,BFA,Burkina Faso,GEO,Georgia,2020,train
+1,BFA,Burkina Faso,GEO,Georgia,2021,train
+1,BFA,Burkina Faso,GEO,Georgia,2022,train
+1,BFA,Burkina Faso,GEO,Georgia,2023,train
+1,BFA,Burkina Faso,GEO,Georgia,2024,train
+1,BFA,Burkina Faso,IDN,Indonesia,2015,train
+1,BFA,Burkina Faso,IDN,Indonesia,2016,train
+1,BFA,Burkina Faso,IDN,Indonesia,2017,train
+1,BFA,Burkina Faso,IDN,Indonesia,2018,train
+1,BFA,Burkina Faso,IDN,Indonesia,2019,train
+1,BFA,Burkina Faso,IDN,Indonesia,2020,train
+1,BFA,Burkina Faso,IDN,Indonesia,2021,train
+1,BFA,Burkina Faso,IDN,Indonesia,2022,train
+1,BFA,Burkina Faso,IDN,Indonesia,2023,train
+1,BFA,Burkina Faso,IDN,Indonesia,2024,train
+1,BFA,Burkina Faso,KGZ,Kyrgyz Republic,2015,train
+1,BFA,Burkina Faso,KGZ,Kyrgyz Republic,2016,train
+1,BFA,Burkina Faso,KGZ,Kyrgyz Republic,2017,train
+1,BFA,Burkina Faso,KGZ,Kyrgyz Republic,2018,train
+1,BFA,Burkina Faso,KGZ,Kyrgyz Republic,2019,train
+1,BFA,Burkina Faso,KGZ,Kyrgyz Republic,2020,train
+1,BFA,Burkina Faso,KGZ,Kyrgyz Republic,2021,train
+1,BFA,Burkina Faso,KGZ,Kyrgyz Republic,2022,train
+1,BFA,Burkina Faso,KGZ,Kyrgyz Republic,2023,train
+1,BFA,Burkina Faso,KGZ,Kyrgyz Republic,2024,train
+1,BFA,Burkina Faso,RWA,Rwanda,2015,train
+1,BFA,Burkina Faso,RWA,Rwanda,2016,train
+1,BFA,Burkina Faso,RWA,Rwanda,2017,train
+1,BFA,Burkina Faso,RWA,Rwanda,2018,train
+1,BFA,Burkina Faso,RWA,Rwanda,2019,train
+1,BFA,Burkina Faso,RWA,Rwanda,2020,train
+1,BFA,Burkina Faso,RWA,Rwanda,2021,train
+1,BFA,Burkina Faso,RWA,Rwanda,2022,train
+1,BFA,Burkina Faso,RWA,Rwanda,2023,train
+1,BFA,Burkina Faso,RWA,Rwanda,2024,train
+1,BFA,Burkina Faso,THA,Thailand,2015,train
+1,BFA,Burkina Faso,THA,Thailand,2016,train
+1,BFA,Burkina Faso,THA,Thailand,2017,train
+1,BFA,Burkina Faso,THA,Thailand,2018,train
+1,BFA,Burkina Faso,THA,Thailand,2019,train
+1,BFA,Burkina Faso,THA,Thailand,2020,train
+1,BFA,Burkina Faso,THA,Thailand,2021,train
+1,BFA,Burkina Faso,THA,Thailand,2022,train
+1,BFA,Burkina Faso,THA,Thailand,2023,train
+1,BFA,Burkina Faso,THA,Thailand,2024,train
+1,BFA,Burkina Faso,URY,Uruguay,2015,train
+1,BFA,Burkina Faso,URY,Uruguay,2016,train
+1,BFA,Burkina Faso,URY,Uruguay,2017,train
+1,BFA,Burkina Faso,URY,Uruguay,2018,train
+1,BFA,Burkina Faso,URY,Uruguay,2019,train
+1,BFA,Burkina Faso,URY,Uruguay,2020,train
+1,BFA,Burkina Faso,URY,Uruguay,2021,train
+1,BFA,Burkina Faso,URY,Uruguay,2022,train
+1,BFA,Burkina Faso,URY,Uruguay,2023,train
+1,BFA,Burkina Faso,URY,Uruguay,2024,train
+1,BFA,Burkina Faso,UZB,Uzbekistan,2015,train
+1,BFA,Burkina Faso,UZB,Uzbekistan,2016,train
+1,BFA,Burkina Faso,UZB,Uzbekistan,2017,train
+1,BFA,Burkina Faso,UZB,Uzbekistan,2018,train
+1,BFA,Burkina Faso,UZB,Uzbekistan,2019,train
+1,BFA,Burkina Faso,UZB,Uzbekistan,2020,train
+1,BFA,Burkina Faso,UZB,Uzbekistan,2021,train
+1,BFA,Burkina Faso,UZB,Uzbekistan,2022,train
+1,BFA,Burkina Faso,UZB,Uzbekistan,2023,train
+1,BFA,Burkina Faso,UZB,Uzbekistan,2024,train
+2,BGD,Bangladesh,BDI,Burundi,2015,train
+2,BGD,Bangladesh,BDI,Burundi,2016,train
+2,BGD,Bangladesh,BDI,Burundi,2017,train
+2,BGD,Bangladesh,BDI,Burundi,2018,train
+2,BGD,Bangladesh,BDI,Burundi,2019,train
+2,BGD,Bangladesh,BDI,Burundi,2020,train
+2,BGD,Bangladesh,BDI,Burundi,2021,train
+2,BGD,Bangladesh,BDI,Burundi,2022,train
+2,BGD,Bangladesh,BDI,Burundi,2023,train
+2,BGD,Bangladesh,BDI,Burundi,2024,train
+2,BGD,Bangladesh,BFA,Burkina Faso,2015,train
+2,BGD,Bangladesh,BFA,Burkina Faso,2016,train
+2,BGD,Bangladesh,BFA,Burkina Faso,2017,train
+2,BGD,Bangladesh,BFA,Burkina Faso,2018,train
+2,BGD,Bangladesh,BFA,Burkina Faso,2019,train
+2,BGD,Bangladesh,BFA,Burkina Faso,2020,train
+2,BGD,Bangladesh,BFA,Burkina Faso,2021,train
+2,BGD,Bangladesh,BFA,Burkina Faso,2022,train
+2,BGD,Bangladesh,BFA,Burkina Faso,2023,train
+2,BGD,Bangladesh,BFA,Burkina Faso,2024,train
+2,BGD,Bangladesh,BGD,Bangladesh,2015,test
+2,BGD,Bangladesh,BGD,Bangladesh,2016,test
+2,BGD,Bangladesh,BGD,Bangladesh,2017,test
+2,BGD,Bangladesh,BGD,Bangladesh,2018,test
+2,BGD,Bangladesh,BGD,Bangladesh,2019,test
+2,BGD,Bangladesh,BGD,Bangladesh,2020,test
+2,BGD,Bangladesh,BGD,Bangladesh,2021,test
+2,BGD,Bangladesh,BGD,Bangladesh,2022,test
+2,BGD,Bangladesh,BGD,Bangladesh,2023,test
+2,BGD,Bangladesh,BGD,Bangladesh,2024,test
+2,BGD,Bangladesh,CRI,Costa Rica,2015,train
+2,BGD,Bangladesh,CRI,Costa Rica,2016,train
+2,BGD,Bangladesh,CRI,Costa Rica,2017,train
+2,BGD,Bangladesh,CRI,Costa Rica,2018,train
+2,BGD,Bangladesh,CRI,Costa Rica,2019,train
+2,BGD,Bangladesh,CRI,Costa Rica,2020,train
+2,BGD,Bangladesh,CRI,Costa Rica,2021,train
+2,BGD,Bangladesh,CRI,Costa Rica,2022,train
+2,BGD,Bangladesh,CRI,Costa Rica,2023,train
+2,BGD,Bangladesh,CRI,Costa Rica,2024,train
+2,BGD,Bangladesh,ESP,Spain,2015,train
+2,BGD,Bangladesh,ESP,Spain,2016,train
+2,BGD,Bangladesh,ESP,Spain,2017,train
+2,BGD,Bangladesh,ESP,Spain,2018,train
+2,BGD,Bangladesh,ESP,Spain,2019,train
+2,BGD,Bangladesh,ESP,Spain,2020,train
+2,BGD,Bangladesh,ESP,Spain,2021,train
+2,BGD,Bangladesh,ESP,Spain,2022,train
+2,BGD,Bangladesh,ESP,Spain,2023,train
+2,BGD,Bangladesh,ESP,Spain,2024,train
+2,BGD,Bangladesh,GEO,Georgia,2015,train
+2,BGD,Bangladesh,GEO,Georgia,2016,train
+2,BGD,Bangladesh,GEO,Georgia,2017,train
+2,BGD,Bangladesh,GEO,Georgia,2018,train
+2,BGD,Bangladesh,GEO,Georgia,2019,train
+2,BGD,Bangladesh,GEO,Georgia,2020,train
+2,BGD,Bangladesh,GEO,Georgia,2021,train
+2,BGD,Bangladesh,GEO,Georgia,2022,train
+2,BGD,Bangladesh,GEO,Georgia,2023,train
+2,BGD,Bangladesh,GEO,Georgia,2024,train
+2,BGD,Bangladesh,IDN,Indonesia,2015,train
+2,BGD,Bangladesh,IDN,Indonesia,2016,train
+2,BGD,Bangladesh,IDN,Indonesia,2017,train
+2,BGD,Bangladesh,IDN,Indonesia,2018,train
+2,BGD,Bangladesh,IDN,Indonesia,2019,train
+2,BGD,Bangladesh,IDN,Indonesia,2020,train
+2,BGD,Bangladesh,IDN,Indonesia,2021,train
+2,BGD,Bangladesh,IDN,Indonesia,2022,train
+2,BGD,Bangladesh,IDN,Indonesia,2023,train
+2,BGD,Bangladesh,IDN,Indonesia,2024,train
+2,BGD,Bangladesh,KGZ,Kyrgyz Republic,2015,train
+2,BGD,Bangladesh,KGZ,Kyrgyz Republic,2016,train
+2,BGD,Bangladesh,KGZ,Kyrgyz Republic,2017,train
+2,BGD,Bangladesh,KGZ,Kyrgyz Republic,2018,train
+2,BGD,Bangladesh,KGZ,Kyrgyz Republic,2019,train
+2,BGD,Bangladesh,KGZ,Kyrgyz Republic,2020,train
+2,BGD,Bangladesh,KGZ,Kyrgyz Republic,2021,train
+2,BGD,Bangladesh,KGZ,Kyrgyz Republic,2022,train
+2,BGD,Bangladesh,KGZ,Kyrgyz Republic,2023,train
+2,BGD,Bangladesh,KGZ,Kyrgyz Republic,2024,train
+2,BGD,Bangladesh,RWA,Rwanda,2015,train
+2,BGD,Bangladesh,RWA,Rwanda,2016,train
+2,BGD,Bangladesh,RWA,Rwanda,2017,train
+2,BGD,Bangladesh,RWA,Rwanda,2018,train
+2,BGD,Bangladesh,RWA,Rwanda,2019,train
+2,BGD,Bangladesh,RWA,Rwanda,2020,train
+2,BGD,Bangladesh,RWA,Rwanda,2021,train
+2,BGD,Bangladesh,RWA,Rwanda,2022,train
+2,BGD,Bangladesh,RWA,Rwanda,2023,train
+2,BGD,Bangladesh,RWA,Rwanda,2024,train
+2,BGD,Bangladesh,THA,Thailand,2015,train
+2,BGD,Bangladesh,THA,Thailand,2016,train
+2,BGD,Bangladesh,THA,Thailand,2017,train
+2,BGD,Bangladesh,THA,Thailand,2018,train
+2,BGD,Bangladesh,THA,Thailand,2019,train
+2,BGD,Bangladesh,THA,Thailand,2020,train
+2,BGD,Bangladesh,THA,Thailand,2021,train
+2,BGD,Bangladesh,THA,Thailand,2022,train
+2,BGD,Bangladesh,THA,Thailand,2023,train
+2,BGD,Bangladesh,THA,Thailand,2024,train
+2,BGD,Bangladesh,URY,Uruguay,2015,train
+2,BGD,Bangladesh,URY,Uruguay,2016,train
+2,BGD,Bangladesh,URY,Uruguay,2017,train
+2,BGD,Bangladesh,URY,Uruguay,2018,train
+2,BGD,Bangladesh,URY,Uruguay,2019,train
+2,BGD,Bangladesh,URY,Uruguay,2020,train
+2,BGD,Bangladesh,URY,Uruguay,2021,train
+2,BGD,Bangladesh,URY,Uruguay,2022,train
+2,BGD,Bangladesh,URY,Uruguay,2023,train
+2,BGD,Bangladesh,URY,Uruguay,2024,train
+2,BGD,Bangladesh,UZB,Uzbekistan,2015,train
+2,BGD,Bangladesh,UZB,Uzbekistan,2016,train
+2,BGD,Bangladesh,UZB,Uzbekistan,2017,train
+2,BGD,Bangladesh,UZB,Uzbekistan,2018,train
+2,BGD,Bangladesh,UZB,Uzbekistan,2019,train
+2,BGD,Bangladesh,UZB,Uzbekistan,2020,train
+2,BGD,Bangladesh,UZB,Uzbekistan,2021,train
+2,BGD,Bangladesh,UZB,Uzbekistan,2022,train
+2,BGD,Bangladesh,UZB,Uzbekistan,2023,train
+2,BGD,Bangladesh,UZB,Uzbekistan,2024,train
+3,CRI,Costa Rica,BDI,Burundi,2015,train
+3,CRI,Costa Rica,BDI,Burundi,2016,train
+3,CRI,Costa Rica,BDI,Burundi,2017,train
+3,CRI,Costa Rica,BDI,Burundi,2018,train
+3,CRI,Costa Rica,BDI,Burundi,2019,train
+3,CRI,Costa Rica,BDI,Burundi,2020,train
+3,CRI,Costa Rica,BDI,Burundi,2021,train
+3,CRI,Costa Rica,BDI,Burundi,2022,train
+3,CRI,Costa Rica,BDI,Burundi,2023,train
+3,CRI,Costa Rica,BDI,Burundi,2024,train
+3,CRI,Costa Rica,BFA,Burkina Faso,2015,train
+3,CRI,Costa Rica,BFA,Burkina Faso,2016,train
+3,CRI,Costa Rica,BFA,Burkina Faso,2017,train
+3,CRI,Costa Rica,BFA,Burkina Faso,2018,train
+3,CRI,Costa Rica,BFA,Burkina Faso,2019,train
+3,CRI,Costa Rica,BFA,Burkina Faso,2020,train
+3,CRI,Costa Rica,BFA,Burkina Faso,2021,train
+3,CRI,Costa Rica,BFA,Burkina Faso,2022,train
+3,CRI,Costa Rica,BFA,Burkina Faso,2023,train
+3,CRI,Costa Rica,BFA,Burkina Faso,2024,train
+3,CRI,Costa Rica,BGD,Bangladesh,2015,train
+3,CRI,Costa Rica,BGD,Bangladesh,2016,train
+3,CRI,Costa Rica,BGD,Bangladesh,2017,train
+3,CRI,Costa Rica,BGD,Bangladesh,2018,train
+3,CRI,Costa Rica,BGD,Bangladesh,2019,train
+3,CRI,Costa Rica,BGD,Bangladesh,2020,train
+3,CRI,Costa Rica,BGD,Bangladesh,2021,train
+3,CRI,Costa Rica,BGD,Bangladesh,2022,train
+3,CRI,Costa Rica,BGD,Bangladesh,2023,train
+3,CRI,Costa Rica,BGD,Bangladesh,2024,train
+3,CRI,Costa Rica,CRI,Costa Rica,2015,test
+3,CRI,Costa Rica,CRI,Costa Rica,2016,test
+3,CRI,Costa Rica,CRI,Costa Rica,2017,test
+3,CRI,Costa Rica,CRI,Costa Rica,2018,test
+3,CRI,Costa Rica,CRI,Costa Rica,2019,test
+3,CRI,Costa Rica,CRI,Costa Rica,2020,test
+3,CRI,Costa Rica,CRI,Costa Rica,2021,test
+3,CRI,Costa Rica,CRI,Costa Rica,2022,test
+3,CRI,Costa Rica,CRI,Costa Rica,2023,test
+3,CRI,Costa Rica,CRI,Costa Rica,2024,test
+3,CRI,Costa Rica,ESP,Spain,2015,train
+3,CRI,Costa Rica,ESP,Spain,2016,train
+3,CRI,Costa Rica,ESP,Spain,2017,train
+3,CRI,Costa Rica,ESP,Spain,2018,train
+3,CRI,Costa Rica,ESP,Spain,2019,train
+3,CRI,Costa Rica,ESP,Spain,2020,train
+3,CRI,Costa Rica,ESP,Spain,2021,train
+3,CRI,Costa Rica,ESP,Spain,2022,train
+3,CRI,Costa Rica,ESP,Spain,2023,train
+3,CRI,Costa Rica,ESP,Spain,2024,train
+3,CRI,Costa Rica,GEO,Georgia,2015,train
+3,CRI,Costa Rica,GEO,Georgia,2016,train
+3,CRI,Costa Rica,GEO,Georgia,2017,train
+3,CRI,Costa Rica,GEO,Georgia,2018,train
+3,CRI,Costa Rica,GEO,Georgia,2019,train
+3,CRI,Costa Rica,GEO,Georgia,2020,train
+3,CRI,Costa Rica,GEO,Georgia,2021,train
+3,CRI,Costa Rica,GEO,Georgia,2022,train
+3,CRI,Costa Rica,GEO,Georgia,2023,train
+3,CRI,Costa Rica,GEO,Georgia,2024,train
+3,CRI,Costa Rica,IDN,Indonesia,2015,train
+3,CRI,Costa Rica,IDN,Indonesia,2016,train
+3,CRI,Costa Rica,IDN,Indonesia,2017,train
+3,CRI,Costa Rica,IDN,Indonesia,2018,train
+3,CRI,Costa Rica,IDN,Indonesia,2019,train
+3,CRI,Costa Rica,IDN,Indonesia,2020,train
+3,CRI,Costa Rica,IDN,Indonesia,2021,train
+3,CRI,Costa Rica,IDN,Indonesia,2022,train
+3,CRI,Costa Rica,IDN,Indonesia,2023,train
+3,CRI,Costa Rica,IDN,Indonesia,2024,train
+3,CRI,Costa Rica,KGZ,Kyrgyz Republic,2015,train
+3,CRI,Costa Rica,KGZ,Kyrgyz Republic,2016,train
+3,CRI,Costa Rica,KGZ,Kyrgyz Republic,2017,train
+3,CRI,Costa Rica,KGZ,Kyrgyz Republic,2018,train
+3,CRI,Costa Rica,KGZ,Kyrgyz Republic,2019,train
+3,CRI,Costa Rica,KGZ,Kyrgyz Republic,2020,train
+3,CRI,Costa Rica,KGZ,Kyrgyz Republic,2021,train
+3,CRI,Costa Rica,KGZ,Kyrgyz Republic,2022,train
+3,CRI,Costa Rica,KGZ,Kyrgyz Republic,2023,train
+3,CRI,Costa Rica,KGZ,Kyrgyz Republic,2024,train
+3,CRI,Costa Rica,RWA,Rwanda,2015,train
+3,CRI,Costa Rica,RWA,Rwanda,2016,train
+3,CRI,Costa Rica,RWA,Rwanda,2017,train
+3,CRI,Costa Rica,RWA,Rwanda,2018,train
+3,CRI,Costa Rica,RWA,Rwanda,2019,train
+3,CRI,Costa Rica,RWA,Rwanda,2020,train
+3,CRI,Costa Rica,RWA,Rwanda,2021,train
+3,CRI,Costa Rica,RWA,Rwanda,2022,train
+3,CRI,Costa Rica,RWA,Rwanda,2023,train
+3,CRI,Costa Rica,RWA,Rwanda,2024,train
+3,CRI,Costa Rica,THA,Thailand,2015,train
+3,CRI,Costa Rica,THA,Thailand,2016,train
+3,CRI,Costa Rica,THA,Thailand,2017,train
+3,CRI,Costa Rica,THA,Thailand,2018,train
+3,CRI,Costa Rica,THA,Thailand,2019,train
+3,CRI,Costa Rica,THA,Thailand,2020,train
+3,CRI,Costa Rica,THA,Thailand,2021,train
+3,CRI,Costa Rica,THA,Thailand,2022,train
+3,CRI,Costa Rica,THA,Thailand,2023,train
+3,CRI,Costa Rica,THA,Thailand,2024,train
+3,CRI,Costa Rica,URY,Uruguay,2015,train
+3,CRI,Costa Rica,URY,Uruguay,2016,train
+3,CRI,Costa Rica,URY,Uruguay,2017,train
+3,CRI,Costa Rica,URY,Uruguay,2018,train
+3,CRI,Costa Rica,URY,Uruguay,2019,train
+3,CRI,Costa Rica,URY,Uruguay,2020,train
+3,CRI,Costa Rica,URY,Uruguay,2021,train
+3,CRI,Costa Rica,URY,Uruguay,2022,train
+3,CRI,Costa Rica,URY,Uruguay,2023,train
+3,CRI,Costa Rica,URY,Uruguay,2024,train
+3,CRI,Costa Rica,UZB,Uzbekistan,2015,train
+3,CRI,Costa Rica,UZB,Uzbekistan,2016,train
+3,CRI,Costa Rica,UZB,Uzbekistan,2017,train
+3,CRI,Costa Rica,UZB,Uzbekistan,2018,train
+3,CRI,Costa Rica,UZB,Uzbekistan,2019,train
+3,CRI,Costa Rica,UZB,Uzbekistan,2020,train
+3,CRI,Costa Rica,UZB,Uzbekistan,2021,train
+3,CRI,Costa Rica,UZB,Uzbekistan,2022,train
+3,CRI,Costa Rica,UZB,Uzbekistan,2023,train
+3,CRI,Costa Rica,UZB,Uzbekistan,2024,train
+4,ESP,Spain,BDI,Burundi,2015,train
+4,ESP,Spain,BDI,Burundi,2016,train
+4,ESP,Spain,BDI,Burundi,2017,train
+4,ESP,Spain,BDI,Burundi,2018,train
+4,ESP,Spain,BDI,Burundi,2019,train
+4,ESP,Spain,BDI,Burundi,2020,train
+4,ESP,Spain,BDI,Burundi,2021,train
+4,ESP,Spain,BDI,Burundi,2022,train
+4,ESP,Spain,BDI,Burundi,2023,train
+4,ESP,Spain,BDI,Burundi,2024,train
+4,ESP,Spain,BFA,Burkina Faso,2015,train
+4,ESP,Spain,BFA,Burkina Faso,2016,train
+4,ESP,Spain,BFA,Burkina Faso,2017,train
+4,ESP,Spain,BFA,Burkina Faso,2018,train
+4,ESP,Spain,BFA,Burkina Faso,2019,train
+4,ESP,Spain,BFA,Burkina Faso,2020,train
+4,ESP,Spain,BFA,Burkina Faso,2021,train
+4,ESP,Spain,BFA,Burkina Faso,2022,train
+4,ESP,Spain,BFA,Burkina Faso,2023,train
+4,ESP,Spain,BFA,Burkina Faso,2024,train
+4,ESP,Spain,BGD,Bangladesh,2015,train
+4,ESP,Spain,BGD,Bangladesh,2016,train
+4,ESP,Spain,BGD,Bangladesh,2017,train
+4,ESP,Spain,BGD,Bangladesh,2018,train
+4,ESP,Spain,BGD,Bangladesh,2019,train
+4,ESP,Spain,BGD,Bangladesh,2020,train
+4,ESP,Spain,BGD,Bangladesh,2021,train
+4,ESP,Spain,BGD,Bangladesh,2022,train
+4,ESP,Spain,BGD,Bangladesh,2023,train
+4,ESP,Spain,BGD,Bangladesh,2024,train
+4,ESP,Spain,CRI,Costa Rica,2015,train
+4,ESP,Spain,CRI,Costa Rica,2016,train
+4,ESP,Spain,CRI,Costa Rica,2017,train
+4,ESP,Spain,CRI,Costa Rica,2018,train
+4,ESP,Spain,CRI,Costa Rica,2019,train
+4,ESP,Spain,CRI,Costa Rica,2020,train
+4,ESP,Spain,CRI,Costa Rica,2021,train
+4,ESP,Spain,CRI,Costa Rica,2022,train
+4,ESP,Spain,CRI,Costa Rica,2023,train
+4,ESP,Spain,CRI,Costa Rica,2024,train
+4,ESP,Spain,ESP,Spain,2015,test
+4,ESP,Spain,ESP,Spain,2016,test
+4,ESP,Spain,ESP,Spain,2017,test
+4,ESP,Spain,ESP,Spain,2018,test
+4,ESP,Spain,ESP,Spain,2019,test
+4,ESP,Spain,ESP,Spain,2020,test
+4,ESP,Spain,ESP,Spain,2021,test
+4,ESP,Spain,ESP,Spain,2022,test
+4,ESP,Spain,ESP,Spain,2023,test
+4,ESP,Spain,ESP,Spain,2024,test
+4,ESP,Spain,GEO,Georgia,2015,train
+4,ESP,Spain,GEO,Georgia,2016,train
+4,ESP,Spain,GEO,Georgia,2017,train
+4,ESP,Spain,GEO,Georgia,2018,train
+4,ESP,Spain,GEO,Georgia,2019,train
+4,ESP,Spain,GEO,Georgia,2020,train
+4,ESP,Spain,GEO,Georgia,2021,train
+4,ESP,Spain,GEO,Georgia,2022,train
+4,ESP,Spain,GEO,Georgia,2023,train
+4,ESP,Spain,GEO,Georgia,2024,train
+4,ESP,Spain,IDN,Indonesia,2015,train
+4,ESP,Spain,IDN,Indonesia,2016,train
+4,ESP,Spain,IDN,Indonesia,2017,train
+4,ESP,Spain,IDN,Indonesia,2018,train
+4,ESP,Spain,IDN,Indonesia,2019,train
+4,ESP,Spain,IDN,Indonesia,2020,train
+4,ESP,Spain,IDN,Indonesia,2021,train
+4,ESP,Spain,IDN,Indonesia,2022,train
+4,ESP,Spain,IDN,Indonesia,2023,train
+4,ESP,Spain,IDN,Indonesia,2024,train
+4,ESP,Spain,KGZ,Kyrgyz Republic,2015,train
+4,ESP,Spain,KGZ,Kyrgyz Republic,2016,train
+4,ESP,Spain,KGZ,Kyrgyz Republic,2017,train
+4,ESP,Spain,KGZ,Kyrgyz Republic,2018,train
+4,ESP,Spain,KGZ,Kyrgyz Republic,2019,train
+4,ESP,Spain,KGZ,Kyrgyz Republic,2020,train
+4,ESP,Spain,KGZ,Kyrgyz Republic,2021,train
+4,ESP,Spain,KGZ,Kyrgyz Republic,2022,train
+4,ESP,Spain,KGZ,Kyrgyz Republic,2023,train
+4,ESP,Spain,KGZ,Kyrgyz Republic,2024,train
+4,ESP,Spain,RWA,Rwanda,2015,train
+4,ESP,Spain,RWA,Rwanda,2016,train
+4,ESP,Spain,RWA,Rwanda,2017,train
+4,ESP,Spain,RWA,Rwanda,2018,train
+4,ESP,Spain,RWA,Rwanda,2019,train
+4,ESP,Spain,RWA,Rwanda,2020,train
+4,ESP,Spain,RWA,Rwanda,2021,train
+4,ESP,Spain,RWA,Rwanda,2022,train
+4,ESP,Spain,RWA,Rwanda,2023,train
+4,ESP,Spain,RWA,Rwanda,2024,train
+4,ESP,Spain,THA,Thailand,2015,train
+4,ESP,Spain,THA,Thailand,2016,train
+4,ESP,Spain,THA,Thailand,2017,train
+4,ESP,Spain,THA,Thailand,2018,train
+4,ESP,Spain,THA,Thailand,2019,train
+4,ESP,Spain,THA,Thailand,2020,train
+4,ESP,Spain,THA,Thailand,2021,train
+4,ESP,Spain,THA,Thailand,2022,train
+4,ESP,Spain,THA,Thailand,2023,train
+4,ESP,Spain,THA,Thailand,2024,train
+4,ESP,Spain,URY,Uruguay,2015,train
+4,ESP,Spain,URY,Uruguay,2016,train
+4,ESP,Spain,URY,Uruguay,2017,train
+4,ESP,Spain,URY,Uruguay,2018,train
+4,ESP,Spain,URY,Uruguay,2019,train
+4,ESP,Spain,URY,Uruguay,2020,train
+4,ESP,Spain,URY,Uruguay,2021,train
+4,ESP,Spain,URY,Uruguay,2022,train
+4,ESP,Spain,URY,Uruguay,2023,train
+4,ESP,Spain,URY,Uruguay,2024,train
+4,ESP,Spain,UZB,Uzbekistan,2015,train
+4,ESP,Spain,UZB,Uzbekistan,2016,train
+4,ESP,Spain,UZB,Uzbekistan,2017,train
+4,ESP,Spain,UZB,Uzbekistan,2018,train
+4,ESP,Spain,UZB,Uzbekistan,2019,train
+4,ESP,Spain,UZB,Uzbekistan,2020,train
+4,ESP,Spain,UZB,Uzbekistan,2021,train
+4,ESP,Spain,UZB,Uzbekistan,2022,train
+4,ESP,Spain,UZB,Uzbekistan,2023,train
+4,ESP,Spain,UZB,Uzbekistan,2024,train
+5,GEO,Georgia,BDI,Burundi,2015,train
+5,GEO,Georgia,BDI,Burundi,2016,train
+5,GEO,Georgia,BDI,Burundi,2017,train
+5,GEO,Georgia,BDI,Burundi,2018,train
+5,GEO,Georgia,BDI,Burundi,2019,train
+5,GEO,Georgia,BDI,Burundi,2020,train
+5,GEO,Georgia,BDI,Burundi,2021,train
+5,GEO,Georgia,BDI,Burundi,2022,train
+5,GEO,Georgia,BDI,Burundi,2023,train
+5,GEO,Georgia,BDI,Burundi,2024,train
+5,GEO,Georgia,BFA,Burkina Faso,2015,train
+5,GEO,Georgia,BFA,Burkina Faso,2016,train
+5,GEO,Georgia,BFA,Burkina Faso,2017,train
+5,GEO,Georgia,BFA,Burkina Faso,2018,train
+5,GEO,Georgia,BFA,Burkina Faso,2019,train
+5,GEO,Georgia,BFA,Burkina Faso,2020,train
+5,GEO,Georgia,BFA,Burkina Faso,2021,train
+5,GEO,Georgia,BFA,Burkina Faso,2022,train
+5,GEO,Georgia,BFA,Burkina Faso,2023,train
+5,GEO,Georgia,BFA,Burkina Faso,2024,train
+5,GEO,Georgia,BGD,Bangladesh,2015,train
+5,GEO,Georgia,BGD,Bangladesh,2016,train
+5,GEO,Georgia,BGD,Bangladesh,2017,train
+5,GEO,Georgia,BGD,Bangladesh,2018,train
+5,GEO,Georgia,BGD,Bangladesh,2019,train
+5,GEO,Georgia,BGD,Bangladesh,2020,train
+5,GEO,Georgia,BGD,Bangladesh,2021,train
+5,GEO,Georgia,BGD,Bangladesh,2022,train
+5,GEO,Georgia,BGD,Bangladesh,2023,train
+5,GEO,Georgia,BGD,Bangladesh,2024,train
+5,GEO,Georgia,CRI,Costa Rica,2015,train
+5,GEO,Georgia,CRI,Costa Rica,2016,train
+5,GEO,Georgia,CRI,Costa Rica,2017,train
+5,GEO,Georgia,CRI,Costa Rica,2018,train
+5,GEO,Georgia,CRI,Costa Rica,2019,train
+5,GEO,Georgia,CRI,Costa Rica,2020,train
+5,GEO,Georgia,CRI,Costa Rica,2021,train
+5,GEO,Georgia,CRI,Costa Rica,2022,train
+5,GEO,Georgia,CRI,Costa Rica,2023,train
+5,GEO,Georgia,CRI,Costa Rica,2024,train
+5,GEO,Georgia,ESP,Spain,2015,train
+5,GEO,Georgia,ESP,Spain,2016,train
+5,GEO,Georgia,ESP,Spain,2017,train
+5,GEO,Georgia,ESP,Spain,2018,train
+5,GEO,Georgia,ESP,Spain,2019,train
+5,GEO,Georgia,ESP,Spain,2020,train
+5,GEO,Georgia,ESP,Spain,2021,train
+5,GEO,Georgia,ESP,Spain,2022,train
+5,GEO,Georgia,ESP,Spain,2023,train
+5,GEO,Georgia,ESP,Spain,2024,train
+5,GEO,Georgia,GEO,Georgia,2015,test
+5,GEO,Georgia,GEO,Georgia,2016,test
+5,GEO,Georgia,GEO,Georgia,2017,test
+5,GEO,Georgia,GEO,Georgia,2018,test
+5,GEO,Georgia,GEO,Georgia,2019,test
+5,GEO,Georgia,GEO,Georgia,2020,test
+5,GEO,Georgia,GEO,Georgia,2021,test
+5,GEO,Georgia,GEO,Georgia,2022,test
+5,GEO,Georgia,GEO,Georgia,2023,test
+5,GEO,Georgia,GEO,Georgia,2024,test
+5,GEO,Georgia,IDN,Indonesia,2015,train
+5,GEO,Georgia,IDN,Indonesia,2016,train
+5,GEO,Georgia,IDN,Indonesia,2017,train
+5,GEO,Georgia,IDN,Indonesia,2018,train
+5,GEO,Georgia,IDN,Indonesia,2019,train
+5,GEO,Georgia,IDN,Indonesia,2020,train
+5,GEO,Georgia,IDN,Indonesia,2021,train
+5,GEO,Georgia,IDN,Indonesia,2022,train
+5,GEO,Georgia,IDN,Indonesia,2023,train
+5,GEO,Georgia,IDN,Indonesia,2024,train
+5,GEO,Georgia,KGZ,Kyrgyz Republic,2015,train
+5,GEO,Georgia,KGZ,Kyrgyz Republic,2016,train
+5,GEO,Georgia,KGZ,Kyrgyz Republic,2017,train
+5,GEO,Georgia,KGZ,Kyrgyz Republic,2018,train
+5,GEO,Georgia,KGZ,Kyrgyz Republic,2019,train
+5,GEO,Georgia,KGZ,Kyrgyz Republic,2020,train
+5,GEO,Georgia,KGZ,Kyrgyz Republic,2021,train
+5,GEO,Georgia,KGZ,Kyrgyz Republic,2022,train
+5,GEO,Georgia,KGZ,Kyrgyz Republic,2023,train
+5,GEO,Georgia,KGZ,Kyrgyz Republic,2024,train
+5,GEO,Georgia,RWA,Rwanda,2015,train
+5,GEO,Georgia,RWA,Rwanda,2016,train
+5,GEO,Georgia,RWA,Rwanda,2017,train
+5,GEO,Georgia,RWA,Rwanda,2018,train
+5,GEO,Georgia,RWA,Rwanda,2019,train
+5,GEO,Georgia,RWA,Rwanda,2020,train
+5,GEO,Georgia,RWA,Rwanda,2021,train
+5,GEO,Georgia,RWA,Rwanda,2022,train
+5,GEO,Georgia,RWA,Rwanda,2023,train
+5,GEO,Georgia,RWA,Rwanda,2024,train
+5,GEO,Georgia,THA,Thailand,2015,train
+5,GEO,Georgia,THA,Thailand,2016,train
+5,GEO,Georgia,THA,Thailand,2017,train
+5,GEO,Georgia,THA,Thailand,2018,train
+5,GEO,Georgia,THA,Thailand,2019,train
+5,GEO,Georgia,THA,Thailand,2020,train
+5,GEO,Georgia,THA,Thailand,2021,train
+5,GEO,Georgia,THA,Thailand,2022,train
+5,GEO,Georgia,THA,Thailand,2023,train
+5,GEO,Georgia,THA,Thailand,2024,train
+5,GEO,Georgia,URY,Uruguay,2015,train
+5,GEO,Georgia,URY,Uruguay,2016,train
+5,GEO,Georgia,URY,Uruguay,2017,train
+5,GEO,Georgia,URY,Uruguay,2018,train
+5,GEO,Georgia,URY,Uruguay,2019,train
+5,GEO,Georgia,URY,Uruguay,2020,train
+5,GEO,Georgia,URY,Uruguay,2021,train
+5,GEO,Georgia,URY,Uruguay,2022,train
+5,GEO,Georgia,URY,Uruguay,2023,train
+5,GEO,Georgia,URY,Uruguay,2024,train
+5,GEO,Georgia,UZB,Uzbekistan,2015,train
+5,GEO,Georgia,UZB,Uzbekistan,2016,train
+5,GEO,Georgia,UZB,Uzbekistan,2017,train
+5,GEO,Georgia,UZB,Uzbekistan,2018,train
+5,GEO,Georgia,UZB,Uzbekistan,2019,train
+5,GEO,Georgia,UZB,Uzbekistan,2020,train
+5,GEO,Georgia,UZB,Uzbekistan,2021,train
+5,GEO,Georgia,UZB,Uzbekistan,2022,train
+5,GEO,Georgia,UZB,Uzbekistan,2023,train
+5,GEO,Georgia,UZB,Uzbekistan,2024,train
+6,IDN,Indonesia,BDI,Burundi,2015,train
+6,IDN,Indonesia,BDI,Burundi,2016,train
+6,IDN,Indonesia,BDI,Burundi,2017,train
+6,IDN,Indonesia,BDI,Burundi,2018,train
+6,IDN,Indonesia,BDI,Burundi,2019,train
+6,IDN,Indonesia,BDI,Burundi,2020,train
+6,IDN,Indonesia,BDI,Burundi,2021,train
+6,IDN,Indonesia,BDI,Burundi,2022,train
+6,IDN,Indonesia,BDI,Burundi,2023,train
+6,IDN,Indonesia,BDI,Burundi,2024,train
+6,IDN,Indonesia,BFA,Burkina Faso,2015,train
+6,IDN,Indonesia,BFA,Burkina Faso,2016,train
+6,IDN,Indonesia,BFA,Burkina Faso,2017,train
+6,IDN,Indonesia,BFA,Burkina Faso,2018,train
+6,IDN,Indonesia,BFA,Burkina Faso,2019,train
+6,IDN,Indonesia,BFA,Burkina Faso,2020,train
+6,IDN,Indonesia,BFA,Burkina Faso,2021,train
+6,IDN,Indonesia,BFA,Burkina Faso,2022,train
+6,IDN,Indonesia,BFA,Burkina Faso,2023,train
+6,IDN,Indonesia,BFA,Burkina Faso,2024,train
+6,IDN,Indonesia,BGD,Bangladesh,2015,train
+6,IDN,Indonesia,BGD,Bangladesh,2016,train
+6,IDN,Indonesia,BGD,Bangladesh,2017,train
+6,IDN,Indonesia,BGD,Bangladesh,2018,train
+6,IDN,Indonesia,BGD,Bangladesh,2019,train
+6,IDN,Indonesia,BGD,Bangladesh,2020,train
+6,IDN,Indonesia,BGD,Bangladesh,2021,train
+6,IDN,Indonesia,BGD,Bangladesh,2022,train
+6,IDN,Indonesia,BGD,Bangladesh,2023,train
+6,IDN,Indonesia,BGD,Bangladesh,2024,train
+6,IDN,Indonesia,CRI,Costa Rica,2015,train
+6,IDN,Indonesia,CRI,Costa Rica,2016,train
+6,IDN,Indonesia,CRI,Costa Rica,2017,train
+6,IDN,Indonesia,CRI,Costa Rica,2018,train
+6,IDN,Indonesia,CRI,Costa Rica,2019,train
+6,IDN,Indonesia,CRI,Costa Rica,2020,train
+6,IDN,Indonesia,CRI,Costa Rica,2021,train
+6,IDN,Indonesia,CRI,Costa Rica,2022,train
+6,IDN,Indonesia,CRI,Costa Rica,2023,train
+6,IDN,Indonesia,CRI,Costa Rica,2024,train
+6,IDN,Indonesia,ESP,Spain,2015,train
+6,IDN,Indonesia,ESP,Spain,2016,train
+6,IDN,Indonesia,ESP,Spain,2017,train
+6,IDN,Indonesia,ESP,Spain,2018,train
+6,IDN,Indonesia,ESP,Spain,2019,train
+6,IDN,Indonesia,ESP,Spain,2020,train
+6,IDN,Indonesia,ESP,Spain,2021,train
+6,IDN,Indonesia,ESP,Spain,2022,train
+6,IDN,Indonesia,ESP,Spain,2023,train
+6,IDN,Indonesia,ESP,Spain,2024,train
+6,IDN,Indonesia,GEO,Georgia,2015,train
+6,IDN,Indonesia,GEO,Georgia,2016,train
+6,IDN,Indonesia,GEO,Georgia,2017,train
+6,IDN,Indonesia,GEO,Georgia,2018,train
+6,IDN,Indonesia,GEO,Georgia,2019,train
+6,IDN,Indonesia,GEO,Georgia,2020,train
+6,IDN,Indonesia,GEO,Georgia,2021,train
+6,IDN,Indonesia,GEO,Georgia,2022,train
+6,IDN,Indonesia,GEO,Georgia,2023,train
+6,IDN,Indonesia,GEO,Georgia,2024,train
+6,IDN,Indonesia,IDN,Indonesia,2015,test
+6,IDN,Indonesia,IDN,Indonesia,2016,test
+6,IDN,Indonesia,IDN,Indonesia,2017,test
+6,IDN,Indonesia,IDN,Indonesia,2018,test
+6,IDN,Indonesia,IDN,Indonesia,2019,test
+6,IDN,Indonesia,IDN,Indonesia,2020,test
+6,IDN,Indonesia,IDN,Indonesia,2021,test
+6,IDN,Indonesia,IDN,Indonesia,2022,test
+6,IDN,Indonesia,IDN,Indonesia,2023,test
+6,IDN,Indonesia,IDN,Indonesia,2024,test
+6,IDN,Indonesia,KGZ,Kyrgyz Republic,2015,train
+6,IDN,Indonesia,KGZ,Kyrgyz Republic,2016,train
+6,IDN,Indonesia,KGZ,Kyrgyz Republic,2017,train
+6,IDN,Indonesia,KGZ,Kyrgyz Republic,2018,train
+6,IDN,Indonesia,KGZ,Kyrgyz Republic,2019,train
+6,IDN,Indonesia,KGZ,Kyrgyz Republic,2020,train
+6,IDN,Indonesia,KGZ,Kyrgyz Republic,2021,train
+6,IDN,Indonesia,KGZ,Kyrgyz Republic,2022,train
+6,IDN,Indonesia,KGZ,Kyrgyz Republic,2023,train
+6,IDN,Indonesia,KGZ,Kyrgyz Republic,2024,train
+6,IDN,Indonesia,RWA,Rwanda,2015,train
+6,IDN,Indonesia,RWA,Rwanda,2016,train
+6,IDN,Indonesia,RWA,Rwanda,2017,train
+6,IDN,Indonesia,RWA,Rwanda,2018,train
+6,IDN,Indonesia,RWA,Rwanda,2019,train
+6,IDN,Indonesia,RWA,Rwanda,2020,train
+6,IDN,Indonesia,RWA,Rwanda,2021,train
+6,IDN,Indonesia,RWA,Rwanda,2022,train
+6,IDN,Indonesia,RWA,Rwanda,2023,train
+6,IDN,Indonesia,RWA,Rwanda,2024,train
+6,IDN,Indonesia,THA,Thailand,2015,train
+6,IDN,Indonesia,THA,Thailand,2016,train
+6,IDN,Indonesia,THA,Thailand,2017,train
+6,IDN,Indonesia,THA,Thailand,2018,train
+6,IDN,Indonesia,THA,Thailand,2019,train
+6,IDN,Indonesia,THA,Thailand,2020,train
+6,IDN,Indonesia,THA,Thailand,2021,train
+6,IDN,Indonesia,THA,Thailand,2022,train
+6,IDN,Indonesia,THA,Thailand,2023,train
+6,IDN,Indonesia,THA,Thailand,2024,train
+6,IDN,Indonesia,URY,Uruguay,2015,train
+6,IDN,Indonesia,URY,Uruguay,2016,train
+6,IDN,Indonesia,URY,Uruguay,2017,train
+6,IDN,Indonesia,URY,Uruguay,2018,train
+6,IDN,Indonesia,URY,Uruguay,2019,train
+6,IDN,Indonesia,URY,Uruguay,2020,train
+6,IDN,Indonesia,URY,Uruguay,2021,train
+6,IDN,Indonesia,URY,Uruguay,2022,train
+6,IDN,Indonesia,URY,Uruguay,2023,train
+6,IDN,Indonesia,URY,Uruguay,2024,train
+6,IDN,Indonesia,UZB,Uzbekistan,2015,train
+6,IDN,Indonesia,UZB,Uzbekistan,2016,train
+6,IDN,Indonesia,UZB,Uzbekistan,2017,train
+6,IDN,Indonesia,UZB,Uzbekistan,2018,train
+6,IDN,Indonesia,UZB,Uzbekistan,2019,train
+6,IDN,Indonesia,UZB,Uzbekistan,2020,train
+6,IDN,Indonesia,UZB,Uzbekistan,2021,train
+6,IDN,Indonesia,UZB,Uzbekistan,2022,train
+6,IDN,Indonesia,UZB,Uzbekistan,2023,train
+6,IDN,Indonesia,UZB,Uzbekistan,2024,train
+7,KGZ,Kyrgyz Republic,BDI,Burundi,2015,train
+7,KGZ,Kyrgyz Republic,BDI,Burundi,2016,train
+7,KGZ,Kyrgyz Republic,BDI,Burundi,2017,train
+7,KGZ,Kyrgyz Republic,BDI,Burundi,2018,train
+7,KGZ,Kyrgyz Republic,BDI,Burundi,2019,train
+7,KGZ,Kyrgyz Republic,BDI,Burundi,2020,train
+7,KGZ,Kyrgyz Republic,BDI,Burundi,2021,train
+7,KGZ,Kyrgyz Republic,BDI,Burundi,2022,train
+7,KGZ,Kyrgyz Republic,BDI,Burundi,2023,train
+7,KGZ,Kyrgyz Republic,BDI,Burundi,2024,train
+7,KGZ,Kyrgyz Republic,BFA,Burkina Faso,2015,train
+7,KGZ,Kyrgyz Republic,BFA,Burkina Faso,2016,train
+7,KGZ,Kyrgyz Republic,BFA,Burkina Faso,2017,train
+7,KGZ,Kyrgyz Republic,BFA,Burkina Faso,2018,train
+7,KGZ,Kyrgyz Republic,BFA,Burkina Faso,2019,train
+7,KGZ,Kyrgyz Republic,BFA,Burkina Faso,2020,train
+7,KGZ,Kyrgyz Republic,BFA,Burkina Faso,2021,train
+7,KGZ,Kyrgyz Republic,BFA,Burkina Faso,2022,train
+7,KGZ,Kyrgyz Republic,BFA,Burkina Faso,2023,train
+7,KGZ,Kyrgyz Republic,BFA,Burkina Faso,2024,train
+7,KGZ,Kyrgyz Republic,BGD,Bangladesh,2015,train
+7,KGZ,Kyrgyz Republic,BGD,Bangladesh,2016,train
+7,KGZ,Kyrgyz Republic,BGD,Bangladesh,2017,train
+7,KGZ,Kyrgyz Republic,BGD,Bangladesh,2018,train
+7,KGZ,Kyrgyz Republic,BGD,Bangladesh,2019,train
+7,KGZ,Kyrgyz Republic,BGD,Bangladesh,2020,train
+7,KGZ,Kyrgyz Republic,BGD,Bangladesh,2021,train
+7,KGZ,Kyrgyz Republic,BGD,Bangladesh,2022,train
+7,KGZ,Kyrgyz Republic,BGD,Bangladesh,2023,train
+7,KGZ,Kyrgyz Republic,BGD,Bangladesh,2024,train
+7,KGZ,Kyrgyz Republic,CRI,Costa Rica,2015,train
+7,KGZ,Kyrgyz Republic,CRI,Costa Rica,2016,train
+7,KGZ,Kyrgyz Republic,CRI,Costa Rica,2017,train
+7,KGZ,Kyrgyz Republic,CRI,Costa Rica,2018,train
+7,KGZ,Kyrgyz Republic,CRI,Costa Rica,2019,train
+7,KGZ,Kyrgyz Republic,CRI,Costa Rica,2020,train
+7,KGZ,Kyrgyz Republic,CRI,Costa Rica,2021,train
+7,KGZ,Kyrgyz Republic,CRI,Costa Rica,2022,train
+7,KGZ,Kyrgyz Republic,CRI,Costa Rica,2023,train
+7,KGZ,Kyrgyz Republic,CRI,Costa Rica,2024,train
+7,KGZ,Kyrgyz Republic,ESP,Spain,2015,train
+7,KGZ,Kyrgyz Republic,ESP,Spain,2016,train
+7,KGZ,Kyrgyz Republic,ESP,Spain,2017,train
+7,KGZ,Kyrgyz Republic,ESP,Spain,2018,train
+7,KGZ,Kyrgyz Republic,ESP,Spain,2019,train
+7,KGZ,Kyrgyz Republic,ESP,Spain,2020,train
+7,KGZ,Kyrgyz Republic,ESP,Spain,2021,train
+7,KGZ,Kyrgyz Republic,ESP,Spain,2022,train
+7,KGZ,Kyrgyz Republic,ESP,Spain,2023,train
+7,KGZ,Kyrgyz Republic,ESP,Spain,2024,train
+7,KGZ,Kyrgyz Republic,GEO,Georgia,2015,train
+7,KGZ,Kyrgyz Republic,GEO,Georgia,2016,train
+7,KGZ,Kyrgyz Republic,GEO,Georgia,2017,train
+7,KGZ,Kyrgyz Republic,GEO,Georgia,2018,train
+7,KGZ,Kyrgyz Republic,GEO,Georgia,2019,train
+7,KGZ,Kyrgyz Republic,GEO,Georgia,2020,train
+7,KGZ,Kyrgyz Republic,GEO,Georgia,2021,train
+7,KGZ,Kyrgyz Republic,GEO,Georgia,2022,train
+7,KGZ,Kyrgyz Republic,GEO,Georgia,2023,train
+7,KGZ,Kyrgyz Republic,GEO,Georgia,2024,train
+7,KGZ,Kyrgyz Republic,IDN,Indonesia,2015,train
+7,KGZ,Kyrgyz Republic,IDN,Indonesia,2016,train
+7,KGZ,Kyrgyz Republic,IDN,Indonesia,2017,train
+7,KGZ,Kyrgyz Republic,IDN,Indonesia,2018,train
+7,KGZ,Kyrgyz Republic,IDN,Indonesia,2019,train
+7,KGZ,Kyrgyz Republic,IDN,Indonesia,2020,train
+7,KGZ,Kyrgyz Republic,IDN,Indonesia,2021,train
+7,KGZ,Kyrgyz Republic,IDN,Indonesia,2022,train
+7,KGZ,Kyrgyz Republic,IDN,Indonesia,2023,train
+7,KGZ,Kyrgyz Republic,IDN,Indonesia,2024,train
+7,KGZ,Kyrgyz Republic,KGZ,Kyrgyz Republic,2015,test
+7,KGZ,Kyrgyz Republic,KGZ,Kyrgyz Republic,2016,test
+7,KGZ,Kyrgyz Republic,KGZ,Kyrgyz Republic,2017,test
+7,KGZ,Kyrgyz Republic,KGZ,Kyrgyz Republic,2018,test
+7,KGZ,Kyrgyz Republic,KGZ,Kyrgyz Republic,2019,test
+7,KGZ,Kyrgyz Republic,KGZ,Kyrgyz Republic,2020,test
+7,KGZ,Kyrgyz Republic,KGZ,Kyrgyz Republic,2021,test
+7,KGZ,Kyrgyz Republic,KGZ,Kyrgyz Republic,2022,test
+7,KGZ,Kyrgyz Republic,KGZ,Kyrgyz Republic,2023,test
+7,KGZ,Kyrgyz Republic,KGZ,Kyrgyz Republic,2024,test
+7,KGZ,Kyrgyz Republic,RWA,Rwanda,2015,train
+7,KGZ,Kyrgyz Republic,RWA,Rwanda,2016,train
+7,KGZ,Kyrgyz Republic,RWA,Rwanda,2017,train
+7,KGZ,Kyrgyz Republic,RWA,Rwanda,2018,train
+7,KGZ,Kyrgyz Republic,RWA,Rwanda,2019,train
+7,KGZ,Kyrgyz Republic,RWA,Rwanda,2020,train
+7,KGZ,Kyrgyz Republic,RWA,Rwanda,2021,train
+7,KGZ,Kyrgyz Republic,RWA,Rwanda,2022,train
+7,KGZ,Kyrgyz Republic,RWA,Rwanda,2023,train
+7,KGZ,Kyrgyz Republic,RWA,Rwanda,2024,train
+7,KGZ,Kyrgyz Republic,THA,Thailand,2015,train
+7,KGZ,Kyrgyz Republic,THA,Thailand,2016,train
+7,KGZ,Kyrgyz Republic,THA,Thailand,2017,train
+7,KGZ,Kyrgyz Republic,THA,Thailand,2018,train
+7,KGZ,Kyrgyz Republic,THA,Thailand,2019,train
+7,KGZ,Kyrgyz Republic,THA,Thailand,2020,train
+7,KGZ,Kyrgyz Republic,THA,Thailand,2021,train
+7,KGZ,Kyrgyz Republic,THA,Thailand,2022,train
+7,KGZ,Kyrgyz Republic,THA,Thailand,2023,train
+7,KGZ,Kyrgyz Republic,THA,Thailand,2024,train
+7,KGZ,Kyrgyz Republic,URY,Uruguay,2015,train
+7,KGZ,Kyrgyz Republic,URY,Uruguay,2016,train
+7,KGZ,Kyrgyz Republic,URY,Uruguay,2017,train
+7,KGZ,Kyrgyz Republic,URY,Uruguay,2018,train
+7,KGZ,Kyrgyz Republic,URY,Uruguay,2019,train
+7,KGZ,Kyrgyz Republic,URY,Uruguay,2020,train
+7,KGZ,Kyrgyz Republic,URY,Uruguay,2021,train
+7,KGZ,Kyrgyz Republic,URY,Uruguay,2022,train
+7,KGZ,Kyrgyz Republic,URY,Uruguay,2023,train
+7,KGZ,Kyrgyz Republic,URY,Uruguay,2024,train
+7,KGZ,Kyrgyz Republic,UZB,Uzbekistan,2015,train
+7,KGZ,Kyrgyz Republic,UZB,Uzbekistan,2016,train
+7,KGZ,Kyrgyz Republic,UZB,Uzbekistan,2017,train
+7,KGZ,Kyrgyz Republic,UZB,Uzbekistan,2018,train
+7,KGZ,Kyrgyz Republic,UZB,Uzbekistan,2019,train
+7,KGZ,Kyrgyz Republic,UZB,Uzbekistan,2020,train
+7,KGZ,Kyrgyz Republic,UZB,Uzbekistan,2021,train
+7,KGZ,Kyrgyz Republic,UZB,Uzbekistan,2022,train
+7,KGZ,Kyrgyz Republic,UZB,Uzbekistan,2023,train
+7,KGZ,Kyrgyz Republic,UZB,Uzbekistan,2024,train
+8,RWA,Rwanda,BDI,Burundi,2015,train
+8,RWA,Rwanda,BDI,Burundi,2016,train
+8,RWA,Rwanda,BDI,Burundi,2017,train
+8,RWA,Rwanda,BDI,Burundi,2018,train
+8,RWA,Rwanda,BDI,Burundi,2019,train
+8,RWA,Rwanda,BDI,Burundi,2020,train
+8,RWA,Rwanda,BDI,Burundi,2021,train
+8,RWA,Rwanda,BDI,Burundi,2022,train
+8,RWA,Rwanda,BDI,Burundi,2023,train
+8,RWA,Rwanda,BDI,Burundi,2024,train
+8,RWA,Rwanda,BFA,Burkina Faso,2015,train
+8,RWA,Rwanda,BFA,Burkina Faso,2016,train
+8,RWA,Rwanda,BFA,Burkina Faso,2017,train
+8,RWA,Rwanda,BFA,Burkina Faso,2018,train
+8,RWA,Rwanda,BFA,Burkina Faso,2019,train
+8,RWA,Rwanda,BFA,Burkina Faso,2020,train
+8,RWA,Rwanda,BFA,Burkina Faso,2021,train
+8,RWA,Rwanda,BFA,Burkina Faso,2022,train
+8,RWA,Rwanda,BFA,Burkina Faso,2023,train
+8,RWA,Rwanda,BFA,Burkina Faso,2024,train
+8,RWA,Rwanda,BGD,Bangladesh,2015,train
+8,RWA,Rwanda,BGD,Bangladesh,2016,train
+8,RWA,Rwanda,BGD,Bangladesh,2017,train
+8,RWA,Rwanda,BGD,Bangladesh,2018,train
+8,RWA,Rwanda,BGD,Bangladesh,2019,train
+8,RWA,Rwanda,BGD,Bangladesh,2020,train
+8,RWA,Rwanda,BGD,Bangladesh,2021,train
+8,RWA,Rwanda,BGD,Bangladesh,2022,train
+8,RWA,Rwanda,BGD,Bangladesh,2023,train
+8,RWA,Rwanda,BGD,Bangladesh,2024,train
+8,RWA,Rwanda,CRI,Costa Rica,2015,train
+8,RWA,Rwanda,CRI,Costa Rica,2016,train
+8,RWA,Rwanda,CRI,Costa Rica,2017,train
+8,RWA,Rwanda,CRI,Costa Rica,2018,train
+8,RWA,Rwanda,CRI,Costa Rica,2019,train
+8,RWA,Rwanda,CRI,Costa Rica,2020,train
+8,RWA,Rwanda,CRI,Costa Rica,2021,train
+8,RWA,Rwanda,CRI,Costa Rica,2022,train
+8,RWA,Rwanda,CRI,Costa Rica,2023,train
+8,RWA,Rwanda,CRI,Costa Rica,2024,train
+8,RWA,Rwanda,ESP,Spain,2015,train
+8,RWA,Rwanda,ESP,Spain,2016,train
+8,RWA,Rwanda,ESP,Spain,2017,train
+8,RWA,Rwanda,ESP,Spain,2018,train
+8,RWA,Rwanda,ESP,Spain,2019,train
+8,RWA,Rwanda,ESP,Spain,2020,train
+8,RWA,Rwanda,ESP,Spain,2021,train
+8,RWA,Rwanda,ESP,Spain,2022,train
+8,RWA,Rwanda,ESP,Spain,2023,train
+8,RWA,Rwanda,ESP,Spain,2024,train
+8,RWA,Rwanda,GEO,Georgia,2015,train
+8,RWA,Rwanda,GEO,Georgia,2016,train
+8,RWA,Rwanda,GEO,Georgia,2017,train
+8,RWA,Rwanda,GEO,Georgia,2018,train
+8,RWA,Rwanda,GEO,Georgia,2019,train
+8,RWA,Rwanda,GEO,Georgia,2020,train
+8,RWA,Rwanda,GEO,Georgia,2021,train
+8,RWA,Rwanda,GEO,Georgia,2022,train
+8,RWA,Rwanda,GEO,Georgia,2023,train
+8,RWA,Rwanda,GEO,Georgia,2024,train
+8,RWA,Rwanda,IDN,Indonesia,2015,train
+8,RWA,Rwanda,IDN,Indonesia,2016,train
+8,RWA,Rwanda,IDN,Indonesia,2017,train
+8,RWA,Rwanda,IDN,Indonesia,2018,train
+8,RWA,Rwanda,IDN,Indonesia,2019,train
+8,RWA,Rwanda,IDN,Indonesia,2020,train
+8,RWA,Rwanda,IDN,Indonesia,2021,train
+8,RWA,Rwanda,IDN,Indonesia,2022,train
+8,RWA,Rwanda,IDN,Indonesia,2023,train
+8,RWA,Rwanda,IDN,Indonesia,2024,train
+8,RWA,Rwanda,KGZ,Kyrgyz Republic,2015,train
+8,RWA,Rwanda,KGZ,Kyrgyz Republic,2016,train
+8,RWA,Rwanda,KGZ,Kyrgyz Republic,2017,train
+8,RWA,Rwanda,KGZ,Kyrgyz Republic,2018,train
+8,RWA,Rwanda,KGZ,Kyrgyz Republic,2019,train
+8,RWA,Rwanda,KGZ,Kyrgyz Republic,2020,train
+8,RWA,Rwanda,KGZ,Kyrgyz Republic,2021,train
+8,RWA,Rwanda,KGZ,Kyrgyz Republic,2022,train
+8,RWA,Rwanda,KGZ,Kyrgyz Republic,2023,train
+8,RWA,Rwanda,KGZ,Kyrgyz Republic,2024,train
+8,RWA,Rwanda,RWA,Rwanda,2015,test
+8,RWA,Rwanda,RWA,Rwanda,2016,test
+8,RWA,Rwanda,RWA,Rwanda,2017,test
+8,RWA,Rwanda,RWA,Rwanda,2018,test
+8,RWA,Rwanda,RWA,Rwanda,2019,test
+8,RWA,Rwanda,RWA,Rwanda,2020,test
+8,RWA,Rwanda,RWA,Rwanda,2021,test
+8,RWA,Rwanda,RWA,Rwanda,2022,test
+8,RWA,Rwanda,RWA,Rwanda,2023,test
+8,RWA,Rwanda,RWA,Rwanda,2024,test
+8,RWA,Rwanda,THA,Thailand,2015,train
+8,RWA,Rwanda,THA,Thailand,2016,train
+8,RWA,Rwanda,THA,Thailand,2017,train
+8,RWA,Rwanda,THA,Thailand,2018,train
+8,RWA,Rwanda,THA,Thailand,2019,train
+8,RWA,Rwanda,THA,Thailand,2020,train
+8,RWA,Rwanda,THA,Thailand,2021,train
+8,RWA,Rwanda,THA,Thailand,2022,train
+8,RWA,Rwanda,THA,Thailand,2023,train
+8,RWA,Rwanda,THA,Thailand,2024,train
+8,RWA,Rwanda,URY,Uruguay,2015,train
+8,RWA,Rwanda,URY,Uruguay,2016,train
+8,RWA,Rwanda,URY,Uruguay,2017,train
+8,RWA,Rwanda,URY,Uruguay,2018,train
+8,RWA,Rwanda,URY,Uruguay,2019,train
+8,RWA,Rwanda,URY,Uruguay,2020,train
+8,RWA,Rwanda,URY,Uruguay,2021,train
+8,RWA,Rwanda,URY,Uruguay,2022,train
+8,RWA,Rwanda,URY,Uruguay,2023,train
+8,RWA,Rwanda,URY,Uruguay,2024,train
+8,RWA,Rwanda,UZB,Uzbekistan,2015,train
+8,RWA,Rwanda,UZB,Uzbekistan,2016,train
+8,RWA,Rwanda,UZB,Uzbekistan,2017,train
+8,RWA,Rwanda,UZB,Uzbekistan,2018,train
+8,RWA,Rwanda,UZB,Uzbekistan,2019,train
+8,RWA,Rwanda,UZB,Uzbekistan,2020,train
+8,RWA,Rwanda,UZB,Uzbekistan,2021,train
+8,RWA,Rwanda,UZB,Uzbekistan,2022,train
+8,RWA,Rwanda,UZB,Uzbekistan,2023,train
+8,RWA,Rwanda,UZB,Uzbekistan,2024,train
+9,THA,Thailand,BDI,Burundi,2015,train
+9,THA,Thailand,BDI,Burundi,2016,train
+9,THA,Thailand,BDI,Burundi,2017,train
+9,THA,Thailand,BDI,Burundi,2018,train
+9,THA,Thailand,BDI,Burundi,2019,train
+9,THA,Thailand,BDI,Burundi,2020,train
+9,THA,Thailand,BDI,Burundi,2021,train
+9,THA,Thailand,BDI,Burundi,2022,train
+9,THA,Thailand,BDI,Burundi,2023,train
+9,THA,Thailand,BDI,Burundi,2024,train
+9,THA,Thailand,BFA,Burkina Faso,2015,train
+9,THA,Thailand,BFA,Burkina Faso,2016,train
+9,THA,Thailand,BFA,Burkina Faso,2017,train
+9,THA,Thailand,BFA,Burkina Faso,2018,train
+9,THA,Thailand,BFA,Burkina Faso,2019,train
+9,THA,Thailand,BFA,Burkina Faso,2020,train
+9,THA,Thailand,BFA,Burkina Faso,2021,train
+9,THA,Thailand,BFA,Burkina Faso,2022,train
+9,THA,Thailand,BFA,Burkina Faso,2023,train
+9,THA,Thailand,BFA,Burkina Faso,2024,train
+9,THA,Thailand,BGD,Bangladesh,2015,train
+9,THA,Thailand,BGD,Bangladesh,2016,train
+9,THA,Thailand,BGD,Bangladesh,2017,train
+9,THA,Thailand,BGD,Bangladesh,2018,train
+9,THA,Thailand,BGD,Bangladesh,2019,train
+9,THA,Thailand,BGD,Bangladesh,2020,train
+9,THA,Thailand,BGD,Bangladesh,2021,train
+9,THA,Thailand,BGD,Bangladesh,2022,train
+9,THA,Thailand,BGD,Bangladesh,2023,train
+9,THA,Thailand,BGD,Bangladesh,2024,train
+9,THA,Thailand,CRI,Costa Rica,2015,train
+9,THA,Thailand,CRI,Costa Rica,2016,train
+9,THA,Thailand,CRI,Costa Rica,2017,train
+9,THA,Thailand,CRI,Costa Rica,2018,train
+9,THA,Thailand,CRI,Costa Rica,2019,train
+9,THA,Thailand,CRI,Costa Rica,2020,train
+9,THA,Thailand,CRI,Costa Rica,2021,train
+9,THA,Thailand,CRI,Costa Rica,2022,train
+9,THA,Thailand,CRI,Costa Rica,2023,train
+9,THA,Thailand,CRI,Costa Rica,2024,train
+9,THA,Thailand,ESP,Spain,2015,train
+9,THA,Thailand,ESP,Spain,2016,train
+9,THA,Thailand,ESP,Spain,2017,train
+9,THA,Thailand,ESP,Spain,2018,train
+9,THA,Thailand,ESP,Spain,2019,train
+9,THA,Thailand,ESP,Spain,2020,train
+9,THA,Thailand,ESP,Spain,2021,train
+9,THA,Thailand,ESP,Spain,2022,train
+9,THA,Thailand,ESP,Spain,2023,train
+9,THA,Thailand,ESP,Spain,2024,train
+9,THA,Thailand,GEO,Georgia,2015,train
+9,THA,Thailand,GEO,Georgia,2016,train
+9,THA,Thailand,GEO,Georgia,2017,train
+9,THA,Thailand,GEO,Georgia,2018,train
+9,THA,Thailand,GEO,Georgia,2019,train
+9,THA,Thailand,GEO,Georgia,2020,train
+9,THA,Thailand,GEO,Georgia,2021,train
+9,THA,Thailand,GEO,Georgia,2022,train
+9,THA,Thailand,GEO,Georgia,2023,train
+9,THA,Thailand,GEO,Georgia,2024,train
+9,THA,Thailand,IDN,Indonesia,2015,train
+9,THA,Thailand,IDN,Indonesia,2016,train
+9,THA,Thailand,IDN,Indonesia,2017,train
+9,THA,Thailand,IDN,Indonesia,2018,train
+9,THA,Thailand,IDN,Indonesia,2019,train
+9,THA,Thailand,IDN,Indonesia,2020,train
+9,THA,Thailand,IDN,Indonesia,2021,train
+9,THA,Thailand,IDN,Indonesia,2022,train
+9,THA,Thailand,IDN,Indonesia,2023,train
+9,THA,Thailand,IDN,Indonesia,2024,train
+9,THA,Thailand,KGZ,Kyrgyz Republic,2015,train
+9,THA,Thailand,KGZ,Kyrgyz Republic,2016,train
+9,THA,Thailand,KGZ,Kyrgyz Republic,2017,train
+9,THA,Thailand,KGZ,Kyrgyz Republic,2018,train
+9,THA,Thailand,KGZ,Kyrgyz Republic,2019,train
+9,THA,Thailand,KGZ,Kyrgyz Republic,2020,train
+9,THA,Thailand,KGZ,Kyrgyz Republic,2021,train
+9,THA,Thailand,KGZ,Kyrgyz Republic,2022,train
+9,THA,Thailand,KGZ,Kyrgyz Republic,2023,train
+9,THA,Thailand,KGZ,Kyrgyz Republic,2024,train
+9,THA,Thailand,RWA,Rwanda,2015,train
+9,THA,Thailand,RWA,Rwanda,2016,train
+9,THA,Thailand,RWA,Rwanda,2017,train
+9,THA,Thailand,RWA,Rwanda,2018,train
+9,THA,Thailand,RWA,Rwanda,2019,train
+9,THA,Thailand,RWA,Rwanda,2020,train
+9,THA,Thailand,RWA,Rwanda,2021,train
+9,THA,Thailand,RWA,Rwanda,2022,train
+9,THA,Thailand,RWA,Rwanda,2023,train
+9,THA,Thailand,RWA,Rwanda,2024,train
+9,THA,Thailand,THA,Thailand,2015,test
+9,THA,Thailand,THA,Thailand,2016,test
+9,THA,Thailand,THA,Thailand,2017,test
+9,THA,Thailand,THA,Thailand,2018,test
+9,THA,Thailand,THA,Thailand,2019,test
+9,THA,Thailand,THA,Thailand,2020,test
+9,THA,Thailand,THA,Thailand,2021,test
+9,THA,Thailand,THA,Thailand,2022,test
+9,THA,Thailand,THA,Thailand,2023,test
+9,THA,Thailand,THA,Thailand,2024,test
+9,THA,Thailand,URY,Uruguay,2015,train
+9,THA,Thailand,URY,Uruguay,2016,train
+9,THA,Thailand,URY,Uruguay,2017,train
+9,THA,Thailand,URY,Uruguay,2018,train
+9,THA,Thailand,URY,Uruguay,2019,train
+9,THA,Thailand,URY,Uruguay,2020,train
+9,THA,Thailand,URY,Uruguay,2021,train
+9,THA,Thailand,URY,Uruguay,2022,train
+9,THA,Thailand,URY,Uruguay,2023,train
+9,THA,Thailand,URY,Uruguay,2024,train
+9,THA,Thailand,UZB,Uzbekistan,2015,train
+9,THA,Thailand,UZB,Uzbekistan,2016,train
+9,THA,Thailand,UZB,Uzbekistan,2017,train
+9,THA,Thailand,UZB,Uzbekistan,2018,train
+9,THA,Thailand,UZB,Uzbekistan,2019,train
+9,THA,Thailand,UZB,Uzbekistan,2020,train
+9,THA,Thailand,UZB,Uzbekistan,2021,train
+9,THA,Thailand,UZB,Uzbekistan,2022,train
+9,THA,Thailand,UZB,Uzbekistan,2023,train
+9,THA,Thailand,UZB,Uzbekistan,2024,train
+10,URY,Uruguay,BDI,Burundi,2015,train
+10,URY,Uruguay,BDI,Burundi,2016,train
+10,URY,Uruguay,BDI,Burundi,2017,train
+10,URY,Uruguay,BDI,Burundi,2018,train
+10,URY,Uruguay,BDI,Burundi,2019,train
+10,URY,Uruguay,BDI,Burundi,2020,train
+10,URY,Uruguay,BDI,Burundi,2021,train
+10,URY,Uruguay,BDI,Burundi,2022,train
+10,URY,Uruguay,BDI,Burundi,2023,train
+10,URY,Uruguay,BDI,Burundi,2024,train
+10,URY,Uruguay,BFA,Burkina Faso,2015,train
+10,URY,Uruguay,BFA,Burkina Faso,2016,train
+10,URY,Uruguay,BFA,Burkina Faso,2017,train
+10,URY,Uruguay,BFA,Burkina Faso,2018,train
+10,URY,Uruguay,BFA,Burkina Faso,2019,train
+10,URY,Uruguay,BFA,Burkina Faso,2020,train
+10,URY,Uruguay,BFA,Burkina Faso,2021,train
+10,URY,Uruguay,BFA,Burkina Faso,2022,train
+10,URY,Uruguay,BFA,Burkina Faso,2023,train
+10,URY,Uruguay,BFA,Burkina Faso,2024,train
+10,URY,Uruguay,BGD,Bangladesh,2015,train
+10,URY,Uruguay,BGD,Bangladesh,2016,train
+10,URY,Uruguay,BGD,Bangladesh,2017,train
+10,URY,Uruguay,BGD,Bangladesh,2018,train
+10,URY,Uruguay,BGD,Bangladesh,2019,train
+10,URY,Uruguay,BGD,Bangladesh,2020,train
+10,URY,Uruguay,BGD,Bangladesh,2021,train
+10,URY,Uruguay,BGD,Bangladesh,2022,train
+10,URY,Uruguay,BGD,Bangladesh,2023,train
+10,URY,Uruguay,BGD,Bangladesh,2024,train
+10,URY,Uruguay,CRI,Costa Rica,2015,train
+10,URY,Uruguay,CRI,Costa Rica,2016,train
+10,URY,Uruguay,CRI,Costa Rica,2017,train
+10,URY,Uruguay,CRI,Costa Rica,2018,train
+10,URY,Uruguay,CRI,Costa Rica,2019,train
+10,URY,Uruguay,CRI,Costa Rica,2020,train
+10,URY,Uruguay,CRI,Costa Rica,2021,train
+10,URY,Uruguay,CRI,Costa Rica,2022,train
+10,URY,Uruguay,CRI,Costa Rica,2023,train
+10,URY,Uruguay,CRI,Costa Rica,2024,train
+10,URY,Uruguay,ESP,Spain,2015,train
+10,URY,Uruguay,ESP,Spain,2016,train
+10,URY,Uruguay,ESP,Spain,2017,train
+10,URY,Uruguay,ESP,Spain,2018,train
+10,URY,Uruguay,ESP,Spain,2019,train
+10,URY,Uruguay,ESP,Spain,2020,train
+10,URY,Uruguay,ESP,Spain,2021,train
+10,URY,Uruguay,ESP,Spain,2022,train
+10,URY,Uruguay,ESP,Spain,2023,train
+10,URY,Uruguay,ESP,Spain,2024,train
+10,URY,Uruguay,GEO,Georgia,2015,train
+10,URY,Uruguay,GEO,Georgia,2016,train
+10,URY,Uruguay,GEO,Georgia,2017,train
+10,URY,Uruguay,GEO,Georgia,2018,train
+10,URY,Uruguay,GEO,Georgia,2019,train
+10,URY,Uruguay,GEO,Georgia,2020,train
+10,URY,Uruguay,GEO,Georgia,2021,train
+10,URY,Uruguay,GEO,Georgia,2022,train
+10,URY,Uruguay,GEO,Georgia,2023,train
+10,URY,Uruguay,GEO,Georgia,2024,train
+10,URY,Uruguay,IDN,Indonesia,2015,train
+10,URY,Uruguay,IDN,Indonesia,2016,train
+10,URY,Uruguay,IDN,Indonesia,2017,train
+10,URY,Uruguay,IDN,Indonesia,2018,train
+10,URY,Uruguay,IDN,Indonesia,2019,train
+10,URY,Uruguay,IDN,Indonesia,2020,train
+10,URY,Uruguay,IDN,Indonesia,2021,train
+10,URY,Uruguay,IDN,Indonesia,2022,train
+10,URY,Uruguay,IDN,Indonesia,2023,train
+10,URY,Uruguay,IDN,Indonesia,2024,train
+10,URY,Uruguay,KGZ,Kyrgyz Republic,2015,train
+10,URY,Uruguay,KGZ,Kyrgyz Republic,2016,train
+10,URY,Uruguay,KGZ,Kyrgyz Republic,2017,train
+10,URY,Uruguay,KGZ,Kyrgyz Republic,2018,train
+10,URY,Uruguay,KGZ,Kyrgyz Republic,2019,train
+10,URY,Uruguay,KGZ,Kyrgyz Republic,2020,train
+10,URY,Uruguay,KGZ,Kyrgyz Republic,2021,train
+10,URY,Uruguay,KGZ,Kyrgyz Republic,2022,train
+10,URY,Uruguay,KGZ,Kyrgyz Republic,2023,train
+10,URY,Uruguay,KGZ,Kyrgyz Republic,2024,train
+10,URY,Uruguay,RWA,Rwanda,2015,train
+10,URY,Uruguay,RWA,Rwanda,2016,train
+10,URY,Uruguay,RWA,Rwanda,2017,train
+10,URY,Uruguay,RWA,Rwanda,2018,train
+10,URY,Uruguay,RWA,Rwanda,2019,train
+10,URY,Uruguay,RWA,Rwanda,2020,train
+10,URY,Uruguay,RWA,Rwanda,2021,train
+10,URY,Uruguay,RWA,Rwanda,2022,train
+10,URY,Uruguay,RWA,Rwanda,2023,train
+10,URY,Uruguay,RWA,Rwanda,2024,train
+10,URY,Uruguay,THA,Thailand,2015,train
+10,URY,Uruguay,THA,Thailand,2016,train
+10,URY,Uruguay,THA,Thailand,2017,train
+10,URY,Uruguay,THA,Thailand,2018,train
+10,URY,Uruguay,THA,Thailand,2019,train
+10,URY,Uruguay,THA,Thailand,2020,train
+10,URY,Uruguay,THA,Thailand,2021,train
+10,URY,Uruguay,THA,Thailand,2022,train
+10,URY,Uruguay,THA,Thailand,2023,train
+10,URY,Uruguay,THA,Thailand,2024,train
+10,URY,Uruguay,URY,Uruguay,2015,test
+10,URY,Uruguay,URY,Uruguay,2016,test
+10,URY,Uruguay,URY,Uruguay,2017,test
+10,URY,Uruguay,URY,Uruguay,2018,test
+10,URY,Uruguay,URY,Uruguay,2019,test
+10,URY,Uruguay,URY,Uruguay,2020,test
+10,URY,Uruguay,URY,Uruguay,2021,test
+10,URY,Uruguay,URY,Uruguay,2022,test
+10,URY,Uruguay,URY,Uruguay,2023,test
+10,URY,Uruguay,URY,Uruguay,2024,test
+10,URY,Uruguay,UZB,Uzbekistan,2015,train
+10,URY,Uruguay,UZB,Uzbekistan,2016,train
+10,URY,Uruguay,UZB,Uzbekistan,2017,train
+10,URY,Uruguay,UZB,Uzbekistan,2018,train
+10,URY,Uruguay,UZB,Uzbekistan,2019,train
+10,URY,Uruguay,UZB,Uzbekistan,2020,train
+10,URY,Uruguay,UZB,Uzbekistan,2021,train
+10,URY,Uruguay,UZB,Uzbekistan,2022,train
+10,URY,Uruguay,UZB,Uzbekistan,2023,train
+10,URY,Uruguay,UZB,Uzbekistan,2024,train
+11,UZB,Uzbekistan,BDI,Burundi,2015,train
+11,UZB,Uzbekistan,BDI,Burundi,2016,train
+11,UZB,Uzbekistan,BDI,Burundi,2017,train
+11,UZB,Uzbekistan,BDI,Burundi,2018,train
+11,UZB,Uzbekistan,BDI,Burundi,2019,train
+11,UZB,Uzbekistan,BDI,Burundi,2020,train
+11,UZB,Uzbekistan,BDI,Burundi,2021,train
+11,UZB,Uzbekistan,BDI,Burundi,2022,train
+11,UZB,Uzbekistan,BDI,Burundi,2023,train
+11,UZB,Uzbekistan,BDI,Burundi,2024,train
+11,UZB,Uzbekistan,BFA,Burkina Faso,2015,train
+11,UZB,Uzbekistan,BFA,Burkina Faso,2016,train
+11,UZB,Uzbekistan,BFA,Burkina Faso,2017,train
+11,UZB,Uzbekistan,BFA,Burkina Faso,2018,train
+11,UZB,Uzbekistan,BFA,Burkina Faso,2019,train
+11,UZB,Uzbekistan,BFA,Burkina Faso,2020,train
+11,UZB,Uzbekistan,BFA,Burkina Faso,2021,train
+11,UZB,Uzbekistan,BFA,Burkina Faso,2022,train
+11,UZB,Uzbekistan,BFA,Burkina Faso,2023,train
+11,UZB,Uzbekistan,BFA,Burkina Faso,2024,train
+11,UZB,Uzbekistan,BGD,Bangladesh,2015,train
+11,UZB,Uzbekistan,BGD,Bangladesh,2016,train
+11,UZB,Uzbekistan,BGD,Bangladesh,2017,train
+11,UZB,Uzbekistan,BGD,Bangladesh,2018,train
+11,UZB,Uzbekistan,BGD,Bangladesh,2019,train
+11,UZB,Uzbekistan,BGD,Bangladesh,2020,train
+11,UZB,Uzbekistan,BGD,Bangladesh,2021,train
+11,UZB,Uzbekistan,BGD,Bangladesh,2022,train
+11,UZB,Uzbekistan,BGD,Bangladesh,2023,train
+11,UZB,Uzbekistan,BGD,Bangladesh,2024,train
+11,UZB,Uzbekistan,CRI,Costa Rica,2015,train
+11,UZB,Uzbekistan,CRI,Costa Rica,2016,train
+11,UZB,Uzbekistan,CRI,Costa Rica,2017,train
+11,UZB,Uzbekistan,CRI,Costa Rica,2018,train
+11,UZB,Uzbekistan,CRI,Costa Rica,2019,train
+11,UZB,Uzbekistan,CRI,Costa Rica,2020,train
+11,UZB,Uzbekistan,CRI,Costa Rica,2021,train
+11,UZB,Uzbekistan,CRI,Costa Rica,2022,train
+11,UZB,Uzbekistan,CRI,Costa Rica,2023,train
+11,UZB,Uzbekistan,CRI,Costa Rica,2024,train
+11,UZB,Uzbekistan,ESP,Spain,2015,train
+11,UZB,Uzbekistan,ESP,Spain,2016,train
+11,UZB,Uzbekistan,ESP,Spain,2017,train
+11,UZB,Uzbekistan,ESP,Spain,2018,train
+11,UZB,Uzbekistan,ESP,Spain,2019,train
+11,UZB,Uzbekistan,ESP,Spain,2020,train
+11,UZB,Uzbekistan,ESP,Spain,2021,train
+11,UZB,Uzbekistan,ESP,Spain,2022,train
+11,UZB,Uzbekistan,ESP,Spain,2023,train
+11,UZB,Uzbekistan,ESP,Spain,2024,train
+11,UZB,Uzbekistan,GEO,Georgia,2015,train
+11,UZB,Uzbekistan,GEO,Georgia,2016,train
+11,UZB,Uzbekistan,GEO,Georgia,2017,train
+11,UZB,Uzbekistan,GEO,Georgia,2018,train
+11,UZB,Uzbekistan,GEO,Georgia,2019,train
+11,UZB,Uzbekistan,GEO,Georgia,2020,train
+11,UZB,Uzbekistan,GEO,Georgia,2021,train
+11,UZB,Uzbekistan,GEO,Georgia,2022,train
+11,UZB,Uzbekistan,GEO,Georgia,2023,train
+11,UZB,Uzbekistan,GEO,Georgia,2024,train
+11,UZB,Uzbekistan,IDN,Indonesia,2015,train
+11,UZB,Uzbekistan,IDN,Indonesia,2016,train
+11,UZB,Uzbekistan,IDN,Indonesia,2017,train
+11,UZB,Uzbekistan,IDN,Indonesia,2018,train
+11,UZB,Uzbekistan,IDN,Indonesia,2019,train
+11,UZB,Uzbekistan,IDN,Indonesia,2020,train
+11,UZB,Uzbekistan,IDN,Indonesia,2021,train
+11,UZB,Uzbekistan,IDN,Indonesia,2022,train
+11,UZB,Uzbekistan,IDN,Indonesia,2023,train
+11,UZB,Uzbekistan,IDN,Indonesia,2024,train
+11,UZB,Uzbekistan,KGZ,Kyrgyz Republic,2015,train
+11,UZB,Uzbekistan,KGZ,Kyrgyz Republic,2016,train
+11,UZB,Uzbekistan,KGZ,Kyrgyz Republic,2017,train
+11,UZB,Uzbekistan,KGZ,Kyrgyz Republic,2018,train
+11,UZB,Uzbekistan,KGZ,Kyrgyz Republic,2019,train
+11,UZB,Uzbekistan,KGZ,Kyrgyz Republic,2020,train
+11,UZB,Uzbekistan,KGZ,Kyrgyz Republic,2021,train
+11,UZB,Uzbekistan,KGZ,Kyrgyz Republic,2022,train
+11,UZB,Uzbekistan,KGZ,Kyrgyz Republic,2023,train
+11,UZB,Uzbekistan,KGZ,Kyrgyz Republic,2024,train
+11,UZB,Uzbekistan,RWA,Rwanda,2015,train
+11,UZB,Uzbekistan,RWA,Rwanda,2016,train
+11,UZB,Uzbekistan,RWA,Rwanda,2017,train
+11,UZB,Uzbekistan,RWA,Rwanda,2018,train
+11,UZB,Uzbekistan,RWA,Rwanda,2019,train
+11,UZB,Uzbekistan,RWA,Rwanda,2020,train
+11,UZB,Uzbekistan,RWA,Rwanda,2021,train
+11,UZB,Uzbekistan,RWA,Rwanda,2022,train
+11,UZB,Uzbekistan,RWA,Rwanda,2023,train
+11,UZB,Uzbekistan,RWA,Rwanda,2024,train
+11,UZB,Uzbekistan,THA,Thailand,2015,train
+11,UZB,Uzbekistan,THA,Thailand,2016,train
+11,UZB,Uzbekistan,THA,Thailand,2017,train
+11,UZB,Uzbekistan,THA,Thailand,2018,train
+11,UZB,Uzbekistan,THA,Thailand,2019,train
+11,UZB,Uzbekistan,THA,Thailand,2020,train
+11,UZB,Uzbekistan,THA,Thailand,2021,train
+11,UZB,Uzbekistan,THA,Thailand,2022,train
+11,UZB,Uzbekistan,THA,Thailand,2023,train
+11,UZB,Uzbekistan,THA,Thailand,2024,train
+11,UZB,Uzbekistan,URY,Uruguay,2015,train
+11,UZB,Uzbekistan,URY,Uruguay,2016,train
+11,UZB,Uzbekistan,URY,Uruguay,2017,train
+11,UZB,Uzbekistan,URY,Uruguay,2018,train
+11,UZB,Uzbekistan,URY,Uruguay,2019,train
+11,UZB,Uzbekistan,URY,Uruguay,2020,train
+11,UZB,Uzbekistan,URY,Uruguay,2021,train
+11,UZB,Uzbekistan,URY,Uruguay,2022,train
+11,UZB,Uzbekistan,URY,Uruguay,2023,train
+11,UZB,Uzbekistan,URY,Uruguay,2024,train
+11,UZB,Uzbekistan,UZB,Uzbekistan,2015,test
+11,UZB,Uzbekistan,UZB,Uzbekistan,2016,test
+11,UZB,Uzbekistan,UZB,Uzbekistan,2017,test
+11,UZB,Uzbekistan,UZB,Uzbekistan,2018,test
+11,UZB,Uzbekistan,UZB,Uzbekistan,2019,test
+11,UZB,Uzbekistan,UZB,Uzbekistan,2020,test
+11,UZB,Uzbekistan,UZB,Uzbekistan,2021,test
+11,UZB,Uzbekistan,UZB,Uzbekistan,2022,test
+11,UZB,Uzbekistan,UZB,Uzbekistan,2023,test
+11,UZB,Uzbekistan,UZB,Uzbekistan,2024,test

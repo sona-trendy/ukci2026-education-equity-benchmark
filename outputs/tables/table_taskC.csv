@@ -1,0 +1,6 @@
+model,rmse_overall,rmse_favoured,rmse_unfav,delta_rmse,abroca_proxy,n_favoured,n_unfavoured
+Ridge_naive,24.574,27.9323,17.6067,-10.3256,0.5579,20,12
+RF_naive,21.9296,25.059,15.3568,-9.7022,0.5738,20,12
+Ridge_reweighted,24.5304,27.8939,17.546,-10.3479,0.56,20,12
+Ridge_adversarial,24.5748,27.9332,17.6072,-10.326,0.5579,20,12
+Ridge_postprocessing,24.581,28.1309,17.0984,-11.0325,0.5893,20,12

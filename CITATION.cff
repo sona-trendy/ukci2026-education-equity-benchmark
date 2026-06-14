@@ -1,0 +1,54 @@
+cff-version: 1.2.0
+message: "If you use this benchmark, please cite it as below."
+type: software
+title: "A Harmonised Open Panel Benchmark for Causal, Fairness-Aware,
+  and Explainable Machine Learning in Educational Equity and SDG 4 Monitoring"
+authors:
+  - family-names: "Hashempour"
+    given-names: "Sona"
+    affiliation: "Loughborough University"
+  - family-names: "Ratcliffe"
+    given-names: "Elizabeth"
+    affiliation: "Loughborough University"
+  - family-names: "Coopman"
+    given-names: "Karen"
+    affiliation: "Loughborough University"
+repository-code: "https://github.com/your-org/ukci2026-education-equity-benchmark"
+license: MIT
+date-released: "2026-06-01"
+version: "1.0.0"
+abstract: >
+  A reproducible 12-country balanced panel dataset (2015–2024)
+  integrating World Bank WDI/WGI and UNESCO UIS data across 17
+  indicators, with a five-task benchmark suite (outcome prediction,
+  trajectory classification, fairness-aware learning, MNAR imputation,
+  causal ML) designed to support SDG 4 monitoring research in the
+  computational intelligence community.
+keywords:
+  - educational equity
+  - SDG 4
+  - causal machine learning
+  - algorithmic fairness
+  - panel data
+  - MNAR imputation
+  - Double Machine Learning
+  - trajectory classification
+  - gender parity index
+  - benchmark dataset
+preferred-citation:
+  type: conference-paper
+  title: "A Harmonised Open Panel Benchmark for Causal, Fairness-Aware,
+    and Explainable Machine Learning in Educational Equity and SDG 4 Monitoring"
+  authors:
+    - family-names: "Hashempour"
+      given-names: "Sona"
+      affiliation: "Loughborough University"
+    - family-names: "Ratcliffe"
+      given-names: "Elizabeth"
+      affiliation: "Loughborough University"
+    - family-names: "Coopman"
+      given-names: "Karen"
+      affiliation: "Loughborough University"
+  collection-title: "Proceedings of the UK Workshop on Computational
+    Intelligence (UKCI 2026)"
+  year: 2026

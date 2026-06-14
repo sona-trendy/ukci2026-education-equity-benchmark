@@ -1,0 +1,30 @@
+# =============================================================
+# requirements.txt
+# UKCI 2026 benchmark pipeline dependencies
+# =============================================================
+
+# Core data
+pandas>=2.0
+numpy>=1.24
+pyarrow>=12.0          # Parquet output (optional but recommended)
+openpyxl>=3.1          # Excel workbook output
+
+# HTTP and config
+requests>=2.28
+pyyaml>=6.0
+
+# Machine learning
+scikit-learn>=1.6
+
+# Causal ML — Task E
+econml>=0.15
+
+# Visualisation
+matplotlib>=3.7
+seaborn>=0.12          # optional — used in some diagnostics
+
+# Optional — Task A
+xgboost>=1.7
+
+# Optional — Table 2 significance stars
+scipy>=1.10

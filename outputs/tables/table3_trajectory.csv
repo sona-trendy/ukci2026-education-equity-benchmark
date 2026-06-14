@@ -1,0 +1,13 @@
+iso3c,country,income_group,label_code,label_name,delta_gini,delta_tert,delta_comp,gini_coverage,label_reason
+URY,Uruguay,High income,AE,Access Expander,-0.1,22.164,0.0,1.0,"ΔTert=+22.2 pp ≥ +2.0 pp  (ΔGini=-0.1 pp, not declining sufficiently)"
+CRI,Costa Rica,High income,EE,Equity Expander,-2.6,3.736,-32.522,1.0,ΔGini=-2.6 pp ≤ -0.5 pp  AND  ΔTert=+3.7 pp ≥ +2.0 pp
+ESP,Spain,High income,EE,Equity Expander,-2.8,5.238,-6.598,0.9,ΔGini=-2.8 pp ≤ -0.5 pp  AND  ΔTert=+5.2 pp ≥ +2.0 pp
+GEO,Georgia,Upper middle income,EE,Equity Expander,-2.6,26.36,-14.148,1.0,ΔGini=-2.6 pp ≤ -0.5 pp  AND  ΔTert=+26.4 pp ≥ +2.0 pp
+IDN,Indonesia,Upper middle income,EE,Equity Expander,-3.3,12.422,-62.276,1.0,ΔGini=-3.3 pp ≤ -0.5 pp  AND  ΔTert=+12.4 pp ≥ +2.0 pp
+THA,Thailand,Upper middle income,IR,Inequality Reducer,-2.7,-0.729,0.0,1.0,"ΔGini=-2.7 pp ≤ -0.5 pp  (ΔTert=-0.7 pp, not expanding sufficiently)"
+UZB,Uzbekistan,Lower middle income,AE,Access Expander,1.7,48.464,8.277,0.4,"ΔTert=+48.5 pp ≥ +2.0 pp  (ΔGini=+1.7 pp, not declining sufficiently)"
+BGD,Bangladesh,Lower middle income,EE,Equity Expander,-1.5,8.156,30.298,0.2,ΔGini=-1.5 pp ≤ -0.5 pp  AND  ΔTert=+8.2 pp ≥ +2.0 pp
+KGZ,Kyrgyz Republic,Lower middle income,EE,Equity Expander,-1.5,6.625,2.758,1.0,ΔGini=-1.5 pp ≤ -0.5 pp  AND  ΔTert=+6.6 pp ≥ +2.0 pp
+BDI,Burundi,Low income,DL,Data-Limited,,0.767,-94.205,0.1,Gini coverage 10% < 20% threshold
+BFA,Burkina Faso,Low income,EE,Equity Expander,-5.6,5.138,5.562,0.4,ΔGini=-5.6 pp ≤ -0.5 pp  AND  ΔTert=+5.1 pp ≥ +2.0 pp
+RWA,Rwanda,Low income,IR,Inequality Reducer,-4.3,1.88,-26.357,0.2,"ΔGini=-4.3 pp ≤ -0.5 pp  (ΔTert=+1.9 pp, not expanding sufficiently)"

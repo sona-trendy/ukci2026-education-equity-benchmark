@@ -1,0 +1,232 @@
+# =============================================================
+# indicators.yml
+#
+# Sources
+# -------
+# wdi    World Bank World Development Indicators (default API)
+# wgi    World Bank Worldwide Governance Indicators (source=75)
+# uis    UNESCO Institute for Statistics REST API
+#        https://api.uis.unesco.org/api/public/documentation/
+#
+# Roles (manuscript Zit notation)
+# --------------------------------
+# Y   primary outcome variable
+# W   policy treatment variable
+# A   protected attribute (fairness axis)
+# X   baseline covariate
+# C   structural context variable (not in core model)
+#
+# clip_min / clip_max
+# -------------------
+# Hard domain constraints applied during preprocessing (3).
+# Use .inf / -.inf for unbounded directions.
+#
+# UIS indicator IDs
+# -----------------
+# Verified against UIS Data Browser (September 2025 release).
+# Key IDs used:
+#   ROFST.H.2   Out-of-school rate, lower-secondary (SDG 4.1.4)
+#   NERA.2      Net enrolment rate, secondary
+#   TRTP        Completion rate, lower secondary
+#   LR.AG15T99  Adult literacy rate 15+
+#   LR.AG15T24  Youth literacy rate 15-24
+#   GPIA.2      GPI of net enrolment, secondary
+#   GPIA.5      GPI of net enrolment, tertiary
+# =============================================================
+
+indicators:
+
+  # ────────────────────────────────────────────────────────
+  # Inequality and poverty  (WDI)
+  # ────────────────────────────────────────────────────────
+
+  gini:
+    source:       wdi
+    code:         SI.POV.GINI
+    label:        Gini index
+    unit:         index 0–100
+    role:         X
+    clip_min:     0.0
+    clip_max:     100.0
+    notes:        "Structural MNAR missingness in low-income tier (4.1)"
+
+  inc_share_low20:
+    source:       wdi
+    code:         SI.DST.FRST.20
+    label:        Income share — lowest 20%
+    unit:         percent
+    role:         X
+    clip_min:     0.0
+    clip_max:     100.0
+
+  poverty_215:
+    source:       wdi
+    code:         SI.POV.DDAY
+    label:        Poverty headcount ($2.15/day PPP)
+    unit:         percent
+    role:         X
+    clip_min:     0.0
+    clip_max:     100.0
+
+  # ────────────────────────────────────────────────────────
+  # Education access and attainment  (UIS primary / WDI fallback)
+  # ────────────────────────────────────────────────────────
+
+  sec_enrol_gross:
+    source:       uis
+    code:         NERT.2.CP
+    bdds_file:    opri
+    wb_fallback:  SE.SEC.ENRR
+    label:        Secondary net enrolment rate
+    unit:         percent
+    role:         X
+    clip_min:     0.0
+    clip_max:     100.0
+    notes:        "Net rate from UIS; WDI fallback is gross rate"
+
+  tert_enrol_gross:
+    source:       wdi
+    code:         SE.TER.ENRR
+    label:        Tertiary gross enrolment rate
+    unit:         percent
+    role:         X
+    clip_min:     0.0
+    clip_max:     100.0
+
+  sec_completion:
+    source:       uis
+    code:         TRTP.1
+    bdds_file:    sdg
+    wb_fallback:  SE.SEC.CMPT.LO.ZS
+    label:        Lower-secondary completion rate
+    unit:         percent
+    role:         Y
+    clip_min:     0.0
+    clip_max:     100.0
+    notes:        "Primary outcome Yit; UIS TRTP preferred over WDI SE.SEC.CMPT.LO.ZS"
+
+  adult_literacy:
+    source:       uis
+    code:         LR.AG15T99
+    bdds_file:    sdg
+    wb_fallback:  SE.ADT.LITR.ZS
+    label:        Adult literacy rate (15+)
+    unit:         percent
+    role:         X
+    clip_min:     0.0
+    clip_max:     100.0
+
+  youth_literacy:
+    source:       uis
+    code:         LR.AG15T24
+    bdds_file:    sdg
+    wb_fallback:  SE.ADT.1524.LT.ZS
+    label:        Youth literacy rate (15–24)
+    unit:         percent
+    role:         X
+    clip_min:     0.0
+    clip_max:     100.0
+
+  # ────────────────────────────────────────────────────────
+  # Gender parity — protected attributes  (UIS primary / WDI fallback)
+  # ────────────────────────────────────────────────────────
+
+  gpi_sec:
+    source:       uis
+    code:         NERT.2.GPIA
+    bdds_file:    opri
+    wb_fallback:  SE.ENR.SECO.FM.ZS
+    label:        GPI — secondary net enrolment
+    unit:         ratio F/M
+    role:         A
+    clip_min:     0.7
+    clip_max:     1.3
+    notes:        "Protected attribute Ait; truncated per 3 pipeline spec"
+
+  gpi_tert:
+    source:       uis
+    code:         GER.2.GPIA
+    bdds_file:    opri
+    wb_fallback:  SE.ENR.TERT.FM.ZS
+    label:        GPI — tertiary gross enrolment
+    unit:         ratio F/M
+    role:         A
+    clip_min:     0.7
+    clip_max:     1.3
+    notes:        "Protected attribute Ait; truncated per 3 pipeline spec"
+
+  # ────────────────────────────────────────────────────────
+  # Policy treatment variable  (WDI)
+  # ────────────────────────────────────────────────────────
+
+  edu_spend_gdp:
+    source:       wdi
+    code:         SE.XPD.TOTL.GD.ZS
+    label:        Government education expenditure (% GDP)
+    unit:         percent of GDP
+    role:         W
+    clip_min:     0.0
+    clip_max:     100.0
+    notes:        "Treatment variable Wit in Task E causal ML"
+
+  # ────────────────────────────────────────────────────────
+  # Macroeconomic context  (WDI)
+  # ────────────────────────────────────────────────────────
+
+  gdp_pc_ppp:
+    source:       wdi
+    code:         NY.GDP.PCAP.PP.KD
+    label:        GDP per capita (PPP 2017 USD)
+    unit:         USD
+    role:         X
+    clip_min:     0.0
+    clip_max:     .inf
+
+  pop_total:
+    source:       wdi
+    code:         SP.POP.TOTL
+    label:        Total population
+    unit:         persons
+    role:         C
+    clip_min:     0.0
+    clip_max:     .inf
+
+  work_age_share:
+    source:       wdi
+    code:         SP.POP.1564.TO.ZS
+    label:        Working-age population share (15–64)
+    unit:         percent
+    role:         X
+    clip_min:     0.0
+    clip_max:     100.0
+
+  # ────────────────────────────────────────────────────────
+  # Governance  (WGI — source=75)
+  # ────────────────────────────────────────────────────────
+
+  gov_effect:
+    source:       wgi
+    code:         GE.EST
+    label:        Government effectiveness (WGI)
+    unit:         z-score
+    role:         X
+    clip_min:     -4.0
+    clip_max:      4.0
+
+  voice_account:
+    source:       wgi
+    code:         VA.EST
+    label:        Voice and accountability (WGI)
+    unit:         z-score
+    role:         X
+    clip_min:     -4.0
+    clip_max:      4.0
+
+  ctrl_corrup:
+    source:       wgi
+    code:         CC.EST
+    label:        Control of corruption (WGI)
+    unit:         z-score
+    role:         X
+    clip_min:     -4.0
+    clip_max:      4.0

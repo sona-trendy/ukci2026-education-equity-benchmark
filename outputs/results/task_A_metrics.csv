@@ -1,0 +1,66 @@
+protocol,fold,model,rmse,mae,r2,n_train,n_test,held_out,held_name
+temporal,—,Ridge,24.6125,16.6088,-0.7989,71,32,,
+temporal,—,RandomForest,22.7784,14.6461,-0.5407,71,32,,
+temporal,—,Naive_Mean,19.4833,10.9106,-0.1272,71,32,,
+temporal,—,Naive_LastObs,16.8235,7.0348,0.1595,71,32,,
+temporal,—,XGBoost,25.5136,15.8651,-0.933,71,32,,
+loco,0,Ridge,38.4712,31.5807,-0.0423,98,5,BDI,Burundi
+loco,0,RandomForest,36.4497,31.0556,0.0643,98,5,BDI,Burundi
+loco,0,Naive_Mean,38.5491,25.2671,-0.0466,98,5,BDI,Burundi
+loco,0,Naive_LastObs,40.0582,38.3006,-0.1301,98,5,BDI,Burundi
+loco,0,XGBoost,37.3339,32.6185,0.0184,98,5,BDI,Burundi
+loco,1,Ridge,42.1062,37.6493,-63.7958,94,9,BFA,Burkina Faso
+loco,1,RandomForest,22.0,19.14,-16.6889,94,9,BFA,Burkina Faso
+loco,1,Naive_Mean,5.5212,3.0444,-0.1141,94,9,BFA,Burkina Faso
+loco,1,Naive_LastObs,20.3975,19.7153,-14.2057,94,9,BFA,Burkina Faso
+loco,1,XGBoost,33.2164,32.433,-39.3235,94,9,BFA,Burkina Faso
+loco,2,Ridge,27.3242,23.3123,-5.1539,94,9,BGD,Bangladesh
+loco,2,RandomForest,21.1623,18.2463,-2.6913,94,9,BGD,Bangladesh
+loco,2,Naive_Mean,29.214,27.058,-6.0346,94,9,BGD,Bangladesh
+loco,2,Naive_LastObs,11.5175,9.2321,-0.0934,94,9,BGD,Bangladesh
+loco,2,XGBoost,22.6869,19.2172,-3.2424,94,9,BGD,Bangladesh
+loco,3,Ridge,31.6432,27.3879,-3.4633,94,9,CRI,Costa Rica
+loco,3,RandomForest,23.2607,17.5572,-1.4118,94,9,CRI,Costa Rica
+loco,3,Naive_Mean,17.4215,13.8044,-0.3529,94,9,CRI,Costa Rica
+loco,3,Naive_LastObs,19.9693,16.2651,-0.7776,94,9,CRI,Costa Rica
+loco,3,XGBoost,24.0166,17.9955,-1.5711,94,9,CRI,Costa Rica
+loco,4,Ridge,28.4476,27.954,-187.199,94,9,ESP,Spain
+loco,4,RandomForest,2.6707,2.3092,-0.6588,94,9,ESP,Spain
+loco,4,Naive_Mean,11.5525,11.3649,-30.0369,94,9,ESP,Spain
+loco,4,Naive_LastObs,31.7674,31.6996,-233.6861,94,9,ESP,Spain
+loco,4,XGBoost,6.3642,6.1123,-8.4192,94,9,ESP,Spain
+loco,5,Ridge,7.8704,7.1364,-1.9604,94,9,GEO,Georgia
+loco,5,RandomForest,6.214,4.3925,-0.8455,94,9,GEO,Georgia
+loco,5,Naive_Mean,10.4843,9.9269,-4.2534,94,9,GEO,Georgia
+loco,5,Naive_LastObs,30.2847,29.9373,-42.8335,94,9,GEO,Georgia
+loco,5,XGBoost,5.6175,4.2861,-0.5082,94,9,GEO,Georgia
+loco,6,Ridge,27.6884,23.195,-0.0577,94,9,IDN,Indonesia
+loco,6,RandomForest,27.2983,19.9832,-0.0281,94,9,IDN,Indonesia
+loco,6,Naive_Mean,27.3536,19.6667,-0.0323,94,9,IDN,Indonesia
+loco,6,Naive_LastObs,31.7957,31.7502,-0.3947,94,9,IDN,Indonesia
+loco,6,XGBoost,26.562,19.4497,0.0266,94,9,IDN,Indonesia
+loco,7,Ridge,20.3428,19.6936,-1356.7138,94,9,KGZ,Kyrgyz Republic
+loco,7,RandomForest,12.3687,12.2961,-500.918,94,9,KGZ,Kyrgyz Republic
+loco,7,Naive_Mean,7.8101,7.7905,-199.1226,94,9,KGZ,Kyrgyz Republic
+loco,7,Naive_LastObs,28.4429,28.4376,-2653.2137,94,9,KGZ,Kyrgyz Republic
+loco,7,XGBoost,9.4148,9.0872,-289.8088,94,9,KGZ,Kyrgyz Republic
+loco,8,Ridge,37.2695,32.2863,-3.5574,94,9,RWA,Rwanda
+loco,8,RandomForest,21.7528,16.0687,-0.5525,94,9,RWA,Rwanda
+loco,8,Naive_Mean,21.8575,15.7995,-0.5675,94,9,RWA,Rwanda
+loco,8,Naive_LastObs,22.4345,16.1122,-0.6513,94,9,RWA,Rwanda
+loco,8,XGBoost,22.3869,17.2411,-0.6443,94,9,RWA,Rwanda
+loco,9,Ridge,24.4984,23.649,-18.2709,94,9,THA,Thailand
+loco,9,RandomForest,29.129,28.4717,-26.2443,94,9,THA,Thailand
+loco,9,Naive_Mean,11.4573,11.2903,-3.2149,94,9,THA,Thailand
+loco,9,Naive_LastObs,30.9667,30.4597,-29.7905,94,9,THA,Thailand
+loco,9,XGBoost,33.7567,31.0187,-35.5887,94,9,THA,Thailand
+loco,10,Ridge,12.7335,12.4709,0.0,95,8,URY,Uruguay
+loco,10,RandomForest,10.1443,9.5851,0.0,95,8,URY,Uruguay
+loco,10,Naive_Mean,12.0401,12.0401,0.0,95,8,URY,Uruguay
+loco,10,Naive_LastObs,32.4327,32.4327,0.0,95,8,URY,Uruguay
+loco,10,XGBoost,11.2908,11.2246,0.0,95,8,URY,Uruguay
+loco,11,Ridge,5.7994,4.7726,-7.2,94,9,UZB,Uzbekistan
+loco,11,RandomForest,4.4655,4.3611,-3.8617,94,9,UZB,Uzbekistan
+loco,11,Naive_Mean,11.1916,11.0068,-29.5373,94,9,UZB,Uzbekistan
+loco,11,Naive_LastObs,31.4381,31.3728,-239.9681,94,9,UZB,Uzbekistan
+loco,11,XGBoost,30.1394,19.8945,-220.4697,94,9,UZB,Uzbekistan

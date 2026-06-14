@@ -1,0 +1,61 @@
+fold,iso3c,country,true_label,pred_label,correct,model
+0,BDI,Burundi,DL,EE,0,Majority_Baseline
+0,BDI,Burundi,DL,AE,0,LogisticRegression
+0,BDI,Burundi,DL,AE,0,LinearSVC
+0,BDI,Burundi,DL,EE,0,RandomForest
+0,BDI,Burundi,DL,EE,0,kNN_k3
+1,BFA,Burkina Faso,EE,EE,1,Majority_Baseline
+1,BFA,Burkina Faso,EE,EE,1,LogisticRegression
+1,BFA,Burkina Faso,EE,DL,0,LinearSVC
+1,BFA,Burkina Faso,EE,EE,1,RandomForest
+1,BFA,Burkina Faso,EE,AE,0,kNN_k3
+2,BGD,Bangladesh,EE,EE,1,Majority_Baseline
+2,BGD,Bangladesh,EE,EE,1,LogisticRegression
+2,BGD,Bangladesh,EE,IR,0,LinearSVC
+2,BGD,Bangladesh,EE,EE,1,RandomForest
+2,BGD,Bangladesh,EE,EE,1,kNN_k3
+3,CRI,Costa Rica,EE,EE,1,Majority_Baseline
+3,CRI,Costa Rica,EE,EE,1,LogisticRegression
+3,CRI,Costa Rica,EE,EE,1,LinearSVC
+3,CRI,Costa Rica,EE,EE,1,RandomForest
+3,CRI,Costa Rica,EE,EE,1,kNN_k3
+4,ESP,Spain,EE,EE,1,Majority_Baseline
+4,ESP,Spain,EE,EE,1,LogisticRegression
+4,ESP,Spain,EE,EE,1,LinearSVC
+4,ESP,Spain,EE,EE,1,RandomForest
+4,ESP,Spain,EE,AE,0,kNN_k3
+5,GEO,Georgia,EE,EE,1,Majority_Baseline
+5,GEO,Georgia,EE,EE,1,LogisticRegression
+5,GEO,Georgia,EE,AE,0,LinearSVC
+5,GEO,Georgia,EE,EE,1,RandomForest
+5,GEO,Georgia,EE,EE,1,kNN_k3
+6,IDN,Indonesia,EE,EE,1,Majority_Baseline
+6,IDN,Indonesia,EE,EE,1,LogisticRegression
+6,IDN,Indonesia,EE,EE,1,LinearSVC
+6,IDN,Indonesia,EE,EE,1,RandomForest
+6,IDN,Indonesia,EE,EE,1,kNN_k3
+7,KGZ,Kyrgyz Republic,EE,EE,1,Majority_Baseline
+7,KGZ,Kyrgyz Republic,EE,EE,1,LogisticRegression
+7,KGZ,Kyrgyz Republic,EE,EE,1,LinearSVC
+7,KGZ,Kyrgyz Republic,EE,EE,1,RandomForest
+7,KGZ,Kyrgyz Republic,EE,EE,1,kNN_k3
+8,RWA,Rwanda,IR,EE,0,Majority_Baseline
+8,RWA,Rwanda,IR,EE,0,LogisticRegression
+8,RWA,Rwanda,IR,EE,0,LinearSVC
+8,RWA,Rwanda,IR,EE,0,RandomForest
+8,RWA,Rwanda,IR,EE,0,kNN_k3
+9,THA,Thailand,IR,EE,0,Majority_Baseline
+9,THA,Thailand,IR,EE,0,LogisticRegression
+9,THA,Thailand,IR,EE,0,LinearSVC
+9,THA,Thailand,IR,EE,0,RandomForest
+9,THA,Thailand,IR,EE,0,kNN_k3
+10,URY,Uruguay,AE,EE,0,Majority_Baseline
+10,URY,Uruguay,AE,EE,0,LogisticRegression
+10,URY,Uruguay,AE,DL,0,LinearSVC
+10,URY,Uruguay,AE,EE,0,RandomForest
+10,URY,Uruguay,AE,EE,0,kNN_k3
+11,UZB,Uzbekistan,AE,EE,0,Majority_Baseline
+11,UZB,Uzbekistan,AE,EE,0,LogisticRegression
+11,UZB,Uzbekistan,AE,AE,1,LinearSVC
+11,UZB,Uzbekistan,AE,EE,0,RandomForest
+11,UZB,Uzbekistan,AE,EE,0,kNN_k3

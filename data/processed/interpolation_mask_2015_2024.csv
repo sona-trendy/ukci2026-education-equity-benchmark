@@ -1,0 +1,121 @@
+iso3c,country,income_group,year,gini,inc_share_low20,poverty_215,sec_enrol_gross,tert_enrol_gross,sec_completion,adult_literacy,youth_literacy,gpi_sec,gpi_tert,edu_spend_gdp,gdp_pc_ppp,pop_total,work_age_share,gov_effect,voice_account,ctrl_corrup
+CRI,Costa Rica,High income,2015,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1
+CRI,Costa Rica,High income,2016,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1
+CRI,Costa Rica,High income,2017,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1
+CRI,Costa Rica,High income,2018,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1
+CRI,Costa Rica,High income,2019,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1
+CRI,Costa Rica,High income,2020,1,1,1,1,0,1,0,0,1,1,1,1,1,1,1,1,1
+CRI,Costa Rica,High income,2021,1,1,1,1,0,1,0,0,1,1,1,1,1,1,1,1,1
+CRI,Costa Rica,High income,2022,1,1,1,1,0,1,0,0,1,1,1,1,1,1,1,1,1
+CRI,Costa Rica,High income,2023,1,1,1,1,0,1,0,0,1,1,1,1,1,1,1,1,1
+CRI,Costa Rica,High income,2024,1,1,1,1,0,1,0,0,1,1,0,1,1,1,0,0,0
+ESP,Spain,High income,2015,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ESP,Spain,High income,2016,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ESP,Spain,High income,2017,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1
+ESP,Spain,High income,2018,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ESP,Spain,High income,2019,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1
+ESP,Spain,High income,2020,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ESP,Spain,High income,2021,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ESP,Spain,High income,2022,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1
+ESP,Spain,High income,2023,1,1,1,1,1,1,0,0,1,1,0,1,1,1,1,1,1
+ESP,Spain,High income,2024,0,0,0,1,1,1,0,0,1,1,0,1,1,1,0,0,0
+URY,Uruguay,High income,2015,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1
+URY,Uruguay,High income,2016,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1
+URY,Uruguay,High income,2017,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+URY,Uruguay,High income,2018,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+URY,Uruguay,High income,2019,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+URY,Uruguay,High income,2020,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+URY,Uruguay,High income,2021,1,1,1,1,1,1,0,1,0,1,1,1,1,1,1,1,1
+URY,Uruguay,High income,2022,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+URY,Uruguay,High income,2023,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+URY,Uruguay,High income,2024,1,1,1,0,0,0,1,1,0,0,0,1,1,1,0,0,0
+GEO,Georgia,Upper middle income,2015,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1
+GEO,Georgia,Upper middle income,2016,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1
+GEO,Georgia,Upper middle income,2017,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+GEO,Georgia,Upper middle income,2018,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+GEO,Georgia,Upper middle income,2019,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+GEO,Georgia,Upper middle income,2020,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+GEO,Georgia,Upper middle income,2021,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+GEO,Georgia,Upper middle income,2022,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1
+GEO,Georgia,Upper middle income,2023,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1
+GEO,Georgia,Upper middle income,2024,1,1,1,1,0,1,1,1,0,1,1,1,1,1,0,0,0
+IDN,Indonesia,Upper middle income,2015,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+IDN,Indonesia,Upper middle income,2016,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+IDN,Indonesia,Upper middle income,2017,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1
+IDN,Indonesia,Upper middle income,2018,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+IDN,Indonesia,Upper middle income,2019,1,1,1,1,1,1,0,0,0,1,1,1,1,1,1,1,1
+IDN,Indonesia,Upper middle income,2020,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1
+IDN,Indonesia,Upper middle income,2021,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1
+IDN,Indonesia,Upper middle income,2022,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1
+IDN,Indonesia,Upper middle income,2023,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1
+IDN,Indonesia,Upper middle income,2024,1,1,1,1,0,1,0,0,0,1,0,1,1,1,0,0,0
+THA,Thailand,Upper middle income,2015,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+THA,Thailand,Upper middle income,2016,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+THA,Thailand,Upper middle income,2017,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1
+THA,Thailand,Upper middle income,2018,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+THA,Thailand,Upper middle income,2019,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+THA,Thailand,Upper middle income,2020,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1
+THA,Thailand,Upper middle income,2021,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1
+THA,Thailand,Upper middle income,2022,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+THA,Thailand,Upper middle income,2023,1,1,1,1,1,1,0,0,0,1,1,1,1,1,1,1,1
+THA,Thailand,Upper middle income,2024,1,1,1,1,1,1,0,0,0,1,0,1,1,1,0,0,0
+BGD,Bangladesh,Lower middle income,2015,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+BGD,Bangladesh,Lower middle income,2016,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+BGD,Bangladesh,Lower middle income,2017,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+BGD,Bangladesh,Lower middle income,2018,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+BGD,Bangladesh,Lower middle income,2019,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+BGD,Bangladesh,Lower middle income,2020,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+BGD,Bangladesh,Lower middle income,2021,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+BGD,Bangladesh,Lower middle income,2022,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+BGD,Bangladesh,Lower middle income,2023,0,0,0,1,1,1,0,0,1,1,1,1,1,1,1,1,1
+BGD,Bangladesh,Lower middle income,2024,0,0,0,1,1,1,0,0,1,1,1,1,1,1,0,0,0
+KGZ,Kyrgyz Republic,Lower middle income,2015,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1
+KGZ,Kyrgyz Republic,Lower middle income,2016,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1
+KGZ,Kyrgyz Republic,Lower middle income,2017,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1
+KGZ,Kyrgyz Republic,Lower middle income,2018,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1
+KGZ,Kyrgyz Republic,Lower middle income,2019,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1
+KGZ,Kyrgyz Republic,Lower middle income,2020,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1
+KGZ,Kyrgyz Republic,Lower middle income,2021,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1
+KGZ,Kyrgyz Republic,Lower middle income,2022,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1
+KGZ,Kyrgyz Republic,Lower middle income,2023,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1
+KGZ,Kyrgyz Republic,Lower middle income,2024,1,1,1,1,1,1,0,0,1,1,0,1,1,1,0,0,0
+UZB,Uzbekistan,Lower middle income,2015,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+UZB,Uzbekistan,Lower middle income,2016,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+UZB,Uzbekistan,Lower middle income,2017,0,0,0,1,1,1,0,0,1,1,1,1,1,1,1,1,1
+UZB,Uzbekistan,Lower middle income,2018,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+UZB,Uzbekistan,Lower middle income,2019,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+UZB,Uzbekistan,Lower middle income,2020,0,0,0,1,1,1,0,0,1,1,1,1,1,1,1,1,1
+UZB,Uzbekistan,Lower middle income,2021,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+UZB,Uzbekistan,Lower middle income,2022,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+UZB,Uzbekistan,Lower middle income,2023,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1
+UZB,Uzbekistan,Lower middle income,2024,1,1,1,1,1,1,0,0,1,1,0,1,1,1,0,0,0
+BDI,Burundi,Low income,2015,0,0,0,1,1,1,0,0,1,1,1,1,1,1,1,1,1
+BDI,Burundi,Low income,2016,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+BDI,Burundi,Low income,2017,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+BDI,Burundi,Low income,2018,0,0,0,1,1,1,0,0,1,1,1,1,1,1,1,1,1
+BDI,Burundi,Low income,2019,0,0,0,1,0,1,0,0,1,1,1,1,1,1,1,1,1
+BDI,Burundi,Low income,2020,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1
+BDI,Burundi,Low income,2021,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1
+BDI,Burundi,Low income,2022,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1
+BDI,Burundi,Low income,2023,0,0,0,0,1,0,0,0,0,1,0,1,1,1,1,1,1
+BDI,Burundi,Low income,2024,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0
+BFA,Burkina Faso,Low income,2015,0,0,0,1,1,1,0,0,1,1,1,1,1,1,1,1,1
+BFA,Burkina Faso,Low income,2016,0,0,0,1,1,1,0,0,1,1,0,1,1,1,1,1,1
+BFA,Burkina Faso,Low income,2017,0,0,0,1,1,1,0,0,1,1,1,1,1,1,1,1,1
+BFA,Burkina Faso,Low income,2018,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+BFA,Burkina Faso,Low income,2019,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+BFA,Burkina Faso,Low income,2020,0,0,0,1,1,1,0,0,1,1,1,1,1,1,1,1,1
+BFA,Burkina Faso,Low income,2021,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+BFA,Burkina Faso,Low income,2022,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+BFA,Burkina Faso,Low income,2023,0,0,0,1,1,1,1,0,1,1,1,1,1,1,1,1,1
+BFA,Burkina Faso,Low income,2024,0,0,0,1,1,1,0,0,1,1,0,1,1,1,0,0,0
+RWA,Rwanda,Low income,2015,0,0,0,1,1,1,0,1,1,1,1,1,1,1,1,1,1
+RWA,Rwanda,Low income,2016,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1
+RWA,Rwanda,Low income,2017,0,0,0,1,1,1,0,0,1,1,1,1,1,1,1,1,1
+RWA,Rwanda,Low income,2018,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+RWA,Rwanda,Low income,2019,0,0,0,1,1,1,0,0,1,1,1,1,1,1,1,1,1
+RWA,Rwanda,Low income,2020,0,0,0,0,1,0,1,1,0,1,1,1,1,1,1,1,1
+RWA,Rwanda,Low income,2021,0,0,0,1,0,1,0,0,1,1,1,1,1,1,1,1,1
+RWA,Rwanda,Low income,2022,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+RWA,Rwanda,Low income,2023,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1
+RWA,Rwanda,Low income,2024,0,0,0,1,1,1,0,0,1,1,1,1,1,1,0,0,0

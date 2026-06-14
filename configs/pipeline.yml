@@ -1,0 +1,80 @@
+# =============================================================
+# pipeline.yml
+# =============================================================
+
+years:
+  min: 2015
+  max: 2024
+
+# ── UNESCO UIS access mode ────────────────────────────────────
+# mode: "api"   — use the UIS REST API (requires subscription key)
+#                 Key must be set in environment variable:
+#                   export UIS_API_KEY="your-key-here"
+#                 Or pass via --uis-key flag when running the script.
+#                 Register at: https://apiportal.uis.unesco.org/
+#
+# mode: "bdds"  — use the UIS Bulk Data Download Service (no key needed).
+#                 Script downloads the SDG 4 + OPRI CSV zip files,
+#                 extracts the relevant indicators, and caches them
+#                 locally under data/raw/uis/.
+#                 Slower first run (~300 MB); subsequent runs use cache.
+#
+# Recommendation: use "api" if you have a key (faster, targeted pulls).
+#                 Use "bdds" if no key is available.
+uis:
+  mode: "api"                    # "api" or "bdds"
+  api_base: "https://api.uis.unesco.org"
+  api_key_env: "UIS_API_KEY"     # env var name holding the subscription key
+  bdds_cache_dir: "data/raw/uis" # relative to project root
+
+  # BDDS release URLs.
+  # Pattern: https://download.uis.unesco.org/bdds/{YYYYMM}/{file}.zip
+  # February 2026 release confirmed at:
+  #   https://download.uis.unesco.org/bdds/202602/SDG.zip
+  #   https://download.uis.unesco.org/bdds/202602/OPRI.zip
+  # To update to a newer release, change the YYYYMM component below.
+  bdds_release: "202602"
+  bdds_sdg_url:  "https://download.uis.unesco.org/bdds/202602/SDG.zip"
+  bdds_opri_url: "https://download.uis.unesco.org/bdds/202602/OPRI.zip"
+
+  # Expected CSV filenames inside the zip archives.
+  # The February 2026 release uses SDG.zip / OPRI.zip with a single
+  # DATA_NATIONAL CSV each. Adjust if a future release changes the layout.
+  bdds_sdg_csv:  "SDG_DATA_NATIONAL.csv"
+  bdds_opri_csv: "OPRI_DATA_NATIONAL.csv"
+
+  timeout: 120
+  max_retries: 4
+
+# ── World Bank API settings ───────────────────────────────────
+worldbank:
+  base: "https://api.worldbank.org/v2"
+  batch_size: 30        # safe for WGI source=75 (rejects >~30)
+  per_page: 10000
+  sleep: 0.5            # slightly longer between requests to reduce timeout risk
+  timeout: 90           # raised from 30 — WB API can be slow on large batches
+  max_retries: 6        # raised from 4 — more retries for flaky connections
+  # ISO2 supplement for WGI source=75 lookup gap
+  iso2_supplement:
+    XK: XKX    # Kosovo
+    PS: PSE    # West Bank and Gaza
+    TW: TWN    # Taiwan
+
+# ── Coverage matrix settings ──────────────────────────────────
+coverage:
+  # Minimum share of indicators with ANY data for a country to receive
+  # an overall_coverage score. Below this, score is suppressed to NaN.
+  # Prevents countries with 2/17 indicators from ranking alongside
+  # countries with complete data.
+  min_indicator_share: 0.60   # floor = 10/17 = 0.588
+
+# ── Country selection ─────────────────────────────────────────
+selection:
+  # Number of countries to select per World Bank income tier
+  countries_per_tier: 3
+  # Income tiers in canonical order
+  tiers:
+    - "High income"
+    - "Upper middle income"
+    - "Lower middle income"
+    - "Low income"

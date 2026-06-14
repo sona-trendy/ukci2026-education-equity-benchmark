@@ -1,0 +1,19 @@
+\begin{table}[htbp]
+\centering
+\caption{Task D --- MNAR imputation benchmark. RMSE evaluated on $30\%$ of observed Gini, income-share, and poverty values masked at random (seed=42). Income-Group Mean and GDP Regression target the structural MNAR gap (countries with all values missing).}
+\label{tab:taskD}
+\begin{tabular}{lrrrrrr}
+\toprule
+Method & RMSE$_{\text{all}}$ & MAE$_{\text{all}}$ & RMSE$_{\text{Gini}}$ & RMSE$_{\text{Inc}}$ & RMSE$_{\text{Pov}}$ & $n$ \\
+\midrule
+Mean & 6.648 & 4.315 & 5.551 & 1.617 & 9.959 & 66 \\
+Median & 6.557 & 3.665 & 5.641 & 1.620 & 9.723 & 66 \\
+ForwardFill & 0.949 & 0.598 & 0.847 & 0.201 & 1.394 & 66 \\
+LinearInterp & 0.788 & 0.488 & 0.787 & 0.153 & 1.105 & 66 \\
+KNN\_k5 & 2.700 & 1.444 & 3.311 & 1.236 & 3.062 & 66 \\
+MICE & 4.283 & 2.692 & 2.329 & 0.554 & 7.021 & 66 \\
+IncomeGroupMean & 3.157 & 2.152 & 3.480 & 0.810 & 4.139 & 66 \\
+GDPRegression & 5.115 & 3.483 & 5.318 & 1.336 & 6.958 & 66 \\
+\bottomrule
+\end{tabular}
+\end{table}

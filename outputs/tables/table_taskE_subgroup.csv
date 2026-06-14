@@ -1,0 +1,7 @@
+subgroup,n,mean_cate,cate_lower,cate_upper
+Trajectory: EE,57,1.6329,1.1849,2.0701
+Trajectory: AE,16,1.7031,1.2676,2.1566
+Trajectory: IR,17,0.0914,-0.3441,0.6362
+Trajectory: DL,5,2.0196,1.3837,2.4942
+GPI: favoured,49,1.49,1.025,2.0184
+GPI: unfavoured,46,1.2819,0.938,1.5892

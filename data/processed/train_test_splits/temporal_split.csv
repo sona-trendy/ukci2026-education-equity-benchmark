@@ -1,0 +1,121 @@
+iso3c,country,year,split
+BDI,Burundi,2015,train
+BDI,Burundi,2016,train
+BDI,Burundi,2017,train
+BDI,Burundi,2018,train
+BDI,Burundi,2019,train
+BDI,Burundi,2020,train
+BDI,Burundi,2021,train
+BDI,Burundi,2022,test
+BDI,Burundi,2023,test
+BDI,Burundi,2024,test
+BFA,Burkina Faso,2015,train
+BFA,Burkina Faso,2016,train
+BFA,Burkina Faso,2017,train
+BFA,Burkina Faso,2018,train
+BFA,Burkina Faso,2019,train
+BFA,Burkina Faso,2020,train
+BFA,Burkina Faso,2021,train
+BFA,Burkina Faso,2022,test
+BFA,Burkina Faso,2023,test
+BFA,Burkina Faso,2024,test
+BGD,Bangladesh,2015,train
+BGD,Bangladesh,2016,train
+BGD,Bangladesh,2017,train
+BGD,Bangladesh,2018,train
+BGD,Bangladesh,2019,train
+BGD,Bangladesh,2020,train
+BGD,Bangladesh,2021,train
+BGD,Bangladesh,2022,test
+BGD,Bangladesh,2023,test
+BGD,Bangladesh,2024,test
+CRI,Costa Rica,2015,train
+CRI,Costa Rica,2016,train
+CRI,Costa Rica,2017,train
+CRI,Costa Rica,2018,train
+CRI,Costa Rica,2019,train
+CRI,Costa Rica,2020,train
+CRI,Costa Rica,2021,train
+CRI,Costa Rica,2022,test
+CRI,Costa Rica,2023,test
+CRI,Costa Rica,2024,test
+ESP,Spain,2015,train
+ESP,Spain,2016,train
+ESP,Spain,2017,train
+ESP,Spain,2018,train
+ESP,Spain,2019,train
+ESP,Spain,2020,train
+ESP,Spain,2021,train
+ESP,Spain,2022,test
+ESP,Spain,2023,test
+ESP,Spain,2024,test
+GEO,Georgia,2015,train
+GEO,Georgia,2016,train
+GEO,Georgia,2017,train
+GEO,Georgia,2018,train
+GEO,Georgia,2019,train
+GEO,Georgia,2020,train
+GEO,Georgia,2021,train
+GEO,Georgia,2022,test
+GEO,Georgia,2023,test
+GEO,Georgia,2024,test
+IDN,Indonesia,2015,train
+IDN,Indonesia,2016,train
+IDN,Indonesia,2017,train
+IDN,Indonesia,2018,train
+IDN,Indonesia,2019,train
+IDN,Indonesia,2020,train
+IDN,Indonesia,2021,train
+IDN,Indonesia,2022,test
+IDN,Indonesia,2023,test
+IDN,Indonesia,2024,test
+KGZ,Kyrgyz Republic,2015,train
+KGZ,Kyrgyz Republic,2016,train
+KGZ,Kyrgyz Republic,2017,train
+KGZ,Kyrgyz Republic,2018,train
+KGZ,Kyrgyz Republic,2019,train
+KGZ,Kyrgyz Republic,2020,train
+KGZ,Kyrgyz Republic,2021,train
+KGZ,Kyrgyz Republic,2022,test
+KGZ,Kyrgyz Republic,2023,test
+KGZ,Kyrgyz Republic,2024,test
+RWA,Rwanda,2015,train
+RWA,Rwanda,2016,train
+RWA,Rwanda,2017,train
+RWA,Rwanda,2018,train
+RWA,Rwanda,2019,train
+RWA,Rwanda,2020,train
+RWA,Rwanda,2021,train
+RWA,Rwanda,2022,test
+RWA,Rwanda,2023,test
+RWA,Rwanda,2024,test
+THA,Thailand,2015,train
+THA,Thailand,2016,train
+THA,Thailand,2017,train
+THA,Thailand,2018,train
+THA,Thailand,2019,train
+THA,Thailand,2020,train
+THA,Thailand,2021,train
+THA,Thailand,2022,test
+THA,Thailand,2023,test
+THA,Thailand,2024,test
+URY,Uruguay,2015,train
+URY,Uruguay,2016,train
+URY,Uruguay,2017,train
+URY,Uruguay,2018,train
+URY,Uruguay,2019,train
+URY,Uruguay,2020,train
+URY,Uruguay,2021,train
+URY,Uruguay,2022,test
+URY,Uruguay,2023,test
+URY,Uruguay,2024,test
+UZB,Uzbekistan,2015,train
+UZB,Uzbekistan,2016,train
+UZB,Uzbekistan,2017,train
+UZB,Uzbekistan,2018,train
+UZB,Uzbekistan,2019,train
+UZB,Uzbekistan,2020,train
+UZB,Uzbekistan,2021,train
+UZB,Uzbekistan,2022,test
+UZB,Uzbekistan,2023,test
+UZB,Uzbekistan,2024,test

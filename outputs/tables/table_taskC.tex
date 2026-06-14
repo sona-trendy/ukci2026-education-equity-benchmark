@@ -1,0 +1,16 @@
+\begin{table}[htbp]
+\centering
+\caption{Task C — Fairness-aware prediction results (temporal split; protected attribute = secondary GPI). $\Delta$-RMSE $= $ RMSE\textsubscript{unfav} $-$ RMSE\textsubscript{fav}; ABROCA proxy = $|\Delta\text{-RMSE}|$ / pooled error SD. GPI groups split at training-set median. Note: ABROCA estimates at $n \approx 24$ test observations are indicative only (cf.\ Borchers \& Baker, LAK 2025).}
+\label{tab:taskC}
+\begin{tabular}{lrrrrc}
+\toprule
+Model & RMSE & RMSE$_F$ & RMSE$_U$ & $\Delta$-RMSE & ABROCA proxy \\
+\midrule
+Ridge\_naive & 24.574 & 27.932 & 17.607 & -10.326 & 0.558 \\
+RF\_naive & 21.930 & 25.059 & 15.357 & -9.702 & 0.574 \\
+Ridge\_reweighted & 24.530 & 27.894 & 17.546 & -10.348 & 0.560 \\
+Ridge\_adversarial & 24.575 & 27.933 & 17.607 & -10.326 & 0.558 \\
+Ridge\_postprocessing & 24.581 & 28.131 & 17.098 & -11.033 & 0.589 \\
+\bottomrule
+\end{tabular}
+\end{table}
